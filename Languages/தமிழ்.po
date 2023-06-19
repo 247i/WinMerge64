@@ -6,16 +6,16 @@
 # * Jesús M. Delgado 'MacK' <nncsoft at yahoo.com>
 # * Mario Angel <marioangel70 at gmail.com>
 # * Nelson Ariza <njarizas at hotmail.com>
-#
+# * தமிழ்நேரம் <https://TamilNeram.github.io>
 msgid ""
 msgstr ""
 "Project-Id-Version: WinMerge\n"
 "Report-Msgid-Bugs-To: https://bugs.winmerge.org/\n"
 "POT-Creation-Date: 2020-03-28 08:32+0000\n"
 "PO-Revision-Date: 2022-07-30 09:29-0500\n"
-"Last-Translator: Mario Angel <marioangel70 at gmail.com>\n"
-"Language-Team: Spanish <winmerge-translate@lists.sourceforge.net>\n"
-"Language: es_419\n"
+"Last-Translator: தமிழ் நேரம் \n"
+"Language-Team: தமிழ்நேரக்குழு <https://TamilNeram.github.io>\n"
+"Language: ta_449\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -26,7 +26,7 @@ msgstr ""
 
 #. LANGUAGE, SUBLANGUAGE
 msgid "LANG_ENGLISH, SUBLANG_ENGLISH_US"
-msgstr "LANG_SPANISH, SUBLANG_SPANISH_MODERN"
+msgstr "LANG_TAMIL, SUBLANG_TAMIL_IN"
 
 msgid "Copy to Middle"
 msgstr "Copiar a la Mitad"
@@ -936,9 +936,6 @@ msgstr "Copiar nombres de &archivos"
 msgid "Copy Items To Clip&board"
 msgstr "Copiar Elementos al Portapapeles"
 
-msgid "Copy All Di&splayed Columns"
-msgstr ""
-
 msgid "&Zip"
 msgstr "&Zip"
 
@@ -1032,7 +1029,7 @@ msgstr "Ignorar numeros"
 msgid "Ignore c&omment differences"
 msgstr "Ignorar diferencias en comentarios"
 
-msgid "&Include subfolders"
+msgid "&Include Subfolders"
 msgstr "&Incluir subcarpetas"
 
 msgid "&Compare method:"
@@ -1155,17 +1152,14 @@ msgstr "Preguntar al cerrar &múltiples ventanas"
 msgid "&Preserve file time in file compare"
 msgstr "Mantener la hora en el archivo com&parado"
 
-msgid "Show \"Select Files or Folders\" dialog on startup"
+msgid "Show \"Select Files or Folders\" Dialog on Startup"
 msgstr "Mostrar \"Seleccione Archivos o Carpetas\" al Iniciar"
 
-msgid "Close \"Select Files or Folders\" dialog on clicking Compare button"
+msgid "Close \"Select Files or Folders\" Dialog on clicking Compare button"
 msgstr "Cerrar \"Seleccione Archivos o Carpetas\" al hacer clic en Comparar"
 
 msgid "Op&en-dialog Auto-Completion:"
 msgstr "A&uto-completar en diálogos de apertura:"
-
-msgid "Auto-&reload modified files:"
-msgstr ""
 
 msgid "Language:"
 msgstr "Idioma:"
@@ -1934,14 +1928,11 @@ msgstr "Integración"
 msgid "Explorer"
 msgstr "Explorador"
 
-msgid "&Add to context menu"
-msgstr "&Agregar al menú contextual"
-
 msgid "E&nable advanced menu"
 msgstr "Habilitar menú ava&nzado"
 
-msgid "Enable &Compare As menu"
-msgstr ""
+msgid "&Add to context menu"
+msgstr "&Agregar al menú contextual"
 
 msgid "&Register shell extension"
 msgstr "&Registrar extensión de shell"
@@ -1977,7 +1968,7 @@ msgstr "&Incluir contenidos únicos de subcarpetas"
 msgid "&Automatically expand all subfolders"
 msgstr "Expandir &automáticamente todas las subcarpetas"
 
-msgid "Ignore &reparse points"
+msgid "Ignore &Reparse Points"
 msgstr "Ignora&r y volver a analizar puntos"
 
 msgid "Threshold for switching to &quick compare (MB):"
@@ -1989,17 +1980,23 @@ msgstr "Limite para cambiarse a comparación binaria (MB)"
 msgid "&Number of CPU cores to use:"
 msgstr ""
 
-msgid "File patterns:"
-msgstr "Patrones de Archivo:"
+msgid "&CSV File Patterns:"
+msgstr "Patrones Archiv &CSV"
+
+msgid "&TSV File Patterns:"
+msgstr "Patrones Archiv &TSV"
 
 msgid "Custom Delimiter-Separated Values"
 msgstr "Separador Personalizado de Valores"
+
+msgid "File Patterns:"
+msgstr "Patrones de Archivo:"
 
 msgctxt "Options dialog|Categories"
 msgid "Binary"
 msgstr "Binario"
 
-msgid "Binary file &patterns:"
+msgid "Binary File &Patterns:"
 msgstr "&Patrones de archivo binario:"
 
 msgid "Frhed settings"
@@ -2017,7 +2014,7 @@ msgstr "&Conjunto de Caracteres..."
 msgid "Image"
 msgstr "Imagen"
 
-msgid "Image file &patterns:"
+msgid "Image File &Patterns:"
 msgstr "&Patrones de archivo de imagen:"
 
 msgid "&Enable image compare in folder compare"
@@ -3722,164 +3719,161 @@ msgstr "WSH no encontrado - scripts .sct deshabilitados"
 
 #, c-format
 msgid "G&o to Line %1"
-msgstr "Ir a &línea %1"
+msgstr "&வரி %1க்குச் செல்"
 
 msgid "Go to Moved Line\tCtrl+Shift+G"
-msgstr ""
+msgstr "நகர்த்தப்பட்ட வரிக்கு செல்க\tCtrl+Shift+G"
 
 msgid "Disabled"
-msgstr "Deshabilitado"
+msgstr "முடக்கப்பட்டது"
 
 msgid "From file system"
-msgstr "Del sistema de archivos"
+msgstr "கோப்பு அமைப்பிலிருந்து"
 
 msgid "From Most Recently Used list"
-msgstr "De la lista MRU"
+msgstr "மிக சமீபத்தில் பயன்படுத்தப்பட்ட பட்டியலில் இருந்து"
 
 msgid "No Highlighting"
-msgstr "No Seleccionado"
+msgstr "ஹைலைட் செய்யவில்லை"
 
 msgid "Batch"
-msgstr "Batch"
+msgstr "தொகுதி"
 
 msgid "Portable Object"
-msgstr "Portable Object"
+msgstr "கையடக்க பொருள்"
 
 msgid "Resources"
-msgstr "Resources"
+msgstr "வளங்கள்"
 
 msgid "Shell"
-msgstr "Shell"
+msgstr "ஷெல்"
 
 msgid "Close &Left Tabs"
-msgstr "Cerrar Pestañas de la Izquierda"
+msgstr "இடது தாவல்களை மூடு"
 
 msgid "Close R&ight Tabs"
-msgstr "Cerrar Pestañas de la Derecha"
+msgstr "வலது தாவல்களை மூடு"
 
 msgid "Close &Other Tabs"
-msgstr "Cerrar Demas Pestañas"
+msgstr "மற்ற தாவல்களை மூடு"
 
 msgid "Enable &Auto Max Width"
-msgstr "Habilitar Ancho Máximo &Automático"
+msgstr "தானியங்கு &அதிகபட்ச அகலத்தை இயக்கு"
 
 msgid "We&bpage"
-msgstr "We&bpage"
-
-msgid "W&rap Text"
-msgstr ""
+msgstr "வலைப்பக்கம்"
 
 msgid "Frhed is not installed."
-msgstr "Frhed no está instalado."
+msgstr "Frhed நிறுவப்படவில்லை."
 
 #, c-format
 msgid "%1 does not exist. Do you want to create it?"
-msgstr "%1 no existe. ¿Quieres crearlo?"
+msgstr "%1 இல்லை. அதை உருவாக்க விரும்புகிறீர்களா?"
 
 msgid "Failed to create folder."
-msgstr "Error al crear la carpeta."
+msgstr "கோப்புறையை உருவாக்குவதில் தோல்வி."
 
 msgid ""
 "You can specify the following parameters to the path:\n"
 "$file: Path name of the current file\n"
 "$linenum: Line number of the current cursor position"
 msgstr ""
-"Puede especificar los siguientes parámetros para la ruta:\n"
-"$file: nombre de ruta del archivo actual\n"
-"$linenum: número de línea de la posición actual del cursor"
+"பாதைக்கு பின்வரும் அளவுருக்களை நீங்கள் குறிப்பிடலாம்:\n"
+"$file: தற்போதைய கோப்பின் பாதை பெயர்\n"
+"$linenum: தற்போதைய கர்சர் நிலையின் வரி எண்"
 
 msgid "default"
-msgstr "predeterminado"
+msgstr "இயல்புநிலை"
 
 msgid "minimal"
-msgstr "mínimo"
+msgstr "குறைந்தபட்சம்"
 
 msgid "patience"
-msgstr "paciente"
+msgstr "பொறுமை"
 
 msgid "histogram"
-msgstr "histograma"
+msgstr "ஹிஸ்டோகிராம்"
 
 msgid "none"
-msgstr "ninguno/a"
+msgstr "இல்லை"
 
 msgid "GDI"
-msgstr ""
+msgstr "ஜிடிஐ"
 
 msgid "DirectWrite Default"
-msgstr ""
+msgstr "நேரடிஎழுத்து இயல்புநிலை"
 
 msgid "DirectWrite Aliased"
-msgstr ""
+msgstr "நேரடிஎழுத்து அலியாஸ்டு"
 
 msgid "DirectWrite GDI Classic"
-msgstr ""
+msgstr "நேரடிஎழுத்து ஜிடிஐ கிளாசிக்"
 
 msgid "DirectWrite GDI Natural"
-msgstr ""
+msgstr "நேரடிஎழுத்து ஜிடிஐ இயற்கை"
 
 msgid "DirectWrite Natural"
-msgstr ""
+msgstr "நேரடிஎழுத்து இயற்கை"
 
 msgid "DirectWrite Natural Symmetric"
-msgstr ""
+msgstr "நேரடிஎழுத்து இயற்கை சமச்சீர்"
 
 msgid "MDI child window or main window"
-msgstr "Ventana secundaria MDI o ventana principal"
+msgstr "MDI குழந்தை சாளரம் அல்லது முக்கிய சாளரம்"
 
 msgid "MDI child window only"
-msgstr "Ventana secundaria MDI únicamente"
+msgstr "MDI குழந்தை சாளரம் மட்டும்"
 
 msgid "Close main window if there is only one MDI child window"
-msgstr "Cerrar ventana principal si solo hay una una ventana hija MDI"
+msgstr "ஒரே ஒரு MDI குழந்தை சாளரம் இருந்தால் பிரதான சாளரத்தை மூடு"
 
 msgctxt "ImgMergeFrame|LocationPane"
 msgid "Diff"
-msgstr "Diff"
+msgstr "வேறுபாடு"
 
 msgctxt "ImgMergeFrame|LocationPane"
 msgid "Highlight"
-msgstr "Resaltado"
+msgstr "உயர்படுத்தப்பட்டது"
 
 msgctxt "ImgMergeFrame|LocationPane"
 msgid "Blink"
-msgstr "Parpadeo"
+msgstr "சிமிட்டல்"
 
 msgctxt "ImgMergeFrame|LocationPane"
 msgid "Block Size"
-msgstr "Tamaño del Bloque"
+msgstr "தடு அளவு"
 
 msgctxt "ImgMergeFrame|LocationPane"
 msgid "Block Alpha"
-msgstr "Transparencia del Bloque"
+msgstr "வெளிப்படைத்தன்மையைத் தடு"
 
 msgctxt "ImgMergeFrame|LocationPane"
 msgid "CD Threshold"
-msgstr "Limite DC"
+msgstr "சிடி வரம்பு"
 
 msgctxt "ImgMergeFrame|LocationPane"
 msgid "Ins/Del Detection"
-msgstr "Detectar Ins/Borrar"
+msgstr "சொருகு/நீக்கு கண்டறிதல்"
 
 msgctxt "ImgMergeFrame|LocationPane"
 msgid "None"
-msgstr "Ninguno"
+msgstr "இல்லை"
 
 msgctxt "ImgMergeFrame|LocationPane"
 msgid "Vertical"
-msgstr "Vertical"
+msgstr "செங்குத்து"
 
 msgctxt "ImgMergeFrame|LocationPane"
 msgid "Horizontal"
-msgstr "Horizontal"
+msgstr "நிலப்பரப்பு"
 
 msgctxt "ImgMergeFrame|LocationPane"
 msgid "Overlay"
-msgstr "Sobrepuesto"
+msgstr "மேற்பரப்பு"
 
 msgctxt "ImgMergeFrame|LocationPane"
 msgid "Alpha"
-msgstr "Alfa"
+msgstr "ஆல்பா"
 
 msgctxt "ImgMergeFrame|LocationPane"
 msgid "XOR"
@@ -3887,291 +3881,253 @@ msgstr "XOR"
 
 msgctxt "ImgMergeFrame|LocationPane"
 msgid "Alpha Blend"
-msgstr "Transparencia Alfa"
+msgstr "ஆல்ஃபா கலவை"
 
 msgctxt "ImgMergeFrame|LocationPane"
 msgid "Alpha Animation"
-msgstr "Animation Alfa"
+msgstr "ஆல்ஃபா அனிமேஷன்"
 
 msgctxt "ImgMergeFrame|LocationPane"
 msgid "Zoom"
-msgstr "Zoom"
+msgstr "பெரிதாக்கு"
 
 msgctxt "ImgMergeFrame|LocationPane"
 msgid "Page:"
-msgstr "Pagina:"
+msgstr "பக்கம்:"
 
 #, c-format
 msgid "Pt: (%d, %d)  RGBA: (%d, %d, %d, %d)  "
-msgstr ""
+msgstr "Pt: (%d, %d) RGBA: (%d, %d, %d, %d) "
 
 #, c-format
 msgid "Dist: %g  "
-msgstr ""
+msgstr "மாவட்டம்: %g"
 
 #, c-format
 msgid "Dist: %g, %g  "
-msgstr ""
+msgstr "மாவட்டம்: %g, %g  "
 
 #, c-format
 msgid "Page: %d/%d  Zoom: %d%%  %dx%dpx  %dbpp  "
-msgstr ""
+msgstr "பக்கம்: %d/%d பெரிதாக்கு: %d%% %dx%dpx %dbpp  "
 
 #, c-format
 msgid "Rc: (%d, %d)  "
-msgstr ""
+msgstr "Rc: (%d, %d) "
 
 #, c-format
 msgid "Flipped: %s  "
-msgstr "Invertida: %s "
+msgstr "புரட்டப்பட்டது: %s  "
 
 #, c-format
 msgid "Rotated: %d  "
-msgstr "Rotada: %d "
+msgstr "சுழற்றப்பட்டது: %d  "
 
 msgid "All pages"
-msgstr "Todas las páginas"
+msgstr "அனைத்து பக்கங்களும்"
 
 msgid "<Edit here>"
-msgstr "<Editar aca>"
+msgstr "<இங்கே திருத்து>"
 
 msgid "No differences to select found"
-msgstr "No se encontrar diferencias a seleccionar"
+msgstr "தேர்ந்தெடுக்க வேறுபாடுகள் இல்லை"
 
 msgid "No differences found to add as substitution filter"
-msgstr "No se encontraron diferencias para agregarlas al filtro de sustitución"
+msgstr "மாற்று வடிப்பானாக சேர்க்க வேறுபாடுகள் எதுவும் இல்லை"
 
 msgid "The pair is already present in the list of Substitution Filters"
-msgstr "La pareja ya esta presente in la lista de Filtros de Sustitución"
+msgstr "இந்த இணை ஏற்கனவே மாற்று வடிப்பான்களின் பட்டியலில் உள்ளது"
 
 msgid "Add this change to Substitution Filters?"
-msgstr "Agregar este cambio a los Filtros de Substitución?"
+msgstr "இந்த மாற்றத்தை மாற்று வடிப்பான்களில் சேர்க்கவா?"
 
 msgid "Text only"
-msgstr "Texto únicamente"
+msgstr "உரை மட்டும்"
 
 msgid "Line-by-line position and text"
-msgstr "Posicionamiento y texto Renglon-por-Renglon"
+msgstr "வரிக்கு-வரி நிலை மற்றும் உரை"
 
 msgid "Word-by-word position and text"
-msgstr "Posicionamiento y texto Palabra-por-Palabra"
+msgstr "வார்த்தைக்கு வார்த்தை நிலை மற்றும் உரை"
 
 msgid "AppData folder"
-msgstr ""
+msgstr "AppData கோப்புறை"
 
 msgid "Install folder"
-msgstr "Folder de instalación"
+msgstr "நிறுவல் கோப்புறை"
 
 msgid "Allow only one instance to run"
-msgstr "Permitir solo una instancia en ejecución"
+msgstr "ஒரே ஒரு நிகழ்வை இயக்க அனுமதி"
 
 msgid "Allow only one instance to run and wait for the instance to terminate"
-msgstr "Permitir únicamente una instancia en ejecución y esperar a que termine ejecución"
-
-msgid "Only on window activated"
-msgstr ""
-
-msgid "Immediately"
-msgstr ""
+msgstr "ஒரே ஒரு நிகழ்வை இயக்க அனுமதிக்கவும் மற்றும் நிகழ்வு முடிவடையும் வரை காத்திருக்கவும்"
 
 msgid "Al&l"
-msgstr ""
+msgstr "அல்&எல்"
+
+msgid "Prettification"
+msgstr "அழகானமாக்கல்"
+
+msgid "Content Extraction"
+msgstr "உள்ளடக்கம் பிரித்தெடுத்தல்"
+
+msgid "Visualization"
+msgstr "காட்சிப்படுத்தல்"
+
+msgid "Data Query"
+msgstr "தரவு வினவல்"
+
+msgid "Validation"
+msgstr "சரிபார்ப்பு"
+
+msgid "Decompilation"
+msgstr "தொகுப்பு"
 
 msgid "&Others"
-msgstr "&Otros"
+msgstr "&மற்றவை"
+
+msgid "URL Handling"
+msgstr "URL கையாளுதல்"
+
+msgid "Make Uppercase"
+msgstr "பெரிய எழுத்தை உருவாக்கு"
+
+msgid "Make Lowercase"
+msgstr "சிறிய எழுத்தை உருவாக்கு"
+
+msgid "Remove Duplicate Lines"
+msgstr "நகல் வரிகளை அகற்று"
+
+msgid "Count Duplicate Lines"
+msgstr "நகல் வரிகளை எண்ணு"
+
+msgid "Sort Lines Ascending"
+msgstr "வரிசைகளை ஏறும்வகையில் வரிசைப்படுத்து"
+
+msgid "Sort Lines Descending"
+msgstr "வரிகளை கீழ்நோக்கி வரிசைப்படுத்து"
+
+msgid "Reverse Columns"
+msgstr "தலைகீழ் நெடுவரிசைகள்"
+
+msgid "Reverse Lines"
+msgstr "தலைகீழ் வரிகள்"
+
+msgid "Replace..."
+msgstr "மாற்று..."
+
+msgid "Apply Filter Command..."
+msgstr "வடிப்பான் கட்டளையைப் பயன்படுத்து..."
+
+msgid "Tokenize..."
+msgstr "டோக்கனைஸ்..."
+
+msgid "Trim Spaces"
+msgstr "இடங்களை ஒழுங்கமைக்கவும்"
+
+msgid "Select Columns..."
+msgstr "நெடுவரிசைகளைத் தேர்ந்தெடு..."
+
+msgid "Select Lines..."
+msgstr "வரிகளைத் தேர்ந்தெடு..."
+
+msgid "Insert Date"
+msgstr "தேதியைச் செருகு"
+
+msgid "Insert Time"
+msgstr "நேரத்தைச் செருகு"
+
+msgid "Apply Patch..."
+msgstr "பேட்சைப் பயன்படுத்து..."
+
+msgid "Ignore Columns"
+msgstr "நெடுவரிசைகளை புறக்கணி"
+
+msgid "Ignore Comments (C-Family Languages)"
+msgstr "கருத்துகளை புறக்கணிக்கவும் (C-குடும்ப மொழிகள்)"
+
+msgid "Ignore CSV Fields"
+msgstr "CSV புலங்களை புறக்கணிக்கவும்"
+
+msgid "Ignore TSV Fields"
+msgstr "TSV புலங்களை புறக்கணிக்கவும்"
+
+msgid "Apply Prediff Substitution Filters"
+msgstr "ப்ரீடிஃப் மாற்று வடிப்பான்களைப் பயன்படுத்து"
+
+msgid "Prettify HTML"
+msgstr "வடிவமைப்பு HTML"
+
+msgid "Prettify JSON"
+msgstr "வடிவமைப்பு JSON"
+
+msgid "Prettify XML"
+msgstr "வடிவமைப்பு XML"
+
+msgid "Prettify YAML"
+msgstr "வடிவமைப்பு YAML"
+
+msgid "Visualize Graphviz"
+msgstr "கிராப்விஸை காட்சிப்படுத்து"
+
+msgid "Query CSV Data..."
+msgstr "CSV தரவை வினவல்..."
+
+msgid "Query TSV Data..."
+msgstr "டிஎஸ்வி தரவை வினவல்..."
+
+msgid "Query JSON Data..."
+msgstr "JSON தரவை வினவல்..."
+
+msgid "Query YAML Data..."
+msgstr "YAML தரவை வினவவும்..."
+
+msgid "Validate HTML"
+msgstr "HTML ஐ சரிபார்க்கவும்"
+
+msgid "Disassemble JVM Bytecode"
+msgstr "ஜேவிஎம் பைட்கோடை பிரித்தெடுக்கவும்"
+
+msgid "Disassemble IL Code"
+msgstr "ஐஎல் குறியீட்டை பிரிக்கவும்"
+
+msgid "Disassemble Native Code"
+msgstr "நேட்டிவ் குறியீட்டை பிரிக்கவும்"
 
 #, c-format
 msgid "Missing plugin name in plugin pipeline: %1"
-msgstr "Nombre de plugin faltante en el pipeline: %1"
+msgstr "சொருகி பைப்லைனில் சொருகி பெயர் காணவில்லை: %1"
 
 #, c-format
 msgid "Missing quotation mark in plugin pipeline: %1"
-msgstr "Comilla faltante en el pipeline: %1"
+msgstr "சொருகி பைப்லைனில் மேற்கோள் குறி காணவில்லை: %1"
 
 msgid "Specify plugin arguments"
-msgstr "Especifique argumentos de plugin"
-
-msgid "Filter applied"
-msgstr "Filtro aplicado"
-
-#, c-format
-msgid "Clipboard at %s"
-msgstr "Portapapeles en %s"
-
-msgid ""
-"Clipboard history is disabled.\r\n"
-"To enable clipboard history, press Windows logo key + V and then click the Turn on button."
-msgstr ""
-"Historia de Portapapeles esta deshabilitado.\r\n"
-"Para habilitarlo, presione la teccla Windows + V y luego presione el botón Turn on."
-
-msgid "This system does not support clipboard history."
-msgstr "Este sistema no soporta historial de portapeles"
-
-msgid "The 32-bit version of WinMerge does not support Clipboard Compare"
-msgstr "La version de 32-bits de WinMerge no soporta Comparación de Portapapeles"
-
-msgid "WebView2 runtime is not installed. Do you want to download it?"
-msgstr "WebView2 no esta instalado, Desea descargarlo ?"
-
-msgid "Prettification"
-msgstr ""
-
-msgid "Content Extraction"
-msgstr "Extracción de Contenido"
-
-msgid "Preview"
-msgstr ""
-
-msgid "Data Query"
-msgstr ""
-
-msgid "Validation"
-msgstr "Validación"
-
-msgid "Decompilation"
-msgstr ""
-
-msgid "URL Handling"
-msgstr "Manejo de URL"
-
-msgid "Make Uppercase"
-msgstr "Convertir a Minúsculas"
-
-msgid "Make Lowercase"
-msgstr "Convertir a Mayúsculas"
-
-msgid "Remove Duplicate Lines"
-msgstr "Remover Renglones Duplicados"
-
-msgid "Count Duplicate Lines"
-msgstr "Contar Renglones Duplicados"
-
-msgid "Sort Lines Ascending"
-msgstr "Ordenar Renglones Ascendentemente"
-
-msgid "Sort Lines Descending"
-msgstr "Ordenar Renglones Descendentemente"
-
-msgid "Reverse Columns"
-msgstr "Columnas Invertidas"
-
-msgid "Reverse Lines"
-msgstr "Renglones Invertidos"
-
-msgid "Replace..."
-msgstr "Remplazar..."
-
-msgid "Apply Filter Command..."
-msgstr "Aplicar Comando de Filtro..."
-
-msgid "Tokenize..."
-msgstr "Tokenizar..."
-
-msgid "Trim Spaces"
-msgstr "Remover Espacios"
-
-msgid "Select Columns..."
-msgstr "Seleccionar Columnas"
-
-msgid "Select Lines..."
-msgstr "Seleccionar renglones ..."
-
-msgid "Insert Date"
-msgstr "Insertar Fecha"
-
-msgid "Insert Time"
-msgstr "Insertar Hora"
-
-msgid "Apply Patch..."
-msgstr "Aplicar Parche..."
-
-msgid "Ignore Columns"
-msgstr "Ignorar Columnas"
-
-msgid "Ignore Comments (C-Family Languages)"
-msgstr "Ignorar Commentarios (Estilo Lenguage C)"
-
-msgid "Ignore CSV Fields"
-msgstr "Ignorar Campos CSV"
-
-msgid "Ignore TSV Fields"
-msgstr "Ignorar Campos TSV"
-
-msgid "Ignore Leading Line Numbers"
-msgstr ""
-
-msgid "Apply Prediff Substitution Filters"
-msgstr ""
-
-msgid "Prettify HTML"
-msgstr "Formatear HTML"
-
-msgid "Prettify JSON"
-msgstr "Formatear JSON"
-
-msgid "Prettify XML"
-msgstr "Formatear XML"
-
-msgid "Prettify YAML"
-msgstr "Formatear YAML"
-
-msgid "Preview Graphviz"
-msgstr ""
-
-msgid "Preview Markdown"
-msgstr ""
-
-msgid "Preview PlantUML"
-msgstr ""
-
-msgid "Query CSV Data..."
-msgstr ""
-
-msgid "Query TSV Data..."
-msgstr ""
-
-msgid "Query JSON Data..."
-msgstr ""
-
-msgid "Query YAML Data..."
-msgstr ""
-
-msgid "Validate HTML"
-msgstr "Validar HTML"
-
-msgid "Disassemble JVM Bytecode"
-msgstr "Desensamblar Codigo JVM"
-
-msgid "Disassemble IL Code"
-msgstr "Desensamblar Codigo IL"
-
-msgid "Disassemble Native Code"
-msgstr "Desensamblar Codigo Nativo"
+msgstr "சொருகி வாதங்களைக் குறிப்பிடவும்"
 
 msgid "Make characters uppercase"
-msgstr "Convertir letras a mayúscula"
+msgstr "எழுத்துகளை பெரிய எழுத்தாக உருவாக்கு"
 
 msgid "Make characters lowercase"
-msgstr "Convertir letras a minùscula"
+msgstr "எழுத்துகளை சிற்றெழுத்து"
 
 msgid "Remove duplicate lines"
-msgstr "Remover renglones duplicados"
+msgstr "நகல் வரிகளை அகற்று"
 
 msgid "Count duplicate lines"
-msgstr "Contar renglones duplicados"
+msgstr "நகல் வரிகளை எண்ணு"
 
 msgid "Sort lines ascending"
-msgstr "Ordenar renglones ascendentemente"
+msgstr "ஏறும் கோடுகளை வரிசைப்படுத்து"
 
 msgid "Sort lines descending"
-msgstr "Ordenar renglones descendente"
+msgstr "கோடுகளை வரிசைப்படுத்து"
 
 msgid "Reverse columns"
-msgstr "Columnas invertidas"
+msgstr "தலைகீழ் நெடுவரிசைகள்"
 
 msgid "Reverse lines"
-msgstr "Renglones invertidos"
+msgstr "தலைகீழ் கோடுகள்"
 
 msgid ""
 "Replace text with another text.\r\n"
@@ -4181,6 +4137,12 @@ msgid ""
 "  -i - ignore case (only for -e)\r\n"
 "  -e - treat the specified text as a regular expression"
 msgstr ""
+"உரையை வேறொரு உரையுடன் மாற்றவும்.\r\n"
+"பயன்பாடு: [-i] மாற்றவும் [-e] மாற்றீட்டைக் கண்டுபிடி\r\n"
+"கண்டுபிடி - கண்டுபிடிக்க உரை\r\n"
+" REPLACE - பதிலாக உரை\r\n"
+" -i - புறக்கணிப்பு வழக்கை (-eக்கு மட்டும்)\r\n"
+" -e - குறிப்பிட்ட உரையை வழக்கமான வெளிப்பாடாகக் கருதுங்கள்"
 
 #, c-format
 msgid ""
@@ -4188,15 +4150,22 @@ msgid ""
 "Usage: ExecFilterCommand COMMAND\r\n"
 "  COMMAND - command to execute. %1 in the command is replaced with the filename."
 msgstr ""
+"வடிப்பான் கட்டளையைப் பயன்படுத்து. \r\n"
+"பயன்பாடு: ExecFilterCommand COMMAND\r\n"
+" COMMAND - செயல்படுத்துவதற்கான கட்டளை. கட்டளையில் உள்ள % 1 கோப்புப் பெயருடன் மாற்றப்பட்டது."
 
 msgid ""
 "Tokenize selection. \r\n"
 "Usage: Tokenize PATTERNS\r\n"
 "  PATTERNS - regular expression for tokenizing. (e.g. [^\\w]+)"
 msgstr ""
+"டோக்கனைஸ் தேர்வு. \r\n"
+"பயன்பாடு: டோக்கனைஸ் பேட்டர்ன்ஸ்\r\n"
+" வடிவங்கள் - டோக்கனைஸ் செய்வதற்கான வழக்கமான வெளிப்பாடு. (எ.கா. [^\\w]+)"
+
 
 msgid "Trim spaces"
-msgstr "Quitar espacios"
+msgstr "இடங்களை ஒழுங்கமைக்கவும்"
 
 msgid ""
 "Select some columns.\r\n"
@@ -4209,6 +4178,15 @@ msgid ""
 "  -g - enable global flag\r\n"
 "  -e - use PATTERNS for matching"
 msgstr ""
+"சில நெடுவரிசைகளைத் தேர்ந்தெடுக்கவும்.\r\n"
+"பயன்பாடு: தேர்ந்தெடு நெடுவரிசைகள் RANGES\r\n"
+"அல்லது: SelectColumns [-v] [-i] [-g] -e PATTERNS\r\n"
+" வரம்புகள் - தேர்ந்தெடுக்க வேண்டிய நெடுவரிசை வரம்புகளின் பட்டியல். (எ.கா. -3,5-10,30-)\r\n"
+" வடிவங்கள் - வழக்கமான வெளிப்பாடு\r\n"
+" -v - பொருந்தாத நெடுவரிசைகளைத் தேர்ந்தெடு\r\n"
+" -i - புறக்கணிப்பு வழக்கை\r\n"
+" -g - உலகளாவிய கொடியை இயக்கு\r\n"
+" -e - பொருத்துவதற்கு PATTERNS ஐப் பயன்படுத்தவும்"
 
 msgid ""
 "Select some lines.\r\n"
@@ -4220,247 +4198,176 @@ msgid ""
 "  -i - ignore case\r\n"
 "  -e - use PATTERNS for matching"
 msgstr ""
+"சில வரிகளைத் தேர்ந்தெடு.\r\n"
+"பயன்பாடு: தேர்ந்தெடுக்கப்பட்ட வரிகள் வரம்புகள்\r\n"
+"அல்லது: SelectLines [-v] [-i] -e PATTERNS\r\n"
+"வரம்புகள் - தேர்ந்தெடுக்க வேண்டிய வரி வரம்புகளின் பட்டியல். (எ.கா. -3,5-10,30-)\r\n"
+" வடிவங்கள் - வழக்கமான வெளிப்பாடு\r\n"
+" -v - பொருந்தாத வரிகளைத் தேர்ந்தெடு\r\n"
+" -i - புறக்கணிப்பு வழக்கை\r\n"
+" -e - பொருத்துவதற்கு PATTERNS ஐப் பயன்படுத்தவும்"
 
 msgid ""
 "HTML Prettier with tidy-html5. \r\n"
 "Arguments: Command line options passed to the tidy command."
 msgstr ""
+"HTML Prettier with tidy-html5. \r\n"
+"வாதங்கள்: கட்டளை வரி விருப்பங்கள் நேர்த்தியான கட்டளைக்கு அனுப்பப்பட்டன."
 
 msgid ""
 "JSON Prettier with jq command. \r\n"
 "Arguments: Filter or command line options passed to the jq command."
 msgstr ""
+"JSON Prettier with jq கட்டளை. \r\n"
+"வாதங்கள்: வடிகட்டி அல்லது கட்டளை வரி விருப்பங்கள் jq கட்டளைக்கு அனுப்பப்பட்டன."
 
 msgid ""
 "XML Prettier with tidy-html5. \r\n"
 "Arguments: Command line options passed to the tidy command."
 msgstr ""
+"எக்ஸ்எம்எல் பிரிட்டியர் வித் டைடி-எச்டிஎம்எல்5. \r\n"
+"வாதங்கள்: கட்டளை வரி விருப்பங்கள் நேர்த்தியான கட்டளைக்கு அனுப்பப்பட்டன."
 
 msgid ""
 "YAML Prettier with yq command. \r\n"
 "Arguments: Filter or command line options passed to the yq command."
 msgstr ""
+"yq கட்டளையுடன் YAML ப்ரீட்டியர். \r\n"
+"வாதங்கள்: வடிகட்டி அல்லது கட்டளை வரி விருப்பங்கள் yq கட்டளைக்கு அனுப்பப்பட்டன."
 
-msgid "Graphviz Previewer. \r\nArguments: Command line options passed to the dot command."
+msgid ""
+"Graphviz Visualizer. \r\n"
+"Arguments: Command line options passed to the dot command."
 msgstr ""
-
-msgid "Markdown Previewer. \r\nArguments: Command line options passed to the md2html command."
-msgstr ""
-
-msgid "PlantUML Previewer. \r\nArguments: Command line options passed to the plantuml.jar command."
-msgstr ""
+"Graphviz Visualizer. \r\n"
+"வாதங்கள்: டாட் கட்டளைக்கு அனுப்பப்பட்ட கட்டளை வரி விருப்பங்கள்."
 
 msgid ""
 "CSV Querier with q command. \r\n"
 "Arguments: SQL statement or command line options passed to the q command."
 msgstr ""
+"Q கட்டளையுடன் கூடிய CSV Querier. \r\n"
+"வாதங்கள்: SQL அறிக்கை அல்லது கட்டளை வரி விருப்பங்கள் q கட்டளைக்கு அனுப்பப்பட்டது."
 
 msgid ""
 "TSV Querier with q command. \r\n"
 "Arguments: SQL statement or command line options passed to the q command."
 msgstr ""
+"q கட்டளையுடன் TSV Querier. \r\n"
+"வாதங்கள்: SQL அறிக்கை அல்லது கட்டளை வரி விருப்பங்கள் q கட்டளைக்கு அனுப்பப்பட்டது."
 
 msgid ""
 "JSON Querier with jq command. \r\n"
 "Arguments: Filter or command line options passed to the jq command."
 msgstr ""
+"JSON Querier with jq கட்டளை. \r\n"
+"வாதங்கள்: வடிகட்டி அல்லது கட்டளை வரி விருப்பங்கள் jq கட்டளைக்கு அனுப்பப்பட்டன."
 
 msgid ""
 "YAML Querier with yq command. \r\n"
 "Arguments: Filter or command line options passed to the yq command."
 msgstr ""
+"yq கட்டளையுடன் YAML Querier. \r\n"
+"வாதங்கள்: வடிகட்டி அல்லது கட்டளை வரி விருப்பங்கள் yq கட்டளைக்கு அனுப்பப்பட்டன."
 
 msgid ""
 "HTML Validator with tidy-html5. \r\n"
 "Arguments: Command line options passed to the tidy command."
 msgstr ""
+"HTML Validator with tidy-html5. \r\n"
+"வாதங்கள்: கட்டளை வரி விருப்பங்கள் நேர்த்தியான கட்டளைக்கு அனுப்பப்பட்டன."
 
 msgid ""
 "JVM bytecode disassembler with javap. \r\n"
 "Arguments: Command line options passed to the javap command."
 msgstr ""
+"JVM bytecode disassembler with javap. \r\n"
+"வாதங்கள்: கட்டளை வரி விருப்பங்கள் நிறைவேற்றப்பட்டன
 
 msgid ""
 "IL disassembler with ildasm. \r\n"
 "Arguments: Command line options passed to the ildasm command."
 msgstr ""
+"ஐஎல் டிஸஸெம்பிளர் வித் இல்டாஸ்ம். \r\n"
+"வாதங்கள்: கட்டளை வரி விருப்பங்கள் ildasm கட்டளைக்கு அனுப்பப்பட்டன."
 
 msgid ""
 "Native code disassembler with dumpbin. \r\n"
 "Arguments: Command line options passed to the dumpbin command."
 msgstr ""
+"டம்ப்பின் கொண்ட நேட்டிவ் கோட் டிஸஸெம்பிளர். \r\n"
+"வாதங்கள்: கட்டளை வரி விருப்பங்கள் dumpbin கட்டளைக்கு அனுப்பப்பட்டன."
 
 msgid ""
 "General content extractor with Apache Tika. \r\n"
 "Arguments: Command line options passed to the tika-app.jar."
 msgstr ""
+"அப்பாச்சி டிகாவுடன் பொது உள்ளடக்கத்தை பிரித்தெடுக்கும் கருவி. \r\n"
+"வாதங்கள்: கட்டளை வரி விருப்பங்கள் tika-app.jar க்கு அனுப்பப்பட்டன."
 
 msgid "Apply patch using GnuWin32 Patch for Windows"
-msgstr ""
+msgstr "விண்டோஸிற்கான GnuWin32 Patch ஐ பயன்படுத்தி பேட்சை பயன்படுத்தவும்"
 
 msgid "Display the text content of MS Excel files"
-msgstr "Mostrar el contenido de texto de los archivos Excel"
+msgstr "MS Excel கோப்புகளின் உரை உள்ளடக்கத்தைக் காண்பி"
 
 msgid "Display the text content of MS PowerPoint files"
-msgstr "Mostrar el contenido de texto de los archivos PowerPoint"
+msgstr "MS PowerPoint கோப்புகளின் உரை உள்ளடக்கத்தைக் காண்பி"
 
 msgid "Display the text content of MS Visio files"
-msgstr "Mostrar el contenido de texto de los archivos Visio"
+msgstr "MS Visio கோப்புகளின் உரை உள்ளடக்கத்தைக் காண்பி"
 
 msgid "Display the text content of MS Word files"
-msgstr "Mostrar el contenido de texto de los archivos Word"
+msgstr "MS Word கோப்புகளின் உரை உள்ளடக்கத்தைக் காண்பி"
 
 msgid "Ignore some columns - ignored columns list from the plugin name or the plugin argument"
-msgstr "Ignorar algunas columnas - la lista de columnas ignoradas del plugin of de parámetro del plugin"
+msgstr "சில நெடுவரிசைகளை புறக்கணிக்கவும் - சொருகி பெயர் அல்லது சொருகி வாதத்திலிருந்து புறக்கணிக்கப்பட்ட நெடுவரிசைகளின் பட்டியல்"
 
 msgid "The plugin ignores comments (//... and /* ... */) in C, C++, PHP and JavaScript files."
-msgstr "The plugin ignores comments (//... and /* ... */) in C, C++, PHP and JavaScript files."
+msgstr "சொருகி C, C++, PHP மற்றும் JavaScript கோப்புகளில் உள்ள கருத்துகளை (//... மற்றும் /* ... */) புறக்கணிக்கிறது."
 
 msgid "Ignore some fields - ignored fields list from the plugin name or the plugin argument"
-msgstr ""
-
-msgid "This plugin ignores the leading line numbers in text files (e.g. NC and BASIC files)."
-msgstr ""
+msgstr "சில புலங்களை புறக்கணிக்கவும் - சொருகி பெயர் அல்லது சொருகி வாதத்திலிருந்து புறக்கணிக்கப்பட்ட புலங்களின் பட்டியல்"
 
 msgid "Prediff Line Filter"
-msgstr ""
+msgstr "பிரிடிஃப் வரி வடிகட்டி"
 
 msgid "Basic text functions for the context menu"
-msgstr "Funciones de texto básico para menu contextual"
+msgstr "சூழல் மெனுவிற்கான அடிப்படை உரை செயல்பாடுகள்"
 
 msgid ""
 "HTTP URL Scheme Handler with curl. \r\n"
 "Arguments: Command line options passed to the curl command."
 msgstr ""
+"சுருட்டுடன் கூடிய HTTP URL ஸ்கீம் ஹேண்ட்லர். \r\n"
+"வாதங்கள்: கட்டளை வரி விருப்பங்கள் கர்ல் கட்டளைக்கு அனுப்பப்பட்டன."
 
 msgid ""
 "Windows Registry URL Scheme Handler. \r\n"
 "Arguments: Command line options passed to the reg.exe command."
 msgstr ""
+"Windows Registry URL Scheme Handler. \r\n"
+"வாதங்கள்: கட்டளை வரி விருப்பங்கள் reg.exe கட்டளைக்கு அனுப்பப்பட்டன."
 
-msgid "CompareMSExcelFiles.sct WinMerge Plugin Options"
-msgstr ""
-
-msgid "Extract workbook data to multiple files"
-msgstr ""
-
-msgid "Update external references(links)"
-msgstr ""
-
-msgid "Compare document properties"
-msgstr ""
-
-msgid "Compare names"
-msgstr ""
-
-msgid "Compare cell values"
-msgstr ""
-
-msgid "Compare worksheets as image (very slow)"
-msgstr ""
-
-msgid " - Image split size: "
-msgstr ""
-
-msgid "Compare worksheets as HTML"
-msgstr ""
-
-msgid "Compare formulas"
-msgstr ""
-
-msgid "Compare texts in shapes"
-msgstr ""
-
-msgid "Compare headers and footers"
-msgstr ""
-
-msgid "Cannot get Macros.\r\n   To allow WinMerge to compare macros, use MS Office to alter the settings in the Macro Security for the current application.\r\n   The Trust access to Visual Basic Project feature should be turned on to use this feature in WinMerge.\r\n"
-msgstr ""
-
-msgid "Compare VBA macros"
-msgstr ""
-
-msgid "CompareMSWordFiles.sct WinMerge Plugin Options"
-msgstr ""
-
-msgid "Extract document data to multiple files"
-msgstr ""
-
-msgid "Compare bookmarks"
-msgstr ""
-
-msgid "Compare text contents of documents"
-msgstr ""
-
-msgid "Compare documents as HTML file (very slow)"
-msgstr ""
-
-msgid "CompareMSPowerPointFiles.sct WinMerge Plugin Options"
-msgstr ""
-
-msgid "Extract slide data to multiple files"
-msgstr ""
-
-msgid "Compare slides as image (very slow)"
-msgstr ""
-
-msgid "Compare texts in notes page"
-msgstr ""
-
-msgid "CompareMSVisioFiles.sct WinMerge Plugin Options"
-msgstr ""
-
-msgid "Extract page data to multiple files"
-msgstr ""
-
-msgid "Compare pages as image (very slow)"
-msgstr ""
-
-msgid "PrediffLineFilter.sct WinMerge Plugin Options"
-msgstr ""
-
-msgid "Delete"
-msgstr ""
-
-msgid "Enabled"
-msgstr ""
-
-msgid "Ignore Case"
-msgstr ""
-
-msgid "Use RegExp"
-msgstr ""
-
-msgid "Find what"
-msgstr ""
-
-msgid "Replace with"
-msgstr ""
-
-msgid "Settings"
-msgstr ""
-
-msgid "Column Ranges To Ignore:\ne.g.)  3,10-20,32-33\n"
-msgstr ""
+msgid "Filter applied"
+msgstr "வடிகட்டி பயன்படுத்தப்பட்டது"
 
 #, c-format
-msgid "Enter the name of the file to which the patch '%1' will be applied"
-msgstr ""
+msgid "Clipboard at %s"
+msgstr "%s இல் கிளிப்போர்டு"
 
-#, c-format
-msgid "File '%1' does not exist"
+msgid ""
+"Clipboard history is disabled.\r\n"
+"To enable clipboard history, press Windows logo key + V and then click the Turn on button."
 msgstr ""
+"கிளிப்போர்டு வரலாறு முடக்கப்பட்டுள்ளது.\r\n"
+"கிளிப்போர்டு வரலாற்றை இயக்க, விண்டோஸ் லோகோ விசை + V ஐ அழுத்தி, பின்னர் இயக்கு பொத்தானைக் கிளிக் செய்யவும்."
 
-msgid "Enter the command line arguments for patch command"
-msgstr ""
+msgid "This system does not support clipboard history."
+msgstr "இந்த அமைப்பு கிளிப்போர்டு வரலாற்றை ஆதரிக்காது."
 
-#, c-format
-msgid "Enter the name of the folder to which the patch '%1' will be applied"
-msgstr ""
+msgid "The 32-bit version of WinMerge does not support Clipboard Compare"
+msgstr "WinMerge இன் 32-பிட் பதிப்பு கிளிப்போர்டு ஒப்பீட்டை ஆதரிக்கவில்லை"
 
-#, c-format
-msgid "Folder '%1' does not exist"
-msgstr ""
-
-msgid "Do not specify the '-p0' command line option for the patch file which includes absolute paths"
-msgstr ""
+msgid "WebView2 runtime is not installed. Do you want to download it?"
+msgstr "WebView2 இயக்கநேரம் நிறுவப்படவில்லை. நீங்கள் அதைப் பதிவிறக்க விரும்புகிறீர்களா?"

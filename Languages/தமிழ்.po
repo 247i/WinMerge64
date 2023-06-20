@@ -1,11 +1,7 @@
-# This file is part from WinMerge <https://winmerge.org/>
-# Released under the "GNU General Public License"
+# இந்த கோப்பு WinMerge <https://winmerge.org/> இலிருந்து ஒரு பகுதியாகும்
+# "குனு பொது பொது உரிமத்தின்" கீழ் வெளியிடப்பட்டது
 #
-# Translators:
-# * Dean Grimm <grimmdp at yahoo.com>
-# * Jesús M. Delgado 'MacK' <nncsoft at yahoo.com>
-# * Mario Angel <marioangel70 at gmail.com>
-# * Nelson Ariza <njarizas at hotmail.com>
+# மொழிபெயர்ப்பாளர்கள்:
 # * தமிழ்நேரம் <https://TamilNeram.github.io>
 msgid ""
 msgstr ""
@@ -29,1383 +25,1384 @@ msgid "LANG_ENGLISH, SUBLANG_ENGLISH_US"
 msgstr "LANG_TAMIL, SUBLANG_TAMIL_IN"
 
 msgid "Copy to Middle"
-msgstr "Copiar a la Mitad"
+msgstr "நடுவில் நகலெடுக்கவும்"
 
 msgid "C&opy to Right\tAlt+Right"
-msgstr "Copiar al lado &Derecho\tAlt+Der."
+msgstr "வலது\tAlt+வலதுக்கு நகலெடுக்கவும்"
 
 msgid "Copy from Middle"
-msgstr "Copiar desde la Mitad"
+msgstr "நடுவில் இருந்து நகல்"
 
 msgid "Copy fro&m Right\tAlt+Shift+Left"
-msgstr "Copiar desde lado derecho\tAlt+Shift+Izq."
+msgstr "வலது&m\tAlt+Shift+Left இலிருந்து நகலெடு"
 
 msgid "Cop&y to Left\tAlt+Left"
-msgstr "Copiar al lado &izquierdo\tAlt+Izq."
+msgstr "இடது\tAlt+இடதுக்கு நகலெடுக்கவும்"
 
 msgid "Copy &from Left\tAlt+Shift+Right"
-msgstr "Copiar desde lado izquierda\tAlt+Shift+Der."
+msgstr "இடமிருந்து&நகலெடுக்கவும்\tAlt+Shift+வலது"
 
 msgid "Copy Selected Line(s) to Middle"
-msgstr "Copiar renglon(es) seleccionados a la Mitad"
+msgstr "தேர்ந்தெடுக்கப்பட்ட வரி(களை) நடுவில் நகலெடுக்கவும்"
 
 msgid "Copy Selected Line(s) to Right"
-msgstr "Copiar renglon(es) seleccionados a la derecha"
+msgstr "தேர்ந்தெடுக்கப்பட்ட வரி(களை) வலமாக நகலெடுக்கவும்"
 
 msgid "Copy Selected Line(s) from Middle"
-msgstr "Copiar renglon(es) seleccionados a la Mitad"
+msgstr "நடுவில் இருந்து தேர்ந்தெடுக்கப்பட்ட வரி(களை) நகலெடுக்கவும்"
 
 msgid "Copy Selected Line(s) from Right"
-msgstr "Copiar renglon(es) seleccionados la Derecha"
+msgstr "வலதுபுறத்தில் இருந்து தேர்ந்தெடுக்கப்பட்ட வரி(களை) நகலெடுக்கவும்"
 
 msgid "Copy Selected Line(s) to Left"
-msgstr "Copiar renglon(es) seleccionados a la Izquierda"
+msgstr "தேர்ந்தெடுக்கப்பட்ட வரி(களை) இடதுபுறமாக நகலெடுக்கவும்"
 
 msgid "Copy Selected Line(s) from Left"
-msgstr "Copiar renglon(es) seleccionados de la Izquierda"
+msgstr "இடமிருந்து தேர்ந்தெடுக்கப்பட்ட வரி(களை) நகலெடுக்கவும்"
 
 msgid "Select Line &Difference\tF4"
-msgstr "Seleccionar &dif. de renglon\tF4"
+msgstr "வரி &வேறுபாடு\tF4 தேர்ந்தெடு"
 
 msgid "Add this change to Substitution &Filters"
-msgstr "Agregar este cambio al &Filtro de Sustitucion"
+msgstr "இந்த மாற்றத்தை மாற்று & வடிகட்டிகளில் சேர்"
 
 msgid "Add to &Line Filters"
-msgstr ""
+msgstr "&வரி வடிப்பான்களில் சேர்"
 
 msgid "&Undo"
-msgstr "Des&hacer"
+msgstr "&செயல்தவிர்"
 
 msgid "&Redo"
-msgstr "&Rehacer"
+msgstr "&மீண்டும் செய்"
 
 msgid "Cu&t"
-msgstr "Cor&tar"
+msgstr "கட்&ட்"
 
 msgid "&Copy"
-msgstr "&Copiar"
+msgstr "&நகல்"
 
 msgid "&Paste"
-msgstr "&Pegar"
+msgstr "&ஒட்டு"
 
 msgid "&Scripts"
-msgstr "&Scripts"
+msgstr "&ஸ்கிரிப்டுகள்"
 
 msgid "< Empty >"
-msgstr "< Vacío >"
+msgstr "< காலி >"
 
 msgid "&Go to...\tCtrl+G"
-msgstr "Ir &a...\tCtrl+G"
+msgstr "&செல்...\tCtrl+G"
 
 msgid "Go to Moved Line Between Left and Middle\tCtrl+Shift+G"
-msgstr "Ir al renglón movido entre la Izquierda y la Mitad\tCtrl+Shift+G"
+msgstr "இடது மற்றும் நடுவிற்கு இடையே நகர்த்தப்பட்ட கோட்டிற்கு செல்க\tCtrl+Shift+G"
 
 msgid "Go to Moved Line Between Middle and Right\tCtrl+Alt+G"
-msgstr "Ir al renglón movido entre la Mitad y la Derecha\tCtrl+Alt+G"
+msgstr "நடு மற்றும் வலது\tCtrl+Alt+G இடையே நகர்த்தப்பட்ட கோட்டிற்கு செல்"
 
 msgid "Op&en"
-msgstr "A&brir"
+msgstr "Op&en"
 
 msgid "With &Registered Application"
-msgstr "Con la Aplicación &Registrada"
+msgstr "&பதிவு செய்யப்பட்ட விண்ணப்பத்துடன்"
 
 msgid "With &External Editor\tCtrl+Alt+E"
-msgstr "Con &Editor Externo\tCtrl+Alt+E"
+msgstr "&வெளிப்புற எடிட்டருடன்\tCtrl+Alt+E"
 
 msgid "&With..."
-msgstr "&Con..."
+msgstr "&உடன்..."
 
 msgid "Open &Parent Folder..."
-msgstr "Abrir Carpeta &Padre..."
+msgstr "&பெற்றோர் கோப்புறையைத் திற..."
 
 msgid "S&hell Menu"
-msgstr "Menu de Comandos (Shell)"
+msgstr "எஸ்&ஹெல் மெனு"
 
 msgid "Use First Line as Headers"
-msgstr "Usar primer renglon como encabezados"
+msgstr "முதல் வரியை தலைப்புகளாக பயன்படுத்தவும்"
 
 msgid "Auto-Fit All Columns"
-msgstr "Autoajustar todas las columnas"
+msgstr "அனைத்து நெடுவரிசைகளையும் தானாக பொருத்து"
 
 msgid "View &Differences"
-msgstr "Ver &Diferencias"
+msgstr "&வேறுபாடுகளைக் காண்க"
 
 msgid "Diff &Block Size"
-msgstr "Tamaño del &Bloque Diff"
+msgstr "மாறுபாடு &தடு அளவு"
 
 msgid "&Ignore Color Difference (Color Distance Threshold)"
-msgstr "&Ignorar Diferencia de Color (Límite de Distancia de Color)"
+msgstr "&நிற வேறுபாட்டை புறக்கணிக்கவும் (வண்ண தூர வாசல்)"
 
 msgid "Ins&ertion/Deletion Detection"
-msgstr "D&etección de Inserción/Eliminación"
+msgstr "உள்படுத்துதல்/நீக்குதல் கண்டறிதல்"
 
 msgid "&None"
-msgstr "&Ninguno"
+msgstr "&இல்லை"
 
 msgid "&Vertical"
-msgstr "&Vertical"
+msgstr "&செங்குத்து"
 
 msgid "&Horizontal"
-msgstr "&Horizontal"
+msgstr "&கிடைமட்ட"
 
 msgid "&Previous Page"
-msgstr "&Página Anterior"
+msgstr "&முந்தைய பக்கம்"
 
 msgid "&Next Page"
-msgstr "Pági&na Siguiente"
+msgstr "&அடுத்த பக்கம்"
 
 msgid "&Active Pane"
-msgstr "P&anel Activo"
+msgstr "&செயலில் உள்ள பலகம்"
 
 msgid "Rotate &Right 90deg"
-msgstr "Rotar a la derecha 90 grados"
+msgstr "வலது 90 டிகிரி சுழற்று"
 
 msgid "Rotate &Left 90deg"
-msgstr "Rotar a la izquierda 90 grados"
+msgstr "சுழற்று &இடதுபுறம் 90deg"
 
 msgid "Flip V&ertically"
-msgstr "Invertir V&erticalmente"
+msgstr "வி&செர்டிகலாக புரட்டவும்"
 
 msgid "Flip H&orizontally"
-msgstr "Invertir H&orizontalmente"
+msgstr "H&கிடைமட்டமாக புரட்டவும்"
 
 msgid "&Zoom"
-msgstr "&Zoom"
+msgstr "&பெரிதாக்கு"
 
 #, c-format
 msgid "25%"
 msgstr "25%"
 
 msgid "Zoom &In\tCtrl++"
-msgstr "A&cercar Zoom\tCtrl++"
+msgstr "பெரிதாக்க &இன்\tCtrl++"
 
 msgid "Zoom &Out\tCtrl+-"
-msgstr "A&lejar Zoom\tCtrl+-"
+msgstr "பெரிதாக்கவும் &வெளியேறு\tCtrl+-"
 
 #. Zoom to normal
 msgid "&Normal\tCtrl+*"
-msgstr "&Normal\tCtrl+*"
+msgstr "&இயல்பு\tCtrl+*"
 
 msgid "&Overlay"
-msgstr "S&obrepuesto"
+msgstr "&மேலே"
 
 msgid "&Alpha Blend"
-msgstr "Transparencia Alpha"
+msgstr "&ஆல்பா கலவை"
 
 msgid "Alpha &Blend Animation"
-msgstr "Animación de Transparencia Alpha"
+msgstr "ஆல்ஃபா &கலந்து அனிமேஷன்"
 
 msgid "Dragging &Mode"
-msgstr "Modo de Arrastre"
+msgstr "இழுத்தல் &முறை"
 
 msgid "&Move"
-msgstr "&Mover"
+msgstr "&நகர்த்து"
 
 msgid "&Adjust Offset"
-msgstr "&Ajustar desfase"
+msgstr "&அட்ஜெஸ்ட் ஆஃப்செட்"
 
 msgid "&Vertical Wipe"
-msgstr "Divisor &Vertical"
+msgstr "&செங்குத்து துடைப்பு"
 
 msgid "&Horizontal Wipe"
-msgstr "Divisor &Horizontal"
+msgstr "&கிடைமட்ட துடைப்பு"
 
 msgid "Rectangle &Select"
-msgstr "Selección rectangular"
+msgstr "செவ்வக &தேர்ந்தெடு"
 
 msgid "&Set Background Color"
-msgstr "E&stablecer Color de Fondo"
+msgstr "&பின்னணி நிறத்தை அமைக்கவும்"
 
 msgid "&Vector Image Scaling"
-msgstr "Escalado de imagen &vectorial"
+msgstr "&வெக்டர் பட அளவிடுதல்"
 
 msgid "Compare Extracted &Text From Images"
-msgstr "Comparar Texto Extraido de las Imagenes"
+msgstr "படங்களிலிருந்து பிரித்தெடுக்கப்பட்ட &உரையை ஒப்பிடு"
 
 msgid "Co&mpare"
-msgstr "Co&mparar"
+msgstr "இணை&ஒப்பிடு"
 
 msgid "&Screenshots"
-msgstr "Capturas de pantalla"
+msgstr "&ஸ்கிரீன்ஷாட்கள்"
 
 msgid "&Full Size Screenshots"
-msgstr "Capturas de Pantalla completa"
+msgstr "&முழு அளவு திரைக்காட்சிகள்"
 
 msgid "&HTMLs"
-msgstr "&HTMLs"
+msgstr "&HTMLகள்"
 
 msgid "&Texts"
-msgstr "Textos"
+msgstr "&உரைகள்"
 
 msgid "&Resource Trees"
-msgstr "Árbol de &Recursos"
+msgstr "&வள மரங்கள்"
 
 msgid "&Size"
-msgstr "Tamaño"
+msgstr "&அளவு"
 
 msgid "Fit to Window"
-msgstr "Ajustar a la ventana"
+msgstr "சாளரத்தில் பொருத்து"
 
 msgid "Clear &Browsing Data"
-msgstr "Limpiar datos de navegación"
+msgstr "&உலாவல் தரவை அழி"
 
 msgid "&Disk Cache"
-msgstr "Cache de disco"
+msgstr "&வட்டு தற்காலிக சேமிப்பு"
 
 msgid "&Cookies"
-msgstr "&Cookies"
+msgstr "&குக்கீகள்"
 
 msgid "&Browsing History"
-msgstr "Historial de navegacion"
+msgstr "&உலாவல் வரலாறு"
 
 #, fuzzy
 msgid "&All Profile"
-msgstr "Perfil General"
+msgstr "&அனைத்து சுயவிவரம்"
 
 msgid "&File"
-msgstr "&Archivo"
+msgstr "&கோப்பு"
 
 msgid "&New"
-msgstr "&Nuevo"
+msgstr "&புதிய"
 
 msgid "&Text"
-msgstr "&Texto"
+msgstr "&உரை"
 
 msgid "T&able"
-msgstr "T&abla"
+msgstr "T&able"
 
 msgid "&Binary"
-msgstr "&Binario"
+msgstr "&பைனரி"
 
 msgid "&Image"
-msgstr "&Imagen"
+msgstr "&படம்"
 
 msgid "&Webpage"
-msgstr "Pagina web"
+msgstr "&இணையப்பக்கம்"
 
 msgid "New (&3 panes)"
-msgstr "Nuevo (&3 paneles)"
+msgstr "புதிய (&3 பலகங்கள்)"
 
 msgid "&Open...\tCtrl+O"
-msgstr "A&brir...\tCtrl+O"
+msgstr "&திற...\tCtrl+O"
 
 msgid "Open Conflic&t File..."
-msgstr "Abrir Archivo con Conflic&to..."
+msgstr "மோதல்&t கோப்பை திற..."
 
 msgid "Open C&lipboard"
-msgstr "Abrir portapapeles"
+msgstr "சி&லிப்போர்டை திற"
 
 msgid "Open Pro&ject...\tCtrl+J"
-msgstr "Abrir Pro&yecto...\tCtrl+J"
+msgstr "புரோ&ஜெக்டை திற...\tCtrl+J"
 
 msgid "Sa&ve Project..."
-msgstr "Guar&dar Proyecto..."
+msgstr "திட்டத்தை சே&மி..."
 
 msgid "Recent Projects"
-msgstr "Proyectos recientes"
+msgstr "சமீபத்திய திட்டங்கள்"
 
 msgid "Recent F&iles Or Folders"
-msgstr "Arch&ivos o Carpetas Recientes"
+msgstr "சமீபத்திய F&iles அல்லது Folders"
 
 msgid "E&xit\tCtrl+Q"
-msgstr "&Salir\tCtrl+Q"
+msgstr "வெளி& வெளியேறு\tCtrl+Q"
 
 msgid "&Edit"
-msgstr "&Editar"
+msgstr "&திருத்து"
 
 msgid "&Paste\tCtrl+V"
-msgstr "&Pegar\tCtrl+V"
+msgstr "&ஒட்டு\tCtrl+V"
 
 msgid "&Options..."
-msgstr "Configuració&n..."
+msgstr "&விருப்பங்கள்..."
 
 msgid "&View"
-msgstr "&Ver"
+msgstr "&பார்வை"
 
 msgid "&Toolbar"
-msgstr "&Combinar"
+msgstr "&கருவிப்பட்டி"
 
 msgid "&Small"
-msgstr "&Pequeño"
+msgstr "&சிறியது"
 
 msgid "&Big"
-msgstr "&Grande"
+msgstr "&பெரிய"
 
 msgid "&Huge"
-msgstr "&Enorme"
+msgstr "&பெரிய"
 
 msgid "&Status Bar"
-msgstr "&Barra de estado"
+msgstr "&நிலைப் பட்டி"
 
 msgid "Ta&b Bar"
-msgstr "&Pestañas"
+msgstr "Ta&b Bar"
 
 msgid "&Tools"
-msgstr "&Herramientas"
+msgstr "&கருவிகள்"
 
 msgid "&Filters..."
-msgstr "&Filtros..."
+msgstr "&வடிப்பான்கள்..."
 
 msgid "&Generate Patch..."
-msgstr "&Generar corrección..."
+msgstr "&பேட்சை உருவாக்கு..."
 
 msgid "&Plugins"
-msgstr "&Plugins"
+msgstr "&செருகுகள்"
 
 msgid "P&lugin Settings..."
-msgstr "Configuración de p&lugins..."
+msgstr "P&lugin அமைப்புகள்..."
 
 msgid "Ma&nual Prediffer"
-msgstr "Pre-comparador Ma&nual"
+msgstr "ம&நூல் முன்னுரிமை"
 
 msgid "A&utomatic Prediffer"
-msgstr "Pre-comparador Automático "
+msgstr "A&தானியங்கி முன்னுரிமை"
 
 msgid "&Manual Unpacking"
-msgstr "Desempaquetado &manual"
+msgstr "&மேனுவல் திறத்தல்"
 
 msgid "&Automatic Unpacking"
-msgstr "Desempaquetado &automático"
+msgstr "&தானியங்கி திறத்தல்"
 
 msgid "&Reload plugins"
-msgstr "&Recargar plugins"
+msgstr "&செருகுநிரல்களை மீண்டும் ஏற்று"
 
 msgid "&Window"
-msgstr "Ve&ntana"
+msgstr "&சாளரம்"
 
 msgid "Cl&ose\tCtrl+W"
-msgstr "&Cerrar\tCtrl+W"
+msgstr "Cl&ose\tCtrl+W"
 
 msgid "Clo&se All"
-msgstr "Cerrar Toda&s"
+msgstr "அனைத்தையும் மூடவும்"
 
 msgid "Change &Pane\tF6"
-msgstr "Cambiar &Panel\tF6"
+msgstr "&Pane\tF6 ஐ மாற்று"
 
 msgid "Tile &Horizontally"
-msgstr "Ordenar &Horizontalmente"
+msgstr "டைல் &கிடைமட்டமாக"
 
 msgid "Tile &Vertically"
-msgstr "Ordenar &Verticalmente"
+msgstr "டைல் &செங்குத்தாக"
 
 msgid "&Cascade"
-msgstr "&Cascada"
+msgstr "&கேஸ்கேட்"
 
 msgid "&Help"
-msgstr "A&yuda"
+msgstr "&உதவி"
 
 msgid "&WinMerge Help\tF1"
-msgstr "Ayuda de &WinMerge\tF1"
+msgstr "&WinMerge உதவி\tF1"
 
 msgid "R&elease Notes"
-msgstr "Notas d&e Lanzamiento"
+msgstr "குறிப்புகளை மறு&வெளியீடு"
 
 msgid "&Translations"
-msgstr "&Traducciones"
+msgstr "&மொழிபெயர்ப்புகள்"
 
 msgid "C&onfiguration"
-msgstr "C&onfiguración"
+msgstr "C&onfiguration"
 
 msgid "&GNU General Public License"
-msgstr "Licencia Pública General &GNU"
+msgstr "&GNU பொது பொது உரிமம்"
 
 msgid "&About WinMerge..."
-msgstr "&Acerca de WinMerge..."
+msgstr "&WinMerge பற்றி..."
 
 msgid "&Read-only"
-msgstr "Sólo Lectu&ra"
+msgstr "&படிக்க மட்டும்"
 
 msgid "L&eft Read-only"
-msgstr "Lado izqui&erdo sólo lectura"
+msgstr "எல்&எப்ட் படிக்க மட்டும்"
 
 msgid "M&iddle Read-only"
-msgstr "Lado med&io sólo lectura"
+msgstr "M&iddle Read-only"
 
 msgid "Ri&ght Read-only"
-msgstr "Lado derec&ho sólo lectura"
+msgstr "வல&வலது படிக்க மட்டும்"
 
 msgid "&File Encoding..."
-msgstr "Codi&ficación de archivo..."
+msgstr "&கோப்பு குறியாக்கம்..."
 
 msgid "Select &All\tCtrl+A"
-msgstr "Seleccion&ar todo\tCtrl+A"
+msgstr "&அனைத்தையும் தேர்ந்தெடு\tCtrl+A"
 
 msgid "Show &Identical Items"
-msgstr "Mostrar elementos &idénticos"
+msgstr "ஒரே மாதிரியான பொருட்களைக் காண்பி"
 
 msgid "Show &Different Items"
-msgstr "Mostrar elementos &diferentes"
+msgstr "வெவ்வேறு பொருட்களை &காண்பி"
 
 msgid "Show L&eft Unique Items"
-msgstr "Mostrar elementos únicos en lado i&zquierdo"
+msgstr "எல்&எப்ட் தனித்துவமான பொருட்களைக் காட்டு"
 
 msgid "Show Midd&le Unique Items"
-msgstr "Mostrar e&lementos únicos en la Mitad"
+msgstr "நடுத்தர மற்றும் தனித்துவமான பொருட்களைக் காட்டு"
 
 msgid "Show Ri&ght Unique Items"
-msgstr "Mostrar elementos únicos en lado &Derecho"
+msgstr "ரி&கைட் தனித்துவமான பொருட்களைக் காட்டு"
 
 msgid "Show S&kipped Items"
-msgstr "Mostrar elementos i&gnorados"
+msgstr "S&கிப் செய்யப்பட்ட பொருட்களைக் காட்டு"
 
 msgid "S&how Binary Files"
-msgstr "Mostrar archivos &binarios"
+msgstr "பைனரி கோப்புகளை எப்படிக் காண்பி"
 
 msgid "&3-way Compare"
-msgstr "Comparación de &3 vías"
+msgstr "&3-வழி ஒப்பிடு"
 
 msgid "Show &Left Only Different Items"
-msgstr "Mostrar E&lementos Diferentes Sólo en la Izquierda"
+msgstr "வெவ்வேறு பொருட்களை மட்டும் &இடதுபுறம் காட்டு"
 
 msgid "Show &Middle Only Different Items"
-msgstr "&Mostrar Elementos Diferentes Sólo en la Mitad"
+msgstr "வெவ்வேறு பொருட்களை &நடுத்தர மட்டும் காட்டு"
 
 msgid "Show &Right Only Different Items"
-msgstr "Most&rar Elementos Diferentes Sólo en la Derecha"
+msgstr "வெவ்வேறு பொருட்களை &வலது மட்டும் காட்டு"
 
 msgid "Show L&eft Only Missing Items"
-msgstr "Mostrar &Elementos Faltantes Sólo en la Izquierda"
+msgstr "L&eft மட்டும் காணாமல் போன பொருட்களைக் காட்டு"
 
 msgid "Show Mi&ddle Only Missing Items"
-msgstr "Mostrar Elementos Faltantes Sólo en la Mita&d"
+msgstr "மிஸ்&ddle மட்டும் காணாமல் போன பொருட்களைக் காட்டு"
 
 msgid "Show Rig&ht Only Missing Items"
-msgstr "Mostrar Elementos Faltantes Sólo en la Derec&ha"
+msgstr "ரிக்&எச்டி மட்டும் விடுபட்ட பொருட்களைக் காட்டு"
 
 msgid "Show Hidd&en Items"
-msgstr "Mostrar elementos &ocultos"
+msgstr "மறைக்கப்பட்ட&என் பொருட்களைக் காட்டு"
 
 msgid "Tree &Mode"
-msgstr "&Modo Árbol"
+msgstr "மரம் &முறை"
 
 msgid "E&xpand All Subfolders"
-msgstr "E&xpandir Todas las Subcarpetas"
+msgstr "அனைத்து துணை கோப்புறைகளையும் மின்&விரிவு செய்"
 
 msgid "&Collapse All Subfolders"
-msgstr "&Contraer Todas las Subcarpetas"
+msgstr "&எல்லா துணை கோப்புறைகளையும் சுருக்கு"
 
 msgid "Select &Font..."
-msgstr "Seleccionar &Fuente..."
+msgstr "&எழுத்துருவை தேர்ந்தெடு..."
 
 msgid "Use Default Font"
-msgstr "Usar F&uente del Sistema"
+msgstr "இயல்புநிலை எழுத்துருவைப் பயன்படுத்து"
 
 msgid "Sw&ap Panes"
-msgstr "&Intercambiar paneles"
+msgstr "ஸ்வ&அப் பேனல்கள்"
 
 msgid "Swap &1st | 2nd"
-msgstr "Intercambiar &1ro | 2do"
+msgstr "&1வது | 2வது இடமாற்று"
 
 msgid "Swap &2nd | 3rd"
-msgstr "Intercambiar &2do | 3ro"
+msgstr "&2வது | 3வது இடமாற்று"
 
 msgid "Swap 1st | &3rd"
-msgstr "Intercambiar 1ro | &3ro"
+msgstr "1வது | &3வது இடமாற்று"
 
 msgid "Com&pare Statistics..."
-msgstr "Estadísticas de &comparación..."
+msgstr "புள்ளிவிவரங்களை இணை&பார்..."
 
 msgid "Refresh\tF5"
-msgstr "Ac&tualizar\tF5"
+msgstr "புதுப்பித்தல்\tF5"
 
 msgid "&Refresh Selected\tCtrl+F5"
-msgstr "&Actualizar seleccionados\tCtrl+F5"
+msgstr "&ரெஃப்ரெஷ் தேர்ந்தெடுக்கப்பட்டது\tCtrl+F5"
 
 msgid "&Merge"
-msgstr "&Combinar"
+msgstr "&ஒருங்கிணை"
 
 msgid "Co&mpare\tEnter"
-msgstr "Co&mparar\tEnter"
+msgstr "Co&mpare\tEnter"
 
 msgid "&Next Difference\tAlt+Down"
-msgstr "Diferencia siguie&nte\tAlt+Abajo"
+msgstr "&அடுத்த வேறுபாடு\tAlt+Down"
 
 msgid "&Previous Difference\tAlt+Up"
-msgstr "Diferencia anter&ior\tAlt+Arriba"
+msgstr "&முந்தைய வேறுபாடு\tAlt+Up"
 
 msgid "&First Difference\tAlt+Home"
-msgstr "Primer di&ferencia\tAlt+Inicio"
+msgstr "&முதல் வேறுபாடு\tAlt+Home"
 
 msgid "&Current Difference\tAlt+Enter"
-msgstr "Diferencia a&ctual\tAlt+Enter"
+msgstr "&தற்போதைய வேறுபாடு\tAlt+Enter"
 
 msgid "&Last Difference\tAlt+End"
-msgstr "Ú&ltima diferencia\tAlt+Fin"
+msgstr "&கடைசி வேறுபாடு\tAlt+End"
 
 msgid "Copy to &Right\tAlt+Right"
-msgstr "Copia&r al lado Derecho\tAlt+Der."
+msgstr "&வலது\tAlt+வலதுக்கு நகலெடு"
 
 msgid "Copy to L&eft\tAlt+Left"
-msgstr "Copiar al lado izqui&erdo\tAlt+Izq."
+msgstr "L&eft\tAlt+Left க்கு நகலெடு"
 
 msgid "&Delete\tDel"
-msgstr "&Eliminar\tDel"
+msgstr "&நீக்கு\tDel"
 
 msgid "&Customize Columns..."
-msgstr "&Personalizar columnas..."
+msgstr "&நெடுவரிசைகளைத் தனிப்பயனாக்கு..."
 
 msgid "Generate &Report..."
-msgstr "Gene&rar Informe..."
+msgstr "&அறிக்கையை உருவாக்கு..."
 
 msgid "&Edit with Unpacker..."
-msgstr "&Editar con Desempaquetador..."
+msgstr "அன்பேக்கர் மூலம்&திருத்து..."
 
 msgid "&Save\tCtrl+S"
-msgstr "&Guardar\tCtrl+S"
+msgstr "&சேமி\tCtrl+S"
 
 msgid "Sav&e"
-msgstr "Guardar"
+msgstr "சேமி&இ"
 
 msgid "Save &Left"
-msgstr "Guardar &lado Izquierdo"
+msgstr "சேமி &இடது"
 
 msgid "Save &Middle"
-msgstr "Guardar el de la Mitad"
+msgstr "&நடுவில் சேமி"
 
 msgid "Save &Right"
-msgstr "Gua&rdar lado Derecho"
+msgstr "சேமி &வலது"
 
 msgid "Save &As"
-msgstr "Gu&ardar Como"
+msgstr "&இவ்வாறு சேமி"
 
 msgid "Save &Left As..."
-msgstr "Guardar &Lado Izquierdo Como..."
+msgstr "&இடதுபுறமாக சேமி..."
 
 msgid "Save &Middle As..."
-msgstr "Guardar el de la &Mitad Como..."
+msgstr "&நடுவை இவ்வாறு சேமி..."
 
 msgid "Save &Right As..."
-msgstr "Gua&rdar Lado Derecho Como..."
+msgstr "இவ்வாறு &வலது சேமி..."
 
 msgid "&Print...\tCtrl+P"
-msgstr "Im&primir...\tCtrl+P"
+msgstr "&அச்சிடு...\tCtrl+P"
 
 msgid "Page Set&up..."
-msgstr "Config&urar página..."
+msgstr "பக்க அமைவு&அப்..."
 
 msgid "Print Previe&w..."
-msgstr "&Vista preliminar..."
+msgstr "முன்னோட்டம்&w..."
 
 msgid "&Convert Line Endings to"
-msgstr "&Convertir Saltos de Línea a"
+msgstr "&வரி முடிவுகளுக்கு மாற்றவும்"
 
 msgid "Mer&ge Mode\tF9"
-msgstr "&Modo Combinación\tF9"
+msgstr "இணை&பயன்முறை\tF9"
 
 msgid "Reloa&d\tCtrl+F5"
-msgstr "Recargar\tCtrl+F5"
+msgstr "Reloa&d\tCtrl+F5"
 
 msgid "Reco&mpare As"
-msgstr "Recomparar como"
+msgstr "மீண்டும்&பொருந்தும்"
 
 msgid "&Undo\tCtrl+Z"
-msgstr "Des&hacer\tCtrl+Z"
+msgstr "&செயல்தவிர்\tCtrl+Z"
 
 msgid "&Redo\tCtrl+Y"
-msgstr "&Rehacer\tCtrl+Y"
+msgstr "&மீண்டும்\tCtrl+Y"
 
 msgid "Cu&t\tCtrl+X"
-msgstr "Cor&tar\tCtrl+X"
+msgstr "Cu&t\tCtrl+X"
 
 msgid "&Copy\tCtrl+C"
-msgstr "&Copiar\tCtrl+C"
+msgstr "&நகலெடு\tCtrl+C"
 
 msgid "F&ind...\tCtrl+F"
-msgstr "&Buscar...\tCtrl+F"
+msgstr "F&ind...\tCtrl+F"
 
 msgid "Repla&ce...\tCtrl+H"
-msgstr "R&eemplazar...\tCtrl+H"
+msgstr "Repla&ce...\tCtrl+H"
 
 msgid "&Marker...\tCtrl+Shift+M"
-msgstr "&Marcador...\tCtrl+Shift+M"
+msgstr "&குறிப்பான்...\tCtrl+Shift+M"
 
 msgid "Advanced"
-msgstr "A&vanzado"
+msgstr "மேம்பட்ட"
 
 msgid "&Copy With Line Numbers\tCtrl+Shift+C"
-msgstr "&Copiar con Números de Línea\tCtrl+Shift+C"
+msgstr "&கோடி எண்களுடன் நகலெடு\tCtrl+Shift+C"
 
 msgid "&Bookmarks"
-msgstr "Marcad&ores"
+msgstr "&புக்மார்க்குகள்"
 
 msgid "&Toggle Bookmark\tCtrl+F2"
-msgstr "Al&ternar marcador\tCtrl+F2"
+msgstr "&புக்மார்க்\tCtrl+F2"
 
 msgid "&Next Bookmark\tF2"
-msgstr "Marcador siguie&nte\tF2"
+msgstr "&அடுத்த புக்மார்க்\tF2"
 
 msgid "&Previous bookmark\tShift+F2"
-msgstr "Marcador &anterior\tShift+F2"
+msgstr "&முந்தைய புக்மார்க்\tShift+F2"
 
 msgid "&Clear All Bookmarks"
-msgstr "Quitar todos los mar&cadores"
+msgstr "&அனைத்து புக்மார்க்குகளையும் அழி"
 
 msgid "Syntax Highlight"
-msgstr "Seleccionar sintaxis"
+msgstr "தொடரியல் சிறப்பம்சமாக"
 
 msgid "&Diff Context"
-msgstr ""
+msgstr "&வேறுபாடு சூழல்"
 
 msgid "&All Lines"
-msgstr "Tod&as las Líneas"
+msgstr "&அனைத்து வரிகளும்"
 
 msgid "&0 Lines"
-msgstr "&0 Líneas"
+msgstr "&0 வரிகள்"
 
 msgid "&1 Line"
-msgstr "&1 Línea"
+msgstr "&1 வரி"
 
 msgid "&3 Lines"
-msgstr "&3 Líneas"
+msgstr "&3 வரிகள்"
 
 msgid "&5 Lines"
-msgstr "&5 Líneas"
+msgstr "&5 வரிகள்"
 
 msgid "&7 Lines"
-msgstr "&7 Líneas"
+msgstr "&7 வரிகள்"
 
 msgid "&9 Lines"
-msgstr "&9 Líneas"
+msgstr "&9 வரிகள்"
 
 msgid "&Toggle All and 0-9 Lines\tCtrl+D"
-msgstr ""
+msgstr "&அனைத்தையும் மற்றும் 0-9 வரிகளை மாற்றவும்\tCtrl+D"
 
 msgid "&Invert (Hide Different Lines)"
-msgstr "Invertir (Ocultar Renglones Diferentes)"
+msgstr "&தலைகீழ் (வெவ்வேறு வரிகளை மறை)"
 
 msgid "&Lock Panes"
-msgstr "B&loquear paneles"
+msgstr "&பேன்களை பூட்டு"
 
 msgid "&View Whitespace"
-msgstr "Mostrar &espacios"
+msgstr "&பார்வை வெண்வெளி"
 
 msgid "View E&OL"
-msgstr "Ver E&OL"
+msgstr "E&OL காண்க"
 
 msgid "Vie&w Line Differences"
-msgstr "M&ostrar diferencias de línea"
+msgstr "கோடு வேறுபாடுகளைப் பார்க்க&w"
 
 msgid "View Line &Numbers"
-msgstr "Ver &números de línea"
+msgstr "வரி &எண்களைக் காண்க"
 
 msgid "View &Margins"
-msgstr "Ver &márgenes"
+msgstr "&விளிம்புகளை காண்க"
 
 msgid "View To&p Margins"
-msgstr "Ver Margen Superior"
+msgstr "பார்&ப் ஓரங்கள்"
 
 msgid "W&rap Lines"
-msgstr "&Ajuste de línea"
+msgstr "W&rap கோடுகள்"
 
 msgid "Split V&ertically"
-msgstr "Dividir &Verticalmente"
+msgstr "வி&செர்டிகலாக பிளவு"
 
 msgid "Diff &Pane"
-msgstr "Panel de dife&rencias"
+msgstr "டிஃப் &பேன்"
 
 msgid "Lo&cation Pane"
-msgstr "Panel de po&sición"
+msgstr "லோ&கேஷன் பலகம்"
 
 msgid "Ne&xt Conflict\tAlt+Shift+Down"
-msgstr "Conflicto si&guiente\tAlt+Shift+Abajo"
+msgstr "Ne&xt மோதல்\tAlt+Shift+Down"
 
 msgid "Pre&vious Conflict\tAlt+Shift+Up"
-msgstr "Conflicto &anterior\tAlt+Shift+Arriba"
+msgstr "முன்&முரண்பாடு\tAlt+Shift+Up"
 
 msgid "A&dvanced"
-msgstr "Avanza&do"
+msgstr "ஏ&மேம்பட்ட"
 
 msgid "Next Difference Between Left and Middle\tAlt+1"
-msgstr "Diferencia Siguiente Entre la Izquierda y la Mitad\tAlt+1"
+msgstr "இடது மற்றும் நடு\tAlt+1 இடையே அடுத்த வேறுபாடு"
 
 msgid "Previous Difference Between Left And Middle\tAlt+Shift+1"
-msgstr "Diferencia Anterior Entre la Izquierda y la Mitad\tAlt+Shift+1"
+msgstr "இடது மற்றும் நடு\tAlt+Shift+1 இடையே முந்தைய வேறுபாடு"
 
 msgid "Next Difference Between Left and Right\tAlt+2"
-msgstr "Diferencia Siguiente Entre la Izquierda y la Derecha\tAlt+2"
+msgstr "இடது மற்றும் வலது\tAlt+2 இடையே அடுத்த வேறுபாடு"
 
 msgid "Previous Difference Between Left And Right\tAlt+Shift+2"
-msgstr "Diferencia Anterior Entre la Izquierda y la Derecha\tAlt+Shift+2"
+msgstr "இடது மற்றும் வலது\tAlt+Shift+2 இடையே முந்தைய வேறுபாடு"
 
 msgid "Next Difference Between Middle and Right\tAlt+3"
-msgstr "Diferencia Siguiente Entre la Mitad y la Derecha\tAlt+3"
+msgstr "மத்திய மற்றும் வலது\tAlt+3 இடையே அடுத்த வேறுபாடு"
 
 msgid "Previous Difference Between Middle And Right\tAlt+Shift+3"
-msgstr "Diferencia Anterior Entre la Mitad y la Derecha\tAlt+Shift+3"
+msgstr "நடு மற்றும் வலது இடையிலான முந்தைய வேறுபாடு\tAlt+Shift+3"
 
 msgid "Next Left Only Difference\tAlt+7"
-msgstr "Diferencia Siguiente (Sólo Izquierda)\tAlt+7"
+msgstr "அடுத்த இடப்புறம் மட்டும் வேறுபாடு\tAlt+7"
 
 msgid "Previous Left Only Difference\tAlt+Shift+7"
-msgstr "Diferencia Anterior (Sólo Izquierda)\tAlt+Shift+7"
+msgstr "முந்தைய இடது மட்டுமே வேறுபாடு\tAlt+Shift+7"
 
 msgid "Next Middle Only Difference\tAlt+8"
-msgstr "Diferencia Siguiente (Sólo Mitad)\tAlt+8"
+msgstr "அடுத்த நடுநிலை மட்டும் வேறுபாடு\tAlt+8"
 
 msgid "Previous Middle Only Difference\tAlt+Shift+8"
-msgstr "Diferencia Anterior (Sólo Mitad)\tAlt+Shift+8"
+msgstr "முந்தைய மத்திய மட்டும் வேறுபாடு\tAlt+Shift+8"
 
 msgid "Next Right Only Difference\tAlt+9"
-msgstr "Diferencia Siguiente (Sólo Derecha)\tAlt+9"
+msgstr "அடுத்த வலது மட்டும் வேறுபாடு\tAlt+9"
 
 msgid "Previous Right Only Difference\tAlt+Shift+9"
-msgstr "Diferencia Anterior (Sólo Derecha)\tAlt+Shift+9"
+msgstr "முந்தைய வலது மட்டும் வேறுபாடு\tAlt+Shift+9"
 
 msgid "Copy from &Left to"
-msgstr "Copiar desde la Izq. a"
+msgstr "&இடமிருந்து நகலெடு"
 
 msgid "&Middle"
-msgstr "&Mitad"
+msgstr "&நடுத்தர"
 
 msgid "&Right"
-msgstr "&Derecha"
+msgstr "&வலது"
 
 msgid "Copy from &Middle to"
-msgstr "Copiar desde la Mitad a"
+msgstr "&நடுவில் இருந்து நகலெடு"
 
 msgid "&Left"
-msgstr "&Izquierda"
+msgstr "&இடது"
 
 msgid "Copy from &Right to"
-msgstr "Copiar desde la Der. a"
+msgstr "&வலதுபுறத்தில் இருந்து நகலெடு"
 
 msgid "Copy Selected Line(s) from Le&ft to"
-msgstr "Copiar renglon(es) seleccionados de la Izquierda a"
+msgstr "தேர்ந்தெடுக்கப்பட்ட வரியை(களை) Le&ft இலிருந்து நகலெடுக்கவும்"
 
 msgid "Copy Selected Line(s) from Mi&ddle to"
-msgstr "Copiar renglon(es) seleccionados de la Mitad a"
+msgstr "தேர்ந்தெடுக்கப்பட்ட வரி(களை) Mi&ddle இலிருந்து நகலெடுக்கவும்"
 
 msgid "Copy Selected Line(s) from Ri&ght to"
-msgstr "Copiar renglon(es) seleccionados desde la Derecha a"
+msgstr "தேர்ந்தெடுக்கப்பட்ட வரியை(களை) வலது&வலிலிருந்து நகலெடுக்கவும்"
 
 msgid "Copy from Left\tAlt+Shift+Right"
-msgstr "Copiar desde lado izquierdo\tAlt+Shift+Der."
+msgstr "இடது\tAlt+Shift+வலது இலிருந்து நகலெடு"
 
 msgid "Copy from Right\tAlt+Shift+Left"
-msgstr "Copiar desde lado derecho\tAlt+Shift+Izq."
+msgstr "வலது\tAlt+Shift+Left இலிருந்து நகலெடு"
 
 msgid "C&opy to Right and Advance\tCtrl+Alt+Right"
-msgstr "C&opiar a la Derecha. y avanzar\tCtrl+Alt+Der."
+msgstr "வலது மற்றும் முன்னேறு\tCtrl+Alt+வலதுக்கு நகலெடுக்கவும்"
 
 msgid "Copy &to Left and Advance\tCtrl+Alt+Left"
-msgstr "Copiar a la I&zquierda y avanzar\tCtrl+Alt+Izq."
+msgstr "&இடதுபுறம் மற்றும் முன்னேறவும்\tCtrl+Alt+Left"
 
 msgid "Copy &All to Right"
-msgstr "Copiar todas al lado Derecho"
+msgstr "அனைத்தையும் வலமாக நகலெடுக்கவும்"
 
 msgid "Cop&y All to Left"
-msgstr "Copiar todas al lado Iz&quierdo"
+msgstr "அனைத்தையும் இடதுபுறமாக நகலெடுத்து வை"
 
 msgid "A&uto Merge\tCtrl+Alt+M"
-msgstr "A&utocombinar\tCtrl+Alt+M"
+msgstr "A&uto Merge\tCtrl+Alt+M"
 
 msgid "Add &Synchronization Point\tAlt+S"
-msgstr "Añadir Punto de &Sincronización\tAlt+S"
+msgstr "&Synchronization Point\tAlt+S சேர்"
 
 msgid "Clear Sync&hronization Points"
-msgstr "Limpiar puntos de sincroni&zación"
+msgstr "ஒத்திசைவு&hronization புள்ளிகளை அழிக்கவும்"
 
 msgid "Unpac&ker"
-msgstr "Desempaquetador"
+msgstr "அன்பேக்&கர்"
 
 msgid "&Prediffer"
-msgstr "&Precomparación"
+msgstr "&முன்னுரிமை"
 
 msgid "Apply Pre&differ..."
-msgstr ""
+msgstr "முன்&வேறுபடுத்து..."
 
 msgid "&Transform with editor script..."
-msgstr "&Transformar con script editor"
+msgstr "&எடிட்டர் ஸ்கிரிப்ட் மூலம் மாற்றவும்..."
 
 msgid "Sp&lit"
-msgstr "&Dividir"
+msgstr "ஸ்பி&லிட்"
 
 msgid "Comp&are"
-msgstr "Com&parar"
+msgstr "தொகுத்து&கொள்"
 
 msgid "Compare in new &window"
-msgstr "Comparar en nueva ventana"
+msgstr "புதிய &சாளரத்தில் ஒப்பிடு"
 
 msgid "Compare Non-hor&izontally..."
-msgstr "Comparar no hor&izontalmente..."
+msgstr "கிடைமட்டமாக&இடைமட்டமாக ஒப்பிடு..."
 
 msgid "Compare Non-hor&izontally"
-msgstr "Comparar no hor&izontalmente"
+msgstr "கிடைமட்டமாக&இடைமட்டமாக ஒப்பிடு"
 
 msgid "First &left item with second left item"
-msgstr "Primer e&lemento izquierdo con segundo elemento izquierdo"
+msgstr "இரண்டாவது இடது உருப்படியுடன் முதல் &இடது உருப்படி"
 
 msgid "First &right item with second right item"
-msgstr "Prime&r elemento derecho con segundo elemento derecho"
+msgstr "இரண்டாவது வலது உருப்படியுடன் முதல் &வலது உருப்படி"
 
 msgid "&First left item with second right item"
-msgstr "Primer elemento de la izq. con segundo elemento de la der."
+msgstr "&முதல் இடது உருப்படி இரண்டாவது வலது உருப்படியுடன்"
 
 msgid "&Second left item with first right item"
-msgstr "&Segundo elemento izquierdo con primer elemento derecho"
+msgstr "&முதல் வலது உருப்படியுடன் இரண்டாவது இடது உருப்படி"
 
 msgid "Co&mpare As"
-msgstr "Co&mparar Como"
+msgstr "இவ்வாறு இணை&ஒப்பிடு"
 
 #, c-format
 msgid "Left to Middle (%1 of %2)"
-msgstr "Lado izquierdo a la mitad (%1 de %2)"
+msgstr "இடமிருந்து நடுப்பகுதிக்கு (%2 இல்%1)"
 
 #, c-format
 msgid "Left to Right (%1 of %2)"
-msgstr "Lado izquierdo a lado derecho (%1 de %2)"
+msgstr "இடமிருந்து வலமாக (%2 இல்%1)"
 
 #, c-format
 msgid "Left to... (%1 of %2)"
-msgstr "Lado izquierdo a... (%1 de %2)"
+msgstr "இடது... (%2 இல் %1)"
 
 #, c-format
 msgid "Middle to Left (%1 of %2)"
-msgstr "De la mitad a lado izquierdo (%1 de %2)"
+msgstr "நடுவிலிருந்து இடது (%2 இல்%1)"
 
 #, c-format
 msgid "Middle to Right (%1 of %2)"
-msgstr "De la mitad a lado derecho (%1 de %2)"
+msgstr "நடுவிலிருந்து வலமாக (%2 இல்%1)"
 
 #, c-format
 msgid "Middle to... (%1 of %2)"
-msgstr "De la mitad a... (%1 de %2)"
+msgstr "மத்தியில் இருந்து... (%2 இல் %1)"
 
 #, c-format
 msgid "Right to Middle (%1 of %2)"
-msgstr "Lado derecho a la mitad (%1 de %2)"
+msgstr "நடுவிற்கு உரிமை (%2 இல்%1)"
 
 #, c-format
 msgid "Right to Left (%1 of %2)"
-msgstr "Lado derecho a lado izquierdo (%1 de %2)"
+msgstr "வலமிருந்து இடமாக (%2 இல்%1)"
 
 #, c-format
 msgid "Right to... (%1 of %2)"
-msgstr "Lado derecho a... (%1 de %2)"
+msgstr "உரிமை... (%2 இல் %1)"
 
 msgid "&Delete"
-msgstr "&Eliminar"
+msgstr "&நீக்கு"
 
 msgid "&Both"
-msgstr "&Ambos"
+msgstr "&இரண்டும்"
 
 msgid "&All"
-msgstr "Todos"
+msgstr "&அனைத்தும்"
 
 msgid "Re&name"
-msgstr "Re&nombrar"
+msgstr "மறு&பெயர்"
 
 msgid "&Hide Items"
-msgstr "&Ocultar elementos"
+msgstr "&உருப்படிகளை மறை"
 
 msgid "&Open Left"
-msgstr "Abrir archivo &Izquierdo"
+msgstr "&இடதுபுறம் திற"
 
 msgid "Open Midd&le"
-msgstr "Abrir archivo de la &Mitad"
+msgstr "திறந்த நடு&லே"
 
 msgid "O&pen Right"
-msgstr "Abrir archivo &Derecho"
+msgstr "வலது&திற"
 
 msgid "Cop&y Pathnames"
-msgstr "Copiar nombres de &ruta"
+msgstr "பாதை பெயர்களை நகலெடுக்கவும்"
 
 #, c-format
 msgid "Left (%1 of %2)"
-msgstr "Lado izquierdo (%1 de %2)"
+msgstr "இடது (%1 இல்%2)"
 
 #, c-format
 msgid "Middle (%1 of %2)"
-msgstr "Lado de la mitad (%1 de %2)"
+msgstr "நடுநிலை (%1 இன்%2)"
 
 #, c-format
 msgid "Right (%1 of %2)"
-msgstr "Lado derecho (%1 de %2)"
+msgstr "வலது (%2 இல்%1)"
 
 #, c-format
 msgid "Both (%1 of %2)"
-msgstr "Ambos lados (%1 de %2)"
+msgstr "இரண்டும் (%1 இல்%2)"
 
 #, c-format
 msgid "All (%1 of %2)"
-msgstr "Todo (%1 de %2)"
+msgstr "அனைத்தும் (%2 இல்%1)"
 
 msgid "Copy &Filenames"
-msgstr "Copiar nombres de &archivos"
+msgstr "&கோப்புப் பெயர்களை நகலெடு"
 
 msgid "Copy Items To Clip&board"
-msgstr "Copiar Elementos al Portapapeles"
+msgstr "கிளிப்&போர்டுக்கு பொருட்களை நகலெடுக்கவும்"
 
 msgid "&Zip"
-msgstr "&Zip"
+msgstr "&ஜிப்"
 
 #, c-format
 msgid "Both to... (%1 of %2)"
-msgstr "Ambos a... (% 1 de% 2)"
+msgstr "இரண்டுக்கும்... (%1 இல்%2)"
 
 #, c-format
 msgid "All to... (%1 of %2)"
-msgstr "Todo a... (%1 de %2)"
+msgstr "அனைவருக்கும்... (%2 இல் %1)"
 
 #, c-format
 msgid "Differences to... (%1 of %2)"
-msgstr "Diferencias a... (%1 de %2)"
+msgstr "
+வித்தியாசங்கள்... (%2 இல்% 1)"
 
 msgid "Left Shell menu"
-msgstr "Menú Izquierda"
+msgstr "இடது ஷெல் மெனு"
 
 msgid "Middle Shell menu"
-msgstr "Menu shell de la mitad"
+msgstr "மத்திய ஷெல் மெனு"
 
 msgid "Right Shell menu"
-msgstr "Menú Derecha"
+msgstr "வலது ஷெல் மெனு"
 
 msgid "Copy"
-msgstr "Copiar"
+msgstr "நகல்"
 
 msgid "&Copy Full Path"
-msgstr "&Copiar ruta completa"
+msgstr "&முழு பாதையை நகலெடு"
 
 msgid "Copy &Filename"
-msgstr "Copiar &nombre de archivo"
+msgstr "&கோப்பின் பெயரை நகலெடு"
 
 msgid "&Edit Caption"
-msgstr ""
+msgstr "தலைப்பை&திருத்து"
 
 msgid "&Open..."
-msgstr ""
+msgstr "&திற..."
 
 msgid "Unpacker Settings"
-msgstr "Opciones de Desempaquetador"
+msgstr "அன்பேக்கர் அமைப்புகள்"
 
 msgid "<None>"
-msgstr "<Ninguno>"
+msgstr "<இல்லை>"
 
 msgid "<Automatic>"
-msgstr "<Automático>"
+msgstr "<தானியங்கி>"
 
 msgid "&Select..."
-msgstr "&Seleccionar..."
+msgstr "&தேர்ந்தெடு..."
 
 msgid "Prediffer Settings"
-msgstr "Config. precomparación"
+msgstr "முன்னுரிமை அமைப்புகள்"
 
 msgid "G&o to Diff"
-msgstr "Ir a &diferencia"
+msgstr "வேற்றுமைக்கு ஜி&ஓ"
 
 msgid "&No Moved Blocks"
-msgstr "&No mostrar bloques movidos"
+msgstr "&நகர்த்தப்பட்ட தொகுதிகள் இல்லை"
 
 msgid "&All Moved Blocks"
-msgstr "Most&ar todos los bloques movidos"
+msgstr "&அனைத்து நகர்த்தப்பட்ட தொகுதிகள்"
 
 msgid "W&hitespaces"
-msgstr "Espacios en blanco"
+msgstr "W&hitespaces"
 
 msgid "Com&pare"
-msgstr "Co&mparar"
+msgstr "ஒப்புதல்&பரே"
 
 msgid "I&gnore changes"
-msgstr "I&gnorar cambios"
+msgstr "மாற்றங்களை நான்&புறக்கணிக்கிறேன்"
 
 msgid "Ig&nore all"
-msgstr "Ig&norar todos"
+msgstr "அனைத்தையும் கவனிக்க&நோர்"
 
 msgid "Ignore blan&k lines"
-msgstr "Ignorar diferencias de líneas &vacías"
+msgstr "வெற்று&k வரிகளை புறக்கணிக்கவும்"
 
 msgid "Ignore &case"
-msgstr "Ignorar MAYÚSCULAS/minús&culas"
+msgstr "புறக்கணிப்பு &வழக்கு"
 
 msgid "Igno&re carriage return differences (Windows/Unix/Mac)"
-msgstr "Igno&rar saltos de línea diferentes (Windows/Unix/Mac)"
+msgstr "வண்டி திரும்பும் வேறுபாடுகளை புறக்கணித்து&மறுக்கவும் (Windows/Unix/Mac)"
 
 msgid "Ignore codepage &differences"
-msgstr "Ignorar &diferencias en página de códigos"
+msgstr "குறியீடு பக்கம் & வேறுபாடுகளை புறக்கணிக்கவும்"
 
 msgid "Ignore num&bers"
-msgstr "Ignorar numeros"
+msgstr "எண்&பெர்களை புறக்கணிக்கவும்"
 
 msgid "Ignore c&omment differences"
-msgstr "Ignorar diferencias en comentarios"
+msgstr "க&கருத்து வேறுபாடுகளை புறக்கணிக்கவும்"
 
 msgid "&Include Subfolders"
-msgstr "&Incluir subcarpetas"
+msgstr "&உள்கோப்புகளை சேர்"
 
 msgid "&Compare method:"
-msgstr "Método de &comparación:"
+msgstr "&ஒப்பிடும் முறை:"
 
 msgid "Full Contents"
-msgstr "Todo el contenido"
+msgstr "முழு உள்ளடக்கம்"
 
 msgid "Quick Contents"
-msgstr "Contenido rápido"
+msgstr "விரைவான உள்ளடக்கங்கள்"
 
 msgid "Binary Contents"
-msgstr "Contenidos binarios"
+msgstr "பைனரி உள்ளடக்கங்கள்"
 
 msgid "Modified Date"
-msgstr "Fecha de modificación"
+msgstr "மாற்றியமைக்கப்பட்ட தேதி"
 
 msgid "Modified Date and Size"
-msgstr "Fecha de modificación y Tamaño"
+msgstr "மாற்றியமைக்கப்பட்ட தேதி மற்றும் அளவு"
 
 msgid "Size"
-msgstr "Tamaño"
+msgstr "அளவு"
 
 msgid "&Load Project..."
-msgstr "Cargar Proyecto..."
+msgstr "&திட்டத்தை ஏற்று..."
 
 msgid "About WinMerge"
-msgstr "Acerca de WinMerge"
+msgstr "WinMerge பற்றி"
 
 msgid "Visit the WinMerge Homepage!"
-msgstr "¡Visite la Web de WinMerge!"
+msgstr "WinMerge முகப்புப் பக்கத்தைப் பார்வையிடவும்!"
 
 msgid "OK"
-msgstr "Aceptar"
+msgstr "சரி"
 
 msgid "Contributors"
-msgstr "Colaboradores"
+msgstr "பங்களிப்பாளர்கள்"
 
 msgid "Select Files or Folders"
-msgstr "Seleccione Archivos o Carpetas"
+msgstr "கோப்புகள் அல்லது கோப்புறைகளை தேர்ந்தெடு"
 
 msgid "&1st File or Folder"
-msgstr "&1er Archivo o Carpeta"
+msgstr "&1வது கோப்பு அல்லது கோப்புறை"
 
 msgid "Re&ad-only"
-msgstr "Só&lo lectura"
+msgstr "மறு&விளம்பரம் மட்டும்"
 
 msgid "Swap 1st | 2nd"
-msgstr "Intercambiar 1ro | 2do"
+msgstr "1வது | 2வது இடமாற்று"
 
 msgid "&Browse..."
-msgstr "&Examinar..."
+msgstr "&உலாவு..."
 
 msgid "&2nd File or Folder"
-msgstr "&2do Archivo o Carpeta"
+msgstr "&2வது கோப்பு அல்லது கோப்புறை"
 
 msgid "Rea&d-only"
-msgstr "Sólo Lectura"
+msgstr "ரீ&d-மட்டும்"
 
 msgid "Swap 2nd | 3rd"
-msgstr "Intercambiar 2do | 3ro"
+msgstr "இரண்டாவது | 3வது இடமாற்று"
 
 msgid "B&rowse..."
-msgstr "Examina&r..."
+msgstr "B&rowse..."
 
 msgid "&3rd File or Folder (Optional)"
-msgstr "&3er Archivo o Carpeta (Opcional)"
+msgstr "&3வது கோப்பு அல்லது கோப்புறை (விரும்பினால்)"
 
 msgid "Read-o&nly"
-msgstr "Sólo Lectura"
+msgstr "படிக்க&nly"
 
 msgid "Swap 1st | 3rd"
-msgstr "Intercambiar 1ro | 3ro"
+msgstr "1வது | 3வது இடமாற்று"
 
 msgid "Browse..."
-msgstr "Examinar..."
+msgstr "உலாவு..."
 
 msgid " Folder: Filter"
-msgstr " Carpeta: Filtro"
+msgstr "கோப்புறை: வடிகட்டி"
 
 msgid " File: Prediffer Plugin"
-msgstr ""
+msgstr "கோப்பு: Prediffer Plugin"
 
 msgid " File: Unpacker Plugin"
-msgstr " Archivo: Plugin de Desempaquetador"
+msgstr "கோப்பு: அன்பேக்கர் செருகுநிரல்"
 
 msgid "Se&lect..."
-msgstr "Se&leccionar..."
+msgstr "தே&தேர்ந்தெடு..."
 
 msgid "Cancel"
-msgstr "Cancelar"
+msgstr "ரத்துசெய்"
 
 msgid "Status:"
-msgstr "Estado:"
+msgstr "நிலை:"
 
 msgid "Help"
-msgstr "Ayuda"
+msgstr "உதவி"
 
 msgid "General"
-msgstr "General"
+msgstr "பொது"
 
 msgid "Automatically &scroll to first difference"
-msgstr "Mover&se automáticamente a la primer diferencia"
+msgstr "தானாக &முதல் வேறுபாட்டிற்கு உருள்"
 
 msgid "Automatically s&croll to first inline difference"
-msgstr "Desplazarse Automáticamente a la primera diferencia"
+msgstr "முதல் இன்லைன் வேறுபாட்டிற்கு தானாக s&croll"
 
 msgid "Cl&ose windows with 'Esc':"
-msgstr "C&errar ventanas con 'Esc':"
+msgstr "'Esc' உடன் சாளரங்களை மூடவும்:"
 
 msgid "&Automatically verify paths in Open-dialog"
-msgstr "Comprobar rutas &automáticamente en la ventana de apertura"
+msgstr "திறந்த உரையாடலில் பாதைகளை தானாக சரிபார்க்கவும்"
 
 msgid "Single instance mode:"
-msgstr "Modo de instancia único:"
+msgstr "ஒற்றை நிகழ்வு முறை:"
 
 msgid "As&k when closing multiple windows"
-msgstr "Preguntar al cerrar &múltiples ventanas"
+msgstr "பல சாளரங்களை மூடும்போது As&k"
 
 msgid "&Preserve file time in file compare"
-msgstr "Mantener la hora en el archivo com&parado"
+msgstr "கோப்பு ஒப்பீட்டில் கோப்பு நேரத்தைப் பாதுகாக்கவும்"
 
 msgid "Show \"Select Files or Folders\" Dialog on Startup"
-msgstr "Mostrar \"Seleccione Archivos o Carpetas\" al Iniciar"
+msgstr "\"கோப்புகள் அல்லது கோப்புறைகளைத் தேர்ந்தெடு\" உரையாடலை தொடக்கத்தில் காட்டு"
 
 msgid "Close \"Select Files or Folders\" Dialog on clicking Compare button"
-msgstr "Cerrar \"Seleccione Archivos o Carpetas\" al hacer clic en Comparar"
+msgstr "\"கோப்புகள் அல்லது கோப்புறைகளைத் தேர்ந்தெடு\" உரையாடலை ஒப்பிடு பொத்தானைக் கிளிக் செய்வதன் மூலம் மூடவும்"
 
 msgid "Op&en-dialog Auto-Completion:"
-msgstr "A&uto-completar en diálogos de apertura:"
+msgstr "Op&en-dialog தானியங்கு நிறைவு:"
 
 msgid "Language:"
-msgstr "Idioma:"
+msgstr "மொழி:"
 
 msgid "Find"
-msgstr "Buscar"
+msgstr "கண்டுபிடி"
 
 msgid "Fi&nd what:"
-msgstr "&Buscar:"
+msgstr "எதைக் கண்டுபிடி:"
 
 msgid "Match &whole word only"
-msgstr "Sólo palabras &completas"
+msgstr "&முழு வார்த்தையை மட்டும் பொருத்து"
 
 msgid "Match &case"
-msgstr "Coincidir &MAYÚSCULAS/minúsculas"
+msgstr "&கேஸ் பொருத்து"
 
 msgid "Regular &expression"
-msgstr "E&xpresión regular"
+msgstr "வழக்கமான &வெளிப்பாடு"
 
 msgid "D&on't wrap end of file"
-msgstr "N&o sobrepasar fin de archivo"
+msgstr "கோப்பின் முடிவை மடிக்காதே"
 
 msgid "&Don't close this dialog box"
-msgstr "No cerrar este cua&dro de dialogo"
+msgstr "&இந்த உரையாடல் பெட்டியை மூட வேண்டாம்"
 
 msgid "&Find Next"
-msgstr "&Siguiente"
+msgstr "&அடுத்து கண்டுபிடி"
 
 msgid "Find &Prev"
-msgstr "&Anterior"
+msgstr "&முந்தையதைக் கண்டுபிடி"
 
 msgid "&Ok"
-msgstr "&Aceptar"
+msgstr "&சரி"
 
 msgid "Replace"
-msgstr "Reemplazar"
+msgstr "மாற்று"
 
 msgid "Re&place with:"
-msgstr "Reem&plazar con:"
+msgstr "இதனுடன் மறு&இடம்:"
 
 msgid "&Don't wrap end of file"
-msgstr "&Detenerse al final del archivo"
+msgstr "&கோப்பின் முடிவை மடிக்க வேண்டாம்"
 
 msgid "Replace in"
-msgstr "Reemplazar en"
+msgstr "உள்ளே மாற்றவும்"
 
 msgid "&Selection"
-msgstr "&Selección"
+msgstr "&தேர்வு"
 
 msgid "Wh&ole file"
-msgstr "T&odo el archivo"
+msgstr "Wh&ole கோப்பு"
 
 msgid "Find Pre&v"
-msgstr "Encontrar Anterior"
+msgstr "முன்&வி கண்டுபிடி"
 
 msgid "&Replace"
-msgstr "&Reemplazar"
+msgstr "&மாற்று"
 
 msgid "Replace &All"
-msgstr "Reempl. Tod&o"
+msgstr "&அனைத்தையும் மாற்றவும்"
 
 msgid "Markers"
-msgstr "Marcadores"
+msgstr "குறிப்பான்கள்"
 
 msgid "Enable &Markers"
-msgstr "Habilitar &Marcadores"
+msgstr "&குறிப்பான்களை இயக்கு"
 
 msgid "New"
-msgstr "Nuevo"
+msgstr "புதிய"
 
 msgid "&Background color:"
-msgstr "Color de fondo:"
+msgstr "&பின்னணி நிறம்:"
 
 msgid "&Apply"
-msgstr "&Aplicar"
+msgstr "&விண்ணப்பிக்கவும்"
 
 msgid "Line Filters"
-msgstr "Filtros de renglon"
+msgstr "வரி வடிப்பான்கள்"
 
 msgid "Enable Line Filters"
-msgstr "Permitir filtros de línea"
+msgstr "வரி வடிப்பான்களை இயக்கு"
 
 msgid "Regular Expressions (one per line):"
-msgstr "Expresiones regulares (una por línea):"
+msgstr "வழக்கமான வெளிப்பாடுகள் (ஒரு வரிக்கு ஒன்று):"
 
 msgid "Edit"
-msgstr "Editar"
+msgstr "திருத்து"
 
 msgid "Remove"
-msgstr "Eliminar"
+msgstr "நீக்கு"
 
 msgid "Substitution Filters"
-msgstr "Filtros de substitución"
+msgstr "மாற்று வடிப்பான்கள்"
 
 msgid "The changes that appear on the panels as the listed pairs below will be ignored or marked as insignificant. Patches are unaffected."
-msgstr "Los cambios que aparecen en los paneles, como aparecen en parejas abajo, serán ignorados o marcado como insignificante. Los parches no serán afectados."
+msgstr "கீழே பட்டியலிடப்பட்ட ஜோடிகளாக பேனல்களில் தோன்றும் மாற்றங்கள் புறக்கணிக்கப்படும் அல்லது முக்கியமற்றதாகக் குறிக்கப்படும். இணைப்புகள் பாதிக்கப்படாது."
 
 msgid "Enable"
-msgstr "Habilitar"
+msgstr "இயக்கு"
 
 msgid "Add"
-msgstr "Agregar"
+msgstr "சேர்"
 
 msgid "Clear"
-msgstr "Limpiar"
+msgstr "அழி"
 
 msgid "Colors"
-msgstr "Colores"
+msgstr "நிறங்கள்"
 
 msgid "Color Scheme:"
-msgstr "Esquema de colores"
+msgstr "வண்ணத் திட்டம்:"
 
 msgid "Background"
-msgstr "Fondo"
+msgstr "பின்னணி"
 
 msgid "Deleted"
-msgstr "Eliminada"
+msgstr "நீக்கப்பட்டது"
 
 msgid "Text"
-msgstr "Texto"
+msgstr "உரை"
 
 msgid "Difference:"
-msgstr "Diferencia:"
+msgstr "வேறுபாடு:"
 
 msgid "Selected Difference:"
-msgstr "Diferencia seleccionada:"
+msgstr "தேர்ந்தெடுக்கப்பட்ட வேறுபாடு:"
 
 msgid "Ignored Difference:"
-msgstr "Diferencia ignorada:"
+msgstr "புறக்கணிக்கப்பட்ட வேறுபாடு:"
 
 msgid "Moved:"
-msgstr "Movida:"
+msgstr "நகர்த்தப்பட்டது:"
 
 msgid "Selected Moved:"
-msgstr "Movida Seleccionada:"
+msgstr "தேர்ந்தெடுக்கப்பட்டது நகர்த்தப்பட்டது:"
 
 msgid "Same As The Next (3 panes):"
-msgstr "Igual que el siguiente (3 paneles):"
+msgstr "அடுத்ததைப் போலவே (3 பலகங்கள்):"
 
 msgid "Same As The Next (Selected):"
-msgstr "Igual que el siguiente (Seleccionado):"
+msgstr "அடுத்ததைப் போலவே (தேர்ந்தெடுக்கப்பட்டது):"
 
 msgid "Word Difference:"
-msgstr "Diferencia de palabra:"
+msgstr "சொல் வேறுபாடு:"
 
 msgid "Selected Word Diff:"
-msgstr "Dif. de palabra sel.:"
+msgstr "தேர்ந்தெடுக்கப்பட்ட வார்த்தை வேறுபாடு:"
 
 msgid "&Use folder compare colors"
-msgstr "&Usar colores para comparar carpetas"
+msgstr "நிறங்களை ஒப்பிட்டு கோப்புறையை பயன்படுத்தவும்"
 
 msgid "Items equal:"
-msgstr "Elementos iguales:"
+msgstr "உருப்படிகள் சமம்:"
 
 msgid "Items different:"
-msgstr "Elementos diferentes:"
+msgstr "உருப்படிகள் வேறுபட்டவை:"
 
 msgid "Items not exists all:"
-msgstr "Elementos inexistentes:"
+msgstr "உருப்படிகள் அனைத்தும் இல்லை:"
 
 msgid "Items filtered:"
-msgstr "Elementos filtrados:"
+msgstr "வடிகட்டப்பட்ட உருப்படிகள்:"
 
 msgid "Margin:"
-msgstr "Margen:"
+msgstr "விளிம்பு:"
 
 msgid "System"
-msgstr "Sistema"
+msgstr "அமைப்பு"
 
 msgid "&Send deleted files to Recycle Bin"
-msgstr "Enviar archivo&s eliminados a la Papelera de reciclaje"
+msgstr "&நீக்கப்பட்ட கோப்புகளை மறுசுழற்சி தொட்டிக்கு அனுப்பவும்"
 
 msgid "&External editor:"
-msgstr "Editor &externo:"
+msgstr "&வெளிப்புற எடிட்டர்:"
 
 msgid "&Filter folder:"
-msgstr "&Filtrar carpetas:"
+msgstr "&வடிகட்டி கோப்புறை:"
 
 msgid "Temporary files folder"
-msgstr "Carpeta de archivos temporales"
+msgstr "தற்காலிக கோப்புகள் கோப்புறை"
 
 msgid "S&ystem's temp folder"
-msgstr "Carpeta temporal del s&istema"
+msgstr "S&அமைப்பின் தற்காலிக கோப்புறை"
 
 msgid "C&ustom folder:"
-msgstr "Carpeta &personalizada:"
+msgstr "C&ustom கோப்புறை:"
 
 msgid "Br&owse..."
-msgstr "Examinar..."
+msgstr "உலாவும்..."
 
 msgid "Patch Generator"
-msgstr "Generar corrección"
+msgstr "பேட்ச் ஜெனரேட்டர்"
 
 msgid "File&1:"
-msgstr "Archivo &1:"
+msgstr "கோப்பு&1:"
 
 msgid "File&2:"
-msgstr "Archivo &2:"
+msgstr "கோப்பு&2:"
 
 msgid "&Swap"
-msgstr "&Intercambiar"
+msgstr "&மாற்று"
 
 msgid "&Copy to Clipboard"
-msgstr "&Copiar al Portapapeles"
+msgstr "&கிளிப்போர்டுக்கு நகலெடு"
 
 msgid "&Append to existing file"
-msgstr "&Anexar a archivo existente"
+msgstr "இருக்கும் கோப்பில்&சேர்க்கவும்"
 
 msgid "&Result:"
-msgstr "&Resultado:"
+msgstr "&முடிவு:"
 
 msgid "Bro&wse..."
-msgstr "E&xaminar..."
+msgstr "உலாவும்..."
 
 msgid "&Format"
-msgstr "&Formato"
+msgstr "&வடிவமைப்பு"
 
 msgid "St&yle:"
-msgstr "Es&tilo:"
+msgstr "நடை&நிலை:"
 
 msgid "&Context:"
-msgstr "&Contexto:"
+msgstr "&சூழல்:"
 
 msgid "Inclu&de command line"
-msgstr "Incluir línea de coman&do"
+msgstr "கட்டளை வரியைச் சேர்&செய்"
 
 msgid "Open to e&xternal editor"
-msgstr "Abrir en editor e&xterno"
+msgstr "மின்&புற எடிட்டருக்கு திற"
 
 msgid "Defaults"
-msgstr "Predeterminada"
+msgstr "இயல்புநிலைகள்"
 
 msgid "Display Columns"
-msgstr "Mostrar Columnas"
+msgstr "காட்சி நெடுவரிசைகள்"
 
 msgid "Move &Up"
-msgstr "&Arriba"
+msgstr "மேலே நகர்த்தவும்"
 
 msgid "Move &Down"
-msgstr "A&bajo"
+msgstr "&கீழே நகர்த்தவும்"
 
 msgid "&Additional Properties"
-msgstr "Propiedades &Adicionales"
+msgstr "&கூடுதல் பண்புகள்"
 
 msgid "Additional Properties"
-msgstr "Propiedades Adicionales"
+msgstr "கூடுதல் பண்புகள்"
 
 msgid "&>"
 msgstr "&>"
@@ -1417,414 +1414,416 @@ msgid "<<"
 msgstr "<<"
 
 msgid "Select Plugin"
-msgstr "Plugin Selecionado"
+msgstr "செருகுநிரலை தேர்ந்தெடு"
 
 msgid "Plugin &Name:"
-msgstr "Nombre de Plugin"
+msgstr "சொருகி &பெயர்:"
 
 msgid "Extensions list:"
-msgstr "Extensiones:"
+msgstr "நீட்டிப்பு பட்டியல்:"
 
 msgid "Description:"
-msgstr "Descripción:"
+msgstr "விளக்கம்:"
 
 msgid "Default arguments:"
-msgstr "Argumentos por defecto:"
+msgstr "இயல்புநிலை வாதங்கள்:"
 
 msgid "Display all plugins, don't check the extension"
-msgstr "Mostrar todos los plugins, no revisar la extensión."
+msgstr "எல்லா செருகுநிரல்களையும் காண்பி, நீட்டிப்பைச் சரிபார்க்க வேண்டாம்"
 
 msgid "&Open files in the same window type after unpacking"
-msgstr "Abrir archivos en la misma ventana después de desempaquetar"
+msgstr "&திறந்த பிறகு அதே சாளர வகை கோப்புகளை திறக்கவும்"
 
 msgid "&Plugin Pipeline:"
-msgstr "Pipelin de Plugins:"
+msgstr "&Plugin Pipeline:"
 
 msgid "&Add pipe"
-msgstr "Agregar pipe"
+msgstr "&குழாயைச் சேர்"
 
 msgid "Stop"
-msgstr "Detener"
+msgstr "நிறுத்து"
 
 msgid "Pause"
-msgstr "Pausar"
+msgstr "இடைநிறுத்தம்"
 
 msgid "Continue"
-msgstr "Reanudar"
+msgstr "தொடரவும்"
 
 msgid "Comparing items..."
-msgstr "Comparando elementos..."
+msgstr "உருப்படிகளை ஒப்பிடுகிறது..."
 
 msgid "Items compared:"
-msgstr "Elementos comparados:"
+msgstr "ஒப்பிடப்பட்ட உருப்படிகள்:"
 
 msgid "Items total:"
-msgstr "Total:"
+msgstr "உருப்படிகள் மொத்தம்:"
 
 msgid "Go to"
-msgstr "Ir a"
+msgstr "செல்"
 
 msgid "G&o to:"
-msgstr "Ir a:"
+msgstr "இதற்கு ஜி&ஓ:"
 
 msgid "File"
-msgstr "Archivo"
+msgstr "கோப்பு"
 
 msgid "Go to what"
-msgstr "Objetivo"
+msgstr "எதற்கு செல்"
 
 msgid "Li&ne"
-msgstr "Lí&nea"
+msgstr "லி&நே"
 
 msgid "&Difference"
-msgstr "&Diferencia"
+msgstr "&வேறுபாடு"
 
 msgid "&Go to"
-msgstr "Ir &a"
+msgstr "&செல்"
 
 msgid "Compare"
-msgstr "Comparar"
+msgstr "ஒப்பிடு"
 
 msgid "Whitespaces"
-msgstr "Espacios en blanco"
+msgstr "வெள்ளைவெளிகள்"
 
 msgid "&Compare"
-msgstr "&Comparar"
+msgstr "&ஒப்பிடு"
 
 msgid "&Ignore change"
-msgstr "&Ignorar cambios"
+msgstr "&மாற்றத்தை புறக்கணி"
 
 msgid "I&gnore all"
-msgstr "I&gnorar todos"
+msgstr "அனைத்தையும் புறக்கணி"
 
 msgid "E&nable moved block detection"
-msgstr "Habilitar detecció&n de bloques movidos"
+msgstr "நகர்த்தப்பட்ட தொகுதி கண்டறிதலை மின்&செயல்படுத்து"
 
 msgid "Align &similar lines"
-msgstr "Alinear renglones &simliares"
+msgstr "ஒத்த வரிகளை சீரமைக்கவும்"
 
 msgid "Diff &algorithm (Experimental):"
-msgstr ""
+msgstr "வேறுபாடு &அல்காரிதம் (பரிசோதனை):"
 
 msgid "Enable indent &heuristic"
-msgstr "Habilitar indentación &heuristica"
+msgstr "இன்டென்ட் &யூரிஸ்டிக் இயக்கு"
 
 msgid "Completely unhighlight the ignored differences"
-msgstr "Desmarcar por completo las diferencias"
+msgstr "புறக்கணிக்கப்பட்ட வேறுபாடுகளை முற்றிலுமாக வெளிப்படுத்தவும்"
 
 msgid "Editor"
-msgstr "Editor"
+msgstr "எடிட்டர்"
 
 msgid "&Highlight syntax"
-msgstr "Seleccionar sinta&xis"
+msgstr "&ஹைலைட் தொடரியல்"
 
 msgid "&Automatic rescan"
-msgstr "&Actualización automática"
+msgstr "&தானியங்கு மறு ஆய்வு"
 
 msgid "&Preserve original EOL chars"
-msgstr "&Preservar caracteres EOL originales"
+msgstr "&அசல் EOL எழுத்துகளை பாதுகாக்கவும்"
 
 msgid "Tabs"
-msgstr "Tabulaciones"
+msgstr "தாவல்கள்"
 
 msgid "&Tab size:"
-msgstr "&Tamaño de tab.:"
+msgstr "&தாவல் அளவு:"
 
 msgid "&Insert Tabs"
-msgstr "&Insertar tabulaciones"
+msgstr "&செருகு தாவல்கள்"
 
 msgid "Insert &Spaces"
-msgstr "Insertar e&spacios"
+msgstr "&இடைவெளிகளை செருகு"
 
 msgid "Line Difference Coloring"
-msgstr "Coloración de las diferencias de línea"
+msgstr "கோடு வேறுபாடு வண்ணம்"
 
 msgid "View line differences"
-msgstr "Ver diferencias de línea"
+msgstr "வரி வேறுபாடுகளைக் காண்க"
 
 msgid "&Character level"
-msgstr "A nivel de &caracter"
+msgstr "&எழுத்து நிலை"
 
 msgid "&Word-level:"
-msgstr "A nivel de pa&labra:"
+msgstr "&சொல்-நிலை:"
 
 msgid "W&ord break characters:"
-msgstr "Caracteres de salt&o de palabra:"
+msgstr "W&ord முறிவு எழுத்துகள்:"
 
 msgid "&Rendering Mode:"
-msgstr "Modo de &Renderizado:"
+msgstr "&ரெண்டரிங் பயன்முறை:"
 
 msgid "WinMerge allows hiding some common message boxes. Press the Reset button to make all message boxes visible again."
-msgstr "WinMerge permite ocultar algunos mensajes comunes. Pulse Restablecer para hacer todos los mensajes visibles de nuevo."
+msgstr "WinMerge சில பொதுவான செய்தி பெட்டிகளை மறைக்க அனுமதிக்கிறது. எல்லா செய்தி பெட்டிகளையும் மீண்டும் பார்க்க மீட்டமை பொத்தானை அழுத்தவும்."
 
 msgid "Reset"
-msgstr "Restablecer"
+msgstr "மீட்டமை"
 
 msgid "File Filters"
-msgstr "Filtros de archivos"
+msgstr "கோப்பு வடிப்பான்கள்"
 
 msgid "Test..."
-msgstr "Probar..."
+msgstr "சோதனை..."
 
 msgid "Install..."
-msgstr "Instalar..."
+msgstr "நிறுவு..."
 
 msgid "New..."
-msgstr "Nuevo..."
+msgstr "புதிய..."
 
 msgid "Edit..."
-msgstr "Editar..."
+msgstr "திருத்து..."
 
 msgid "Delete..."
-msgstr "Eliminar..."
+msgstr "நீக்கு..."
 
 msgid "Save modified files?"
-msgstr "¿Guardar archivos modificados?"
+msgstr "மாற்றியமைக்கப்பட்ட கோப்புகளை சேமிக்கவா?"
 
 msgid "Left side file"
-msgstr "Archivo en lado Izquierdo"
+msgstr "இடது பக்க கோப்பு"
 
 msgid "&Save changes"
-msgstr "&Guardar cambios"
+msgstr "&சேமி மாற்றங்கள்"
 
 msgid "&Discard changes"
-msgstr "&Descartar cambios"
+msgstr "&மாற்றங்களை நிராகரி"
 
 msgid "Middle side file"
-msgstr "Archivo del lado central"
+msgstr "நடு பக்க கோப்பு"
 
 msgid "Sa&ve changes"
-msgstr "Grabar cambios"
+msgstr "மாற்றங்களைச் சே&மி"
 
 msgid "Discard c&hanges"
-msgstr "Descartar cambios"
+msgstr "சி&ஹேஞ்ச்களை நிராகரி"
 
 msgid "Right side file"
-msgstr "Archivo en lado Derecho"
+msgstr "வலது பக்க கோப்பு"
 
 msgid "S&ave changes"
-msgstr "Gu&ardar cambios"
+msgstr "மாற்றங்களை ச&சேமி"
 
 msgid "Dis&card changes"
-msgstr "Des&cartar cambios"
+msgstr "மாற்றங்களை நிராகரி"
 
 msgid "Disca&rd All"
-msgstr "Desca&rtar todo"
+msgstr "அனைத்தையும் டிஸ்கா&rd"
 
 msgid "Codepage"
-msgstr "Página de códigos"
+msgstr "குறியீடு பக்கம்"
 
 msgid "Default Codepage"
-msgstr "Página de código predeterminada"
+msgstr "இயல்புநிலை குறியீடு பக்கம்"
 
 msgid "Select the default codepage assumed when loading non-Unicode files:"
-msgstr "Seleccione la página de códigos predeterminada a utilizar cuando se carguen archivos no Unicode:"
+msgstr "யூனிகோட் அல்லாத கோப்புகளை ஏற்றும் போது கருதப்படும் இயல்புநிலை குறியீட்டு பக்கத்தை தேர்ந்தெடுங்கள்:"
 
 msgid "System codepage"
-msgstr "Página de códigos del sistema"
+msgstr "கணினி குறியீட்டு பக்கம்"
 
 msgid "According to WinMerge User Interface"
-msgstr "La misma que la interfaz de usuario de WinMerge"
+msgstr "WinMerge பயனர் இடைமுகத்தின் படி"
 
 msgid "Custom codepage:"
-msgstr "Página de códigos:"
+msgstr "தனிப்பயன் குறியீட்டு பக்கம்:"
 
 msgid ""
 "Detect codepage info for these type of files: .html, .rc, .xml\n"
 "Need to restart session."
 msgstr ""
-"Detectar página de códigos para éstos archivos : .html, .rc, .xml\n"
-"Se necesita reiniciar."
+"இந்த வகை கோப்புகளுக்கான குறியீட்டுப் பக்கத் தகவலைக் கண்டறியவும்: .html, .rc, .xml\n"
+"அமர்வை மறுதொடக்கம் செய்ய வேண்டும்."
 
 msgid ""
 "Detect codepage for text files with mlang.dll\n"
 "Need to restart session."
 msgstr ""
-"Detectar página de códigos para archivos de texto usando mlang.dll\n"
-"Necesita reiniciar sesión."
+"Mlang.dll\n மூலம் உரைக் கோப்புகளுக்கான குறியீட்டுப் பக்கத்தைக் கண்டறிக"
+"அமர்வை மறுதொடக்கம் செய்ய வேண்டும்."
 
 msgid "Options"
-msgstr "Configuración"
+msgstr "விருப்பங்கள்"
 
 msgid "Import..."
-msgstr "Importar..."
+msgstr "இறக்குமதி..."
 
 msgid "Export..."
-msgstr "Exportar..."
+msgstr "ஏற்றுமதி..."
 
 msgid "Dialog"
-msgstr "Diálogo"
+msgstr "உரையாடல்"
 
 msgid "Keywords:"
-msgstr "Palabras clave:"
+msgstr "திறவுச்சொற்கள்:"
 
 msgid "Function names:"
-msgstr "Funciones:"
+msgstr "செயல்பாடு பெயர்கள்:"
 
 msgid "Comments:"
-msgstr "Comentarios:"
+msgstr "கருத்துகள்:"
 
 msgid "Numbers:"
-msgstr "Números:"
+msgstr "எண்கள்:"
 
 msgid "Operators:"
-msgstr "Operadores:"
+msgstr "ஆபரேட்டர்கள்:"
 
 msgid "Strings:"
-msgstr "Cadenas:"
+msgstr "சரங்கள்:"
 
 msgid "Preprocessor:"
-msgstr "Preprocesar:"
+msgstr "முன்செயலி:"
 
 msgid "User 1:"
-msgstr "Usuario 1:"
+msgstr "பயனர் 1:"
 
 msgid "User 2:"
-msgstr "Usuario 2:"
+msgstr "பயனர் 2:"
 
 msgid "Bold"
-msgstr "Negrita"
+msgstr "தடித்த"
 
 msgid "Search Marker:"
-msgstr "De búsqueda:"
+msgstr "தேடல் குறிப்பான்:"
 
 msgid "User Defined Marker1:"
-msgstr "Personalizado #1:"
+msgstr "பயனர் வரையறுக்கப்பட்ட மார்க்கர்1:"
 
 msgid "User Defined Marker2:"
-msgstr "Personalizado #2:"
+msgstr "பயனர் வரையறுக்கப்பட்ட மார்க்கர்2:"
 
 msgid "User Defined Marker3:"
-msgstr "Personalizado #3:"
+msgstr "பயனர் வரையறுக்கப்பட்ட மார்க்கர்3:"
 
 msgid "Folder Compare Report"
-msgstr "Informe de comparación de carpetas"
+msgstr "கோப்புறை ஒப்பீட்டு அறிக்கை"
 
 msgid "Report &File:"
-msgstr "Archivo de In&forme:"
+msgstr "அறிக்கை &கோப்பு:"
 
 msgid "&Style:"
-msgstr "E&stilo:"
+msgstr "&நடை:"
 
 msgid "&Include File Compare Report"
-msgstr "&Incluir informe de comparación de archivos"
+msgstr "&கோப்பு ஒப்பீட்டு அறிக்கையைச் சேர்"
 
 msgid "Shared or Private Filter"
-msgstr "Filtro Compartido o Privado"
+msgstr "பகிரப்பட்ட அல்லது தனிப்பட்ட வடிகட்டி"
 
 msgid "Which type of filter do you want to create?"
-msgstr "¿Qué tipo de filtro quiere crear?"
+msgstr "எந்த வகை வடிகட்டியை உருவாக்க விரும்புகிறீர்கள்?"
 
 msgid "Shared Filter (for all users on this machine)"
-msgstr "Filtro compartido (para todos los usuarios de esta máquina)"
+msgstr "பகிரப்பட்ட வடிகட்டி (இந்த கணினியில் உள்ள அனைத்து பயனர்களுக்கும்)"
 
 msgid "Private Filter (only for current user)"
-msgstr "Filtro privado (solo para el usuario actual)"
+msgstr "தனிப்பட்ட வடிகட்டி (தற்போதைய பயனருக்கு மட்டும்)"
 
 msgid "Archive Support"
-msgstr "Soporte de Archivos"
+msgstr "காப்பக ஆதரவு"
 
 msgid "&Enable archive file support"
-msgstr "Habilitar soport&e de archivos"
+msgstr "&காப்பக கோப்பு ஆதரவை இயக்கு"
 
 msgid "&Detect archive type from file signature"
-msgstr "&Detectar tipo de archivo por su firma"
+msgstr "கோப்பு கையொப்பத்திலிருந்து காப்பக வகையைக் கண்டறிக"
 
 msgid "Items saved to or restored from the project file:"
-msgstr "Elementos guardados o restaurados del archivo:"
+msgstr "திட்டக் கோப்பில் சேமிக்கப்பட்ட அல்லது மீட்டமைக்கப்பட்ட உருப்படிகள்:"
+மீ
+sgstr "எலிமென்டோஸ் கார்டடோஸ் அல்லது ரெஸ்டாராடோஸ் டெல் ஆர்க்கிவோ:"
 
 msgid "Compare Statistics"
-msgstr "Estadísticas de comparación"
+msgstr "புள்ளிவிவரங்களை ஒப்பிடு"
 
 msgid "Folders:"
-msgstr "Carpetas:"
+msgstr "கோப்புறைகள்:"
 
 msgid "Files:"
-msgstr "Archivos:"
+msgstr "கோப்புகள்:"
 
 msgid "Different"
-msgstr "Diferentes"
+msgstr "வேறு"
 
 msgid "Binary:"
-msgstr "Binario:"
+msgstr "பைனரி:"
 
 msgid "Unique"
-msgstr "Únicos"
+msgstr "தனித்துவம்"
 
 msgid "Left:"
-msgstr "Izquierda:"
+msgstr "இடது:"
 
 msgid "Right:"
-msgstr "Derecha:"
+msgstr "வலது:"
 
 msgid "Identical"
-msgstr "Iguales"
+msgstr "ஒத்த"
 
 msgid "Total:"
-msgstr "Total:"
+msgstr "மொத்தம்:"
 
 msgid "Close"
-msgstr "Cerrar"
+msgstr "மூடு"
 
 msgid "Middle:"
-msgstr "Centro:"
+msgstr "நடுவில்:"
 
 msgid "Missing Left:"
-msgstr "Faltante en la izquierda:"
+msgstr "இடது காணவில்லை:"
 
 msgid "Missing Middle:"
-msgstr "Faltante en el centro:"
+msgstr "மிஸ்ஸிங் மிடில்:"
 
 msgid "Missing Right:"
-msgstr "Faltante en la derecha:"
+msgstr "வலது காணவில்லை:"
 
 msgid "Affects"
-msgstr "Afectar"
+msgstr "பாதிக்கிறது"
 
 msgid "(Affects)"
-msgstr "(Afectar)"
+msgstr "(பாதிக்கிறது)"
 
 msgid "Select Codepage for"
-msgstr "Seleccione página de códigos para"
+msgstr "குறியீட்டுப் பக்கத்தைத் தேர்ந்தெடு"
 
 msgid "&File Loading:"
-msgstr "&Carga de archivos:"
+msgstr "&கோப்பு ஏற்றப்படுகிறது:"
 
 msgid "File &Saving:"
-msgstr "Guardado de archivo&s:"
+msgstr "கோப்பு &சேமித்தல்:"
 
 msgid "&Use same codepage for both"
-msgstr "&Usar la misma página de códigos para ambos"
+msgstr "&இரண்டிற்கும் ஒரே குறியீட்டுப் பக்கத்தைப் பயன்படுத்தவும்"
 
 msgid "&Cancel"
-msgstr "&Cancelar"
+msgstr "&ரத்துசெய்"
 
 msgid "Test Filter"
-msgstr "Prueba de filtro"
+msgstr "சோதனை வடிகட்டி"
 
 msgid "Testing filter:"
-msgstr "Probando filtro:"
+msgstr "சோதனை வடிகட்டி:"
 
 msgid "&Enter text to test:"
-msgstr "&Texto a probar:"
+msgstr "&சோதனை செய்ய உரையை உள்ளிடவும்:"
 
 msgid "&Folder Name"
-msgstr "&Nombre de carpeta"
+msgstr "&கோப்பு பெயர்"
 
 msgid "Result:"
-msgstr "Resultado:"
+msgstr "முடிவு:"
 
 msgid "&Test"
-msgstr "&Probar"
+msgstr "&சோதனை"
 
 msgid "&Close"
-msgstr "&Cerrar"
+msgstr "&மூடு"
 
 msgid "Table"
-msgstr "Tabla"
+msgstr "அட்டவணை"
 
 msgid "File type"
-msgstr "Tipo de archivo"
+msgstr "கோப்பு வகை"
 
 msgid "&CSV"
 msgstr "&CSV"
@@ -1833,219 +1832,220 @@ msgid "&TSV"
 msgstr "&TSV"
 
 msgid "Custom &Delimiter-Separated Values"
-msgstr "Valores Personalizados de Delimitador"
+msgstr "தனிப்பயன் &டிலிமிட்டர்-பிரிக்கப்பட்ட மதிப்புகள்"
 
 msgid "D&elimiter character:"
-msgstr "Carácter delimitador:"
+msgstr "டி&எலிமிட்டர் எழுத்து:"
 
 msgid "&Allow newlines in quotes"
-msgstr "Permitir nuevos renglones en comillas"
+msgstr "&மேற்கோள்களில் புதிய வரிகளை அனுமதி"
 
 msgid "&Quote character:"
-msgstr "Caracter de comilla:"
+msgstr "&மேற்கோள் எழுத்து:"
 
 msgid "&Use customized text colors"
-msgstr "&Usar colores personalizados para el texto"
+msgstr "&பிரத்தியேகப்படுத்தப்பட்ட உரை வண்ணங்களைப் பயன்படுத்தவும்"
 
 msgid "Whitespace:"
-msgstr "Espacio:"
+msgstr "வெள்ளைவெளி:"
 
 msgid "Regular text:"
-msgstr "Texto normal:"
+msgstr "வழக்கமான உரை:"
 
 msgid "Selection:"
-msgstr "Selección:"
+msgstr "தேர்வு:"
 
 msgid "Backup Files"
-msgstr "Archivos de seguridad"
+msgstr "காப்பு கோப்புகள்"
 
 msgid "Create backup files in:"
-msgstr "Crear archivos de seguridad en:"
+msgstr "இதில் காப்பு கோப்புகளை உருவாக்கு:"
 
 msgid "&Folder compare"
-msgstr "Comparación de &carpetas"
+msgstr "&கோப்புறை ஒப்பிடு"
 
 msgid "Fil&e compare"
-msgstr "Comparación d&e archivos"
+msgstr "ஒப்பிடவும் நிரப்பவும்"
 
 msgid "Create backup files into:"
-msgstr "Crear archivos de seguridad en:"
+msgstr "காப்பு கோப்புகளை உருவாக்கவும்:"
 
 msgid "&Original file's folder"
-msgstr "Carpeta del archivo &original"
+msgstr "&அசல் கோப்பின் கோப்புறை"
 
 msgid "&Global backup folder:"
-msgstr "Carpeta de copia de se&guridad:"
+msgstr "&உலகளாவிய காப்பு கோப்புறை:"
 
 msgid "Backup filename:"
-msgstr "Nombre de archivo:"
+msgstr "காப்பு கோப்பு பெயர்:"
 
 msgid "&Append .bak extension"
-msgstr "&Agregar extensión .bak"
+msgstr "&சேர்க்கவும் .bak நீட்டிப்பு"
 
 msgid "A&ppend timestamp"
-msgstr "Agregar &fecha"
+msgstr "நேர முத்திரையை ஒரு&சேர்க்கவும்"
 
 msgid "Confirm Copy"
-msgstr "Confirmar copia"
+msgstr "நகலை உறுதிப்படுத்து"
 
 msgid "Are you sure you want to copy XXX items?"
-msgstr "¿Está seguro que quiere copiar XXX elementos?"
+msgstr "நீங்கள் நிச்சயமாக XXX உருப்படிகளை நகலெடுக்க விரும்புகிறீர்களா?"
 
 msgid "From left"
-msgstr "De la Izquierda"
+msgstr "இடமிருந்து"
 
 msgid "To right"
-msgstr "A la Derecha"
+msgstr "வலப்புறம்"
 
 msgid "Don't ask this &question again."
-msgstr "No &preguntar de nuevo."
+msgstr "இந்த &கேள்வியை மீண்டும் கேட்க வேண்டாம்."
 
 msgid "Yes"
-msgstr "Sí"
+msgstr "ஆம்"
 
 msgid "No"
-msgstr "No"
+msgstr "இல்லை"
 
 msgid "Plugins"
-msgstr "Plugins"
+msgstr "செருகுகள்"
 
 msgid "&Enable plugins"
-msgstr "&Habilitar plugins"
+msgstr "&செருகுநிரல்களை இயக்கு"
 
 msgid "File filters:"
-msgstr "Filtros de archivos:"
+msgstr "கோப்பு வடிப்பான்கள்:"
 
 msgid "&Plugin arguments:"
-msgstr "Argumentos para plugin:"
+msgstr "&செருகு வாதங்கள்:"
 
 msgid "Enable &automatic unpacking/prediffing for the plugin"
-msgstr "Habilitar desempaquetado/PREDIFFING para el plugin"
+msgstr "இயக்கு
 
 msgid "Shell Integration"
-msgstr "Integración"
+msgstr "ஷெல் ஒருங்கிணைப்பு"
 
 msgid "Explorer"
-msgstr "Explorador"
+msgstr "எக்ஸ்ப்ளோரர்"
 
 msgid "E&nable advanced menu"
-msgstr "Habilitar menú ava&nzado"
+msgstr "மேம்பட்ட மெனுவை மின்&இயக்க"
 
 msgid "&Add to context menu"
-msgstr "&Agregar al menú contextual"
+msgstr "சூழ்நிலை மெனுவில்&சேர்"
 
 msgid "&Register shell extension"
-msgstr "&Registrar extensión de shell"
+msgstr "&பதிவு ஷெல் நீட்டிப்பு"
 
 msgid "&Unregister shell extension"
-msgstr "An&ular registro de extensión de shell"
+msgstr "&ஷெல் நீட்டிப்பைப் பதிவுநீக்கு"
 
 msgid "Register shell extension for current user &only"
-msgstr "Registrar extensión de Shell sólo para usuari&o actual"
+msgstr "தற்போதைய பயனருக்கு &மட்டுமே ஷெல் நீட்டிப்பைப் பதிவுசெய்க"
 
 msgid "Unregister shell extension for current user on&ly"
-msgstr "Quitar extensión de Shell só&lo para usuario actual"
+msgstr "தற்போதைய பயனருக்கான ஷெல் நீட்டிப்பை பதிவுநீக்கவும்&ly"
 
 msgid "Register shell extension for &Windows 11 or later"
-msgstr "Vincular extensiones shell para &Windows 11 o mas reciente"
+msgstr "&Windows 11 அல்லது அதற்குப் பிறகு ஷெல் நீட்டிப்பைப் பதிவுசெய்க"
 
 msgid "Unregister shell extension for W&indows 11 or later"
-msgstr "Desvincular extensiones shell para &Windows 11 o mas reciente"
+msgstr "W&indows 11 அல்லது அதற்குப் பிந்தையவற்றுக்கான ஷெல் நீட்டிப்பைப் பதிவுநீக்கவும்"
 
 msgctxt "Options dialog|Categories"
 msgid "Folder"
-msgstr "Carpeta"
+msgctxt "விருப்பங்கள் உரையாடல்|வகைகள்"
 
 msgid "S&top after first difference"
-msgstr "De&tener después de la primer diferencia"
+msgstr "முதல் வேறுபாட்டிற்கு பிறகு ஸ்&டாப்"
 
 msgid "Ign&ore time differences less than 3 seconds"
-msgstr "Ign&orar diferencias de tiempo menores de 3 segundos"
+msgstr "3 வினாடிகளுக்கு குறைவான நேர வேறுபாடுகளை புறக்கணிக்கவும்"
 
 msgid "Include &unique subfolders contents"
-msgstr "&Incluir contenidos únicos de subcarpetas"
+msgstr "தனிப்பட்ட துணைக் கோப்புறை உள்ளடக்கங்களைச் சேர்"
 
 msgid "&Automatically expand all subfolders"
-msgstr "Expandir &automáticamente todas las subcarpetas"
+msgstr "&தானாக அனைத்து துணை கோப்புறைகளை விரிவாக்கு"
 
 msgid "Ignore &Reparse Points"
-msgstr "Ignora&r y volver a analizar puntos"
+msgstr "புள்ளிகளை புறக்கணிக்கவும் &மறுபதிவு செய்யவும்"
 
 msgid "Threshold for switching to &quick compare (MB):"
-msgstr "Limite para cambiarse a comparación rápida (MB)"
+msgstr "&விரைவு ஒப்பீடு (MB) க்கு மாறுவதற்கான நுழைவு:"
 
 msgid "Threshold for switching to &binary compare (MB):"
-msgstr "Limite para cambiarse a comparación binaria (MB)"
+msgstr "&பைனரி ஒப்பீடு (MB) க்கு மாறுவதற்கான நுழைவாயில்:"
 
 msgid "&Number of CPU cores to use:"
-msgstr ""
+msgstr "&பயன்படுத்த வேண்டிய CPU கோர்களின் எண்ணிக்கை
+:"
 
 msgid "&CSV File Patterns:"
-msgstr "Patrones Archiv &CSV"
+msgstr "&CSV கோப்பு வடிவங்கள்:"
 
 msgid "&TSV File Patterns:"
-msgstr "Patrones Archiv &TSV"
+msgstr "&TSV கோப்பு வடிவங்கள்:"
 
 msgid "Custom Delimiter-Separated Values"
-msgstr "Separador Personalizado de Valores"
+msgstr "தனிப்பயன் டிலிமிட்டர்-பிரிக்கப்பட்ட மதிப்புகள்"
 
 msgid "File Patterns:"
-msgstr "Patrones de Archivo:"
+msgstr "கோப்பு வடிவங்கள்:"
 
 msgctxt "Options dialog|Categories"
 msgid "Binary"
-msgstr "Binario"
+msgctxt "விருப்பங்கள் உரையாடல்|வகைகள்"
 
 msgid "Binary File &Patterns:"
-msgstr "&Patrones de archivo binario:"
+msgstr "பைனரி கோப்பு & வடிவங்கள்:"
 
 msgid "Frhed settings"
-msgstr "Ajustes de Frhed"
+msgstr "ஃபிரட் செய்யப்பட்ட அமைப்புகள்"
 
 msgid "View &Settings..."
-msgstr "Ver Aju&stes..."
+msgstr "&அமைப்புகளைக் காண்க..."
 
 msgid "&Binary Mode..."
-msgstr "Modo &Binario..."
+msgstr "&பைனரி பயன்முறை..."
 
 msgid "&Character Set..."
-msgstr "&Conjunto de Caracteres..."
+msgstr "&எழுத்து தொகுப்பு..."
 
 msgid "Image"
-msgstr "Imagen"
+msgstr "படம்"
 
 msgid "Image File &Patterns:"
-msgstr "&Patrones de archivo de imagen:"
+msgstr "பட கோப்பு & வடிவங்கள்:"
 
 msgid "&Enable image compare in folder compare"
-msgstr "Habilitar comparación de imágenes al comparar folders"
+msgstr "கோப்பு ஒப்பிடுகையில் பட ஒப்பீட்டை இயக்கு"
 
 msgid "OCR result:"
-msgstr "Resultado de OCR:"
+msgstr "OCR முடிவு:"
 
 msgid "Webpage"
-msgstr "Pagina Web"
+msgstr "வலைப்பக்கம்"
 
 msgid "URL pattern to &include (Regular expression):"
-msgstr "Patrón URL a &incluir (Expresión regular)"
+msgstr "&சேர்ப்பதற்கான URL முறை (வழக்கமான வெளிப்பாடு):"
 
 msgid "URL pattern to &exclude (Regular expression):"
-msgstr "Patrón URL a &excluir (Expresión regular)"
+msgstr "&விலக்க URL பேட்டர்ன் (வழக்கமான வெளிப்பாடு):"
 
 msgid "&User data folder location:"
-msgstr "Ubicación de las carpetas de datos de usuario:"
+msgstr "&பயனர் தரவு கோப்புறை இருப்பிடம்:"
 
 msgid "&Separate user data folders for each pane"
-msgstr "Separar los datos de usuario de cada panel"
+msgstr "ஒவ்வொரு பலகத்திற்கும் தனித்தனி பயனர் தரவு கோப்புறைகள்"
 
 msgid "&Hex View"
-msgstr "Vista &Hexadecimal"
+msgstr "&ஹெக்ஸ் வியூ"
 
 msgid "EXT"
 msgstr "EXT"
 
 msgid "CAP"
-msgstr "MAY"
+msgstr "CAP"
 
 msgid "NUM"
 msgstr "NUM"
@@ -2054,7 +2054,7 @@ msgid "SCRL"
 msgstr "SCRL"
 
 msgid "OVR"
-msgstr "OVR"
+msgstr "ஓவிஆர்"
 
 msgid "REC"
 msgstr "REC"
@@ -2064,47 +2064,47 @@ msgid ""
 "New Documents (Ctrl+N)"
 msgstr ""
 "\n"
-"Nuevos Documentos (Ctrl+N)"
+"புதிய ஆவணங்கள் (Ctrl+N)"
 
 msgid ""
 "\n"
 "Open (Ctrl+O)"
 msgstr ""
 "\n"
-"Abrir (Ctrl+O)"
+"திற (Ctrl+O)"
 
 msgid ""
 "\n"
 "Save (Ctrl+S)"
 msgstr ""
 "\n"
-"Guardar (Ctrl+S)"
+"சேமி (Ctrl+S)"
 
 msgid "Unknown error attempting to open project file."
-msgstr "Error desconocido al intentar abrir el proyecto."
+msgstr "திட்டக் கோப்பை திறக்க முயற்சிக்கும் அறியப்படாத பிழை."
 
 msgid "Unknown error attempting to save project file."
-msgstr "Error desconocido al intentar guardar el proyecto."
+msgstr "திட்டக் கோப்பைச் சேமிக்க முயற்சிக்கும் அறியப்படாத பிழை."
 
 msgid "Project file successfully loaded."
-msgstr "Archivo de proyecto cargado con éxito."
+msgstr "திட்டக் கோப்பு வெற்றிகரமாக ஏற்றப்பட்டது."
 
 msgid "Project file successfully saved."
-msgstr "Archivo de proyecto guardado con éxito."
+msgstr "திட்டக் கோப்பு வெற்றிகரமாக சேமிக்கப்பட்டது."
 
 msgid ""
 "\n"
 "Undo (Ctrl+Z)"
 msgstr ""
 "\n"
-"Deshacer (Ctrl+Z)"
+"செயல்தவிர் (Ctrl+Z)"
 
 msgid ""
 "\n"
 "Redo (Ctrl+Y)"
 msgstr ""
 "\n"
-"Rehacer (Ctrl+Y)"
+"மீண்டும் செய் (Ctrl+Y)"
 
 msgid ""
 "\n"
@@ -2116,12 +2116,12 @@ msgid ""
 "WinMerge File Compare"
 msgstr ""
 "\n"
-"CompararArchivo\n"
+"கோப்பு ஒப்பிடு\n"
 "\n"
 "\n"
 "\n"
-"WinMerge.CompararArchivo\n"
-"WinMerge CompararArchivo"
+"WinMerge.FileCompare\n"
+"WinMerge கோப்பு ஒப்பிடு"
 
 msgid ""
 "\n"
@@ -2133,107 +2133,107 @@ msgid ""
 "WinMerge Folder Compare"
 msgstr ""
 "\n"
-"CompararCarpeta\n"
+"கோப்புறை ஒப்பிடு\n"
 "\n"
 "\n"
 "\n"
-"WinMerge.CompararCarpeta\n"
-"Comparar Carpeta de WinMerge"
+"WinMerge.Folder Compare\n"
+"WinMerge கோப்புறை ஒப்பிடு"
 
 msgid "WinMerge comes with ABSOLUTELY NO WARRANTY. This is free software and you are welcome to redistribute it under certain circumstances; see the GNU General Public License in the Help menu for details."
-msgstr "Winmerge no concede ABSOLUTAMENTE NINGUNA GARANTÍA. Es software libre, y puede ser redistribuido bajo ciertas reglas. Vea la Licencia Pública GNU en el menú Ayuda para más detalles."
+msgstr "WinMerge முற்றிலும் எந்த உத்தரவாதமும் இல்லை. இது இலவச மென்பொருள் மற்றும் சில சூழ்நிலைகளில் இதை மறுவிநியோகம் செய்ய உங்களை வரவேற்கிறோம்; விவரங்களுக்கு உதவி மெனுவில் உள்ள GNU பொது பொது உரிமத்தைப் பார்க்கவும்."
 
 msgid "&Abort"
-msgstr "&Cancelar"
+msgstr "&கடுப்பு"
 
 msgid "&Retry"
-msgstr "&Reintentar"
+msgstr "&மீண்டும் முயற்சிக்கவும்"
 
 msgid "&Ignore"
-msgstr "&Ignorar"
+msgstr "&புறக்கணி"
 
 msgid "Ignore &all"
-msgstr "Ignor&ar todos"
+msgstr "அனைத்தையும் புறக்கணிக்கவும்"
 
 msgid "&Yes"
-msgstr "&Sí"
+msgstr "&ஆம்"
 
 msgid "Yes to &all"
-msgstr "Sí a to&do"
+msgstr "&அனைத்திற்கும் ஆம்"
 
 msgid "&No"
-msgstr "&No"
+msgstr "&இல்லை"
 
 msgid "No to a&ll"
-msgstr "No a &todo"
+msgstr "அ&லுக்கு இல்லை"
 
 msgid "&Continue"
-msgstr "&Continuar"
+msgstr "&தொடரவும்"
 
 msgid "&Skip"
-msgstr "&Omitir"
+msgstr "&தவிர்"
 
 msgid "Skip &all"
-msgstr "O&mitir todos"
+msgstr "அனைத்தையும் தவிர்"
 
 msgid "Don't display this &message again."
-msgstr "No mostrar este &mensaje de nuevo."
+msgstr "இந்த &செய்தியை மீண்டும் காட்ட வேண்டாம்."
 
 msgid "To make this message box visible again, press the Reset button on the Message Boxes page of the Options dialog."
-msgstr "Para hacer visible de nuevo este dialogo de mensaje, presiona el botón de Resetear en la pagina de Dialogo de Mensajes del dialogo de Opciones"
+msgstr "இந்த செய்தி பெட்டியை மீண்டும் பார்க்க, விருப்பங்கள் உரையாடலின் செய்தி பெட்டிகள் பக்கத்தில் மீட்டமை பொத்தானை அழுத்தவும்."
 
 msgid "Syntax"
-msgstr "Sintaxis"
+msgstr "தொடரியல்"
 
 msgid "Color Schemes"
-msgstr "Esquema de Colores"
+msgstr "வண்ண திட்டங்கள்"
 
 msgid "Folder Compare"
-msgstr "Comparar de carpetas"
+msgstr "கோப்புறை ஒப்பிடு"
 
 msgid "Project"
-msgstr "Proyecto"
+msgstr "திட்டம்"
 
 msgid "Differences"
-msgstr "Diferencias"
+msgstr "வேறுபாடுகள்"
 
 msgid "Message Boxes"
-msgstr "Diálogos de Mensaje"
+msgstr "செய்தி பெட்டிகள்"
 
 msgid "To:"
-msgstr "A:"
+msgstr "இதற்கு:"
 
 msgid "From left:"
-msgstr "De la izquierda:"
+msgstr "இடமிருந்து:"
 
 msgid "To left:"
-msgstr "A la izquierda:"
+msgstr "இடதுபுறம்:"
 
 msgid "From right:"
-msgstr "De la derecha:"
+msgstr "வலமிருந்து:"
 
 msgid "To right:"
-msgstr "A la derecha:"
+msgstr "வலப்புறம்:"
 
 msgid "From middle:"
-msgstr "Desde la mitad:"
+msgstr "நடுவில் இருந்து:"
 
 msgid "To middle:"
-msgstr "A la mitad:"
+msgstr "நடுவிற்கு:"
 
 #, c-format
 msgid "Version %1"
-msgstr "Versión %1 - Español"
+msgstr "பதிப்பு %1"
 
 msgid "X64"
 msgstr "X64"
 
 #, c-format
 msgid "Options (%1)"
-msgstr "Configuración (%1)"
+msgstr "விருப்பங்கள் (%1)"
 
 msgid "All message boxes are now displayed again."
-msgstr "Todos los diálogos de mensaje se mostrarán de nuevo."
+msgstr "அனைத்து செய்தி பெட்டிகளும் இப்போது மீண்டும் காட்டப்படுகின்றன."
 
 #, c-format
 msgid ""
@@ -2241,84 +2241,85 @@ msgid ""
 "\n"
 "Please use values 1 - %1."
 msgstr ""
-"Valor en Tamaño de Tab - el valor no está en el rango aceptado por WinMerge.\n"
+"தாவல் அளவு -புலத்தில் மதிப்பு WinMerge ஏற்கும் வரம்பில் இல்லை.\n"
 "\n"
-"Por favor, utilice valores 1 - %1."
+"தயவுசெய்து 1 - % 1 மதிப்புகளைப் பயன்படுத்தவும்."
 
 msgid "Open"
-msgstr "Abrir"
+msgstr "திற"
 
 msgid "Programs|*.exe;*.bat;*.cmd|All Files (*.*)|*.*||"
-msgstr "Programas|*.exe;*.bat;*.cmd|Todos los archivos (*.*)|*.*||"
+msgstr "நிரல்கள்|*.exe;*.bat;*.c
+md|அனைத்து கோப்புகளும் (*.*)|*.*||"
 
 msgid "All Files (*.*)|*.*||"
-msgstr "Todos los archivos (*.*)|*.*||"
+msgstr "அனைத்து கோப்புகளும் (*.*)|*.*||"
 
 msgid "WinMerge Project Files (*.WinMerge)|*.WinMerge||"
-msgstr "Archivos de Proyecto de WinMerge (*.WinMerge)|*.WinMerge||"
+msgstr "WinMerge திட்ட கோப்புகள் (*.WinMerge)|*.WinMerge||"
 
 msgid "Options files (*.ini)|*.ini|All Files (*.*)|*.*||"
-msgstr "Archivos de opciones (*.ini)|*.ini|Todos los archivos (*.*)|*.*||"
+msgstr "விருப்ப கோப்புகள் (*.ini)|*.ini|அனைத்து கோப்புகளும் (*.*)|*.*||"
 
 msgid "Text Files (*.csv;*.asc;*.rpt;*.txt)|*.csv;*.asc;*.rpt;*.txt|All Files (*.*)|*.*||"
-msgstr "Archivos de texto (*.csv;*.asc;*.rpt;*.txt)|*.csv;*.asc;*.rpt;*.txt|Todos los archivos (*.*)|*.*||"
+msgstr "உரை கோப்புகள் (*.csv;*.asc;*.rpt;*.txt)|*.csv;*.asc;*.rpt;*.txt|அனைத்து கோப்புகளும் (*.*)|*.*| |"
 
 msgid "HTML Files (*.htm,*.html)|*.htm;*.html|All Files (*.*)|*.*||"
-msgstr "Archivos HTML (*.htm,*.html)|*.htm;*.html|Todos los archivos (*.*)|*.*||"
+msgstr "HTML கோப்புகள் (*.htm,*.html)|*.htm;*.html|அனைத்து கோப்புகளும் (*.*)|*.*||"
 
 msgid "XML Files (*.xml)|*.xml|All Files (*.*)|*.*||"
-msgstr "Archivos XML (*.xml)|*.xml|Todos los archivos (*.*)|*.*||"
+msgstr "எக்ஸ்எம்எல் கோப்புகள் (*.xml)|*.xml|அனைத்து கோப்புகளும் (*.*)|*.*||"
 
 msgid "File Type"
-msgstr "Tipo de archivo"
+msgstr "கோப்பு வகை"
 
 msgid "Extension"
-msgstr "Extensión"
+msgstr "நீட்டிப்பு"
 
 msgid "Message"
-msgstr "Mensaje"
+msgstr "செய்தி"
 
 msgid "Answer"
-msgstr "Respuesta"
+msgstr "பதில்"
 
 msgid "Item"
-msgstr "Elemento"
+msgstr "உருப்படி"
 
 msgid "Load"
-msgstr "Abrir"
+msgstr "ஏற்றவும்"
 
 msgid "Save"
-msgstr "Guardar"
+msgstr "சேமி"
 
 msgid "Include Subfolders"
-msgstr "Incluir subcarpetas"
+msgstr "துணை கோப்புறைகளை உள்ளடக்கு"
 
 msgid "Compare Options"
-msgstr "Opciones de Comparación"
+msgstr "விருப்பங்களை ஒப்பிடு"
 
 msgid "Hidden Items"
-msgstr "Elementos Ocultos"
+msgstr "மறைக்கப்பட்ட பொருட்கள்"
 
 msgid "Name"
-msgstr "Nombre"
+msgstr "பெயர்"
 
 msgid "Location"
-msgstr "Ubicación"
+msgstr "இடம்"
 
 msgid "Filters"
-msgstr "Filtros"
+msgstr "வடிப்பான்கள்"
 
 msgid "[F] "
 msgstr "[F] "
 
 msgid "Description"
-msgstr "Descripción"
+msgstr "விளக்கம்"
 
 msgid "Select filename for new filter"
-msgstr "Seleccione nombre de archivo para el nuevo filtro"
+msgstr "புதிய வடிப்பானுக்கான கோப்பு பெயரை தேர்ந்தெடு"
 
 msgid "File Filters (*.flt)|*.flt|All Files (*.*)|*.*||"
-msgstr "Archivo de filtros (*.flt)|*.flt|Todos los archivos(*.*)|*.*||"
+msgstr "கோப்பு வடிகட்டிகள் (*.flt)|*.flt|அனைத்து கோப்புகளும் (*.*)|*.*||"
 
 #, c-format
 msgid ""
@@ -2327,10 +2328,10 @@ msgid ""
 "Please copy file %1 to WinMerge/Filters folder:\n"
 "%2."
 msgstr ""
-"¡No se encuentra la plantilla de filtro de archivos!\n"
+"கோப்பு வடிகட்டி டெம்ப்ளேட் கோப்பைக் கண்டுபிடிக்க முடியவில்லை!\n"
 "\n"
-"Por favor copie el archivo %1 a la carpeta WinMerge/Filters:\n"
-"%2."
+"% 1 கோப்பை WinMerge/Filters கோப்புறைக்கு நகலெடுக்கவும்:\n"
+"% 2."
 
 #, c-format
 msgid ""
@@ -2339,19 +2340,19 @@ msgid ""
 "\n"
 "Please make sure the folder exists and is writable."
 msgstr ""
-"No se pudo copiar el archivo con la plantilla de filtros de archivo a la carpeta:\n"
-"%1\n"
+"வடிப்பான் டெம்ப்ளேட் கோப்பை வடிகட்டி கோப்புறைக்கு நகலெடுக்க முடியாது:\n"
+"% 1\n"
 "\n"
-"Por favor, compruebe que la carpeta existe y que tiene permisos de escritura en ella."
+"கோப்புறை உள்ளது மற்றும் எழுதக்கூடியது என்பதை உறுதிப்படுத்தவும்."
 
 msgid ""
 "User's filter file folder is not defined!\n"
 "\n"
 "Please select filter folder in Options/System."
 msgstr ""
-"¡La carpeta de filtros de usuario no está definida!\n"
+"பயனரின் வடிகட்டி கோப்பு கோப்புறை வரையறுக்கப்படவில்லை!\n"
 "\n"
-"Por favor, seleccione la carpeta de filtros en Configuración/Sistema."
+"விருப்பங்கள்/அமைப்பில் வடிகட்டி கோப்புறையைத் தேர்ந்தெடுக்கவும்."
 
 #, c-format
 msgid ""
@@ -2360,156 +2361,156 @@ msgid ""
 "\n"
 "Maybe the file is read-only?"
 msgstr ""
-"Error al eliminar el archivo de filtros:\n"
-"%1\n"
+"வடிப்பான் கோப்பை நீக்குவதில் தோல்வி:\n"
+"% 1\n"
 "\n"
-"¿Quiza el archivo es de solo lectura?"
+"ஒருவேளை கோப்பு படிக்க மட்டுமே உள்ளதா?"
 
 msgid "Locate filter file to install"
-msgstr "Seleccione el archivo de filtros a instalar"
+msgstr "நிறுவுவதற்கான வடிகட்டி கோப்பைக் கண்டறிக"
 
 msgid ""
 "Installing filter file failed.\n"
 "\n"
 "Could not copy new filter file to filter folder."
 msgstr ""
-"La instalación del archivo de filtros ha fallado.\n"
+"வடிப்பான் கோப்பை நிறுவுவதில் தோல்வி.\n"
 "\n"
-"No se pudo copiar el archivo de filtros a la carpeta de filtros."
+"புதிய வடிகட்டி கோப்பை வடிகட்டி கோப்புறைக்கு நகலெடுக்க முடியவில்லை."
 
 msgid "Filter file already exists. Overwrite existing filter?"
-msgstr "El archivo de filtros ya existe. ¿Desea sobreescribirlo?"
+msgstr "வடிகட்டி கோப்பு ஏற்கனவே உள்ளது. ஏற்கனவே உள்ள வடிகட்டியை மேலெழுதவா?"
 
 msgid "Regular expression"
-msgstr "Expresión regular"
+msgstr "வழக்கமான வெளிப்பாடு"
 
 msgid ""
 "Filters were updated. Do you want to refresh all open folder compares?\n"
 "\n"
 "If you do not want to refresh all compares now you can select 'No' and refresh compares later."
 msgstr ""
-"Los Filtros fueron actualizados. ¿Quiere actualizar todas comparaciones de carpetas abiertas?\n"
+"வடிப்பான்கள் புதுப்பிக்கப்பட்டன. அனைத்து திறந்த கோப்புறை ஒப்பீடுகளையும் புதுப்பிக்க விரும்புகிறீர்களா?\n"
 "\n"
-"Si no quiere actualizar todas las comparaciones puede elegir 'No' y actualizar las comparaciones después."
+"நீங்கள் இப்போது எல்லா ஒப்பீடுகளையும் புதுப்பிக்க விரும்பவில்லை என்றால், 'இல்லை' என்பதைத் தேர்ந்தெடுத்து, பின்னர் ஒப்பிடும்போது புதுப்பிக்கலாம்."
 
 msgid "Folder Comparison Results"
-msgstr "Resultado de la comparación de carpetas"
+msgstr "கோப்புறை ஒப்பீட்டு முடிவுகள்"
 
 msgid "File Comparison"
-msgstr "Comparación de archivos"
+msgstr "கோப்பு ஒப்பீடு"
 
 msgid "Untitled left"
-msgstr "Sin título izquierda"
+msgstr "தலைப்பிடப்படாத இடது"
 
 msgid "Untitled middle"
-msgstr "Sin título centro"
+msgstr "பெயரிடப்படாத நடு"
 
 msgid "Untitled right"
-msgstr "Sin título derecha"
+msgstr "பெயரிடப்படாத வலது"
 
 msgid "Base File"
-msgstr "Archivo base"
+msgstr "அடிப்படை கோப்பு"
 
 msgid "Theirs File"
-msgstr "Archivo externo"
+msgstr "அவர்களின் கோப்பு"
 
 msgid "Mine File"
-msgstr "Archivo interno"
+msgstr "என்னுடைய கோப்பு"
 
 msgid "Original File"
-msgstr "Archivo original"
+msgstr "அசல் கோப்பு"
 
 #, c-format
 msgid "Ln: %s  Col: %d/%d  Ch: %d/%d  EOL: %s"
-msgstr "Ren: %s  Col: %d/%d  Car: %d/%d  EOL: %s"
+msgstr "Ln: %s Col: %d/%d Ch: %d/%d EOL: %s"
 
 #, c-format
 msgid "Line: %s"
-msgstr "Línea: %s"
+msgstr "வரி: %s"
 
 #, c-format
 msgid "Ln: %s  Col: %d/%d  Ch: %d/%d"
-msgstr "Ren: %s  Col: %d/%d  Car: %d/%d"
+msgstr "Ln: %s Col: %d/%d Ch: %d/%d"
 
 #, c-format
 msgid "  Sel: %d | %d"
-msgstr "  Sel: %d | %d"
+msgstr "செல்: %d | %d"
 
 msgid "Merge"
-msgstr "Combinar"
+msgstr "ஒன்றிணைத்தல்"
 
 #, c-format
 msgid "Difference %1 of %2"
-msgstr "Diferencia %1 de %2"
+msgstr "%2 இல் %1 வேறுபாடு"
 
 #, c-format
 msgid "%1 Differences Found"
-msgstr "%1 Diferencias encontradas"
+msgstr "%1 வேறுபாடுகள் காணப்பட்டன"
 
 msgid "1 Difference Found"
-msgstr "1 Diferencia encontrada"
+msgstr "1 வேறுபாடு காணப்பட்டது"
 
 #. Abbreviation from "Read Only"
 msgid "RO"
-msgstr "SL"
+msgstr "RO"
 
 #, c-format
 msgid "Item %1 of %2"
-msgstr "Archivo %1 de %2"
+msgstr "%2 இல் உருப்படி %1"
 
 #, c-format
 msgid "Items: %1"
-msgstr "Elementos: %1"
+msgstr "உருப்படிகள்: %1"
 
 msgid "Select two existing folders or files to compare."
-msgstr "Seleccione dos carpetas o archivos existentes a comparar."
+msgstr "ஒப்பிடுவதற்கு ஏற்கனவே உள்ள இரண்டு கோப்புறைகள் அல்லது கோப்புகளைத் தேர்ந்தெடுக்கவும்."
 
 msgid "Folder Selection"
-msgstr "Selección de carpeta"
+msgstr "கோப்புறை தேர்வு"
 
 msgid "Select two (or three) folders or two (or three) files to compare."
-msgstr "Seleccionar dos (o tres) carpetas o dos (o tres) archivos para comparar."
+msgstr "ஒப்பிட இரண்டு (அல்லது மூன்று) கோப்புறைகள் அல்லது இரண்டு (அல்லது மூன்று) கோப்புகளைத் தேர்ந்தெடுக்கவும்."
 
 msgid "Left (1st) path is invalid!"
-msgstr "¡La ruta izquierda (1ra) no es válida!"
+msgstr "இடது (1வது) பாதை தவறானது!"
 
 msgid "Middle (2nd) path is invalid!"
-msgstr "¡La ruta de la mitad (2da) no es válida!"
+msgstr "நடுத்தர (2வது) பாதை தவறானது!"
 
 msgid "Right (2nd) path is invalid!"
-msgstr "¡La ruta derecha (2da) no es válida!"
+msgstr "வலது (2வது) பாதை தவறானது!"
 
 msgid "Right (3rd) path is invalid!"
-msgstr "¡La ruta derecha (3ra) no es válida!"
+msgstr "வலது (3வது) பாதை தவறானது!"
 
 msgid "Both paths are invalid!"
-msgstr "¡Ninguna ruta es válida!"
+msgstr "இரண்டு பாதைகளும் தவறானவை!"
 
 msgid "Left (1st) and Middle (2nd) paths are invalid!"
-msgstr "¡Las rutas izquierda (1ra) y media (2da) no son válidas!"
+msgstr "இடது (1வது) மற்றும் நடு (2வது) பாதைகள் தவறானவை!"
 
 msgid "Left (1st) and Right (3rd) paths are invalid!"
-msgstr "¡Las rutas izquierda (1ra) y derecha (3ra) no son válidas!"
+msgstr "இடது (1வது) மற்றும் வலது (3வது) பாதைகள் தவறானவை!"
 
 msgid "Middle (2nd) and Right (3rd) paths are invalid!"
-msgstr "¡Las rutas media (2da) y derecha (3ra) no son válidas!"
+msgstr "நடுத்தர (2வது) மற்றும் வலது (3வது) பாதைகள் தவறானவை!"
 
 msgid "All paths are invalid!"
-msgstr "¡Ninguna ruta es válida!"
+msgstr "அனைத்து பாதைகளும் தவறானவை!"
 
 msgid "Only enabled for file comparisons"
-msgstr "Activar sólo para comparar archivos"
+msgstr "கோப்பு ஒப்பீடுகளுக்கு மட்டும் இயக்கப்பட்டது"
 
 msgid "Cannot compare file and folder!"
-msgstr "¡Imposible comparar un archivo y una carpeta!"
+msgstr "கோப்பு மற்றும் கோப்புறையை ஒப்பிட முடியாது!"
 
 #, c-format
 msgid "File not found: %1"
-msgstr "Archivo no encontrado: %1"
+msgstr "கோப்பு கிடைக்கவில்லை: %1"
 
 #, c-format
 msgid "File not unpacked: %1"
-msgstr "Archivo no desempaquetado: %1"
+msgstr "கோப்பு திறக்கப்படவில்லை: %1"
 
 #, c-format
 msgid ""
@@ -2518,13 +2519,13 @@ msgid ""
 "\n"
 "%2"
 msgstr ""
-"Imposible abrir archivo\n"
-"%1\n"
+"கோப்பை திறக்க முடியவில்லை\n"
+"% 1\n"
 "\n"
 "%2"
 
 msgid "Failed to parse conflict file."
-msgstr "Falló al corregir archivo conflictivo."
+msgstr "மோதல் கோப்பை அலசுவதில் தோல்வி."
 
 #, c-format
 msgid ""
@@ -2532,9 +2533,9 @@ msgid ""
 "%1\n"
 "is not a conflict file."
 msgstr ""
-"El archivo\n"
-"%1\n"
-"no es conflictivo."
+"கோப்பு\n"
+"% 1\n"
+"ஒரு மோதல் கோப்பு அல்ல."
 
 msgid ""
 "You are about to compare very large files.\n"
@@ -2542,24 +2543,24 @@ msgid ""
 "Do you want to show only the comparison results, not the contents of the files?\n"
 "\n"
 msgstr ""
-"Esta a punto de comparar archivos muy grandes\n"
-"Mostrar los contenidos de esos archivos requiere una gran cantidad de memoria\n"
-"Quiere mostrar unicamente las diferencias en lugar de todo el contenido de los archivos ?\n"
+"நீங்கள் மிகப் பெரிய கோப்புகளை ஒப்பிடப் போகிறீர்கள்.\n"
+"கோப்புகளின் உள்ளடக்கங்களைக் காண்பிப்பதற்கு மிகப் பெரிய அளவிலான நினைவகம் தேவைப்படுகிறது.\n"
+"கோப்புகளின் உள்ளடக்கங்களைக் காட்டாமல், ஒப்பீட்டு முடிவுகளை மட்டும் காட்ட விரும்புகிறீர்களா?\n"
 "\n"
 
 msgid "Save As"
-msgstr "Guardar Como"
+msgstr "இவ்வாறு சேமி"
 
 #, c-format
 msgid "Save changes to %1?"
-msgstr "¿Guardar los cambios a %1?"
+msgstr "மாற்றங்களை %1 இல் சேமிக்கவா?"
 
 #, c-format
 msgid "%1 is marked read-only. Would you like to override the read-only file? (No to save as new filename.)"
-msgstr "%1 es de sólo lectura. Desea sobre-escribirlo de todos modos? (No salvarlo con un nuevo nombre.)"
+msgstr "%1 படிக்க மட்டுமே எனக் குறிக்கப்பட்டுள்ளது. படிக்க மட்டுமேயான கோப்பை மேலெழுத விரும்புகிறீர்களா? (புதிய கோப்புப் பெயராகச் சேமிக்க வேண்டாம்.)"
 
 msgid "Error backing up file"
-msgstr "Error haciendo copia de seguridad del archivo"
+msgstr "கோப்பை காப்புப் பிரதி எடுப்பதில் பிழை"
 
 #, c-format
 msgid ""
@@ -2568,10 +2569,10 @@ msgid ""
 "\n"
 "Continue anyway?"
 msgstr ""
-"No se pudo hacer copia de seguridad del archivo:\n"
-"%1\n"
+"அசல் கோப்பை காப்புப் பிரதி எடுக்க முடியவில்லை:\n"
+"% 1\n"
 "\n"
-"¿Continuar de todas formas?"
+"எப்படியும் தொடரலாமா?"
 
 #, c-format
 msgid ""
@@ -2582,12 +2583,12 @@ msgid ""
 "\t- use a different filename (Press OK)\n"
 "\t- abort the current operation (Press Cancel)?"
 msgstr ""
-"Error al guardar archivo.\n"
-"%1\n"
+"கோப்பைச் சேமிப்பதில் தோல்வி.\n"
+"% 1\n"
 "%2\n"
-"Desea:\n"
-"\t- usar un nombre diferente (Aceptar)\n"
-"\t- cancelar la operación (Cancelar)"
+"நீங்கள் விரும்புகிறீர்களா:\n"
+"\t- வேறு கோப்புப் பெயரைப் பயன்படுத்தவும் (சரியை அழுத்தவும்)\n"
+"\t- தற்போதைய செயல்பாட்டை நிறுத்து (ரத்துசெய் என்பதை அழுத்தவும்)?"
 
 #, c-format
 msgid ""
@@ -2597,11 +2598,11 @@ msgid ""
 "\n"
 "Do you want to save the unpacked version to another file?"
 msgstr ""
-"El Plugin '%2' no pudo empaquetar sus cambios al archivo de la izquierda en '%1'.\n"
+"சொருகி '% 2' உங்கள் மாற்றங்களை இடது கோப்பில் மீண்டும் '% 1' இல் பேக் செய்ய முடியாது.\n"
 "\n"
-"El archivo original no será cambiado.\n"
+"அசல் கோப்பு மாற்றப்படாது.\n"
 "\n"
-"¿Desea guardar la versión sin empaquetar en otro archivo?"
+"தொகுக்கப்படாத பதிப்பை வேறொரு கோப்பில் சேமிக்க விரும்புகிறீர்களா?"
 
 #, c-format
 msgid ""
@@ -2611,11 +2612,11 @@ msgid ""
 "\n"
 "Do you want to save the unpacked version to another file?"
 msgstr ""
-"El Plugin '%2' no pudo empaquetar sus cambios al archivo de la mitad en '%1'.\n"
+"சொருகி '% 2' ஆனது நடுக் கோப்பில் நீங்கள் செய்த மாற்றங்களை மீண்டும் '% 1' இல் தொகுக்க முடியாது.\n"
 "\n"
-"El archivo original no será cambiado.\n"
+"அசல் கோப்பு மாற்றப்படாது.\n"
 "\n"
-"¿Desea guardar la versión sin empaquetar en otro archivo?"
+"தொகுக்கப்படாத பதிப்பை வேறொரு கோப்பில் சேமிக்க விரும்புகிறீர்களா?"
 
 #, c-format
 msgid ""
@@ -2625,11 +2626,11 @@ msgid ""
 "\n"
 "Do you want to save the unpacked version to another file?"
 msgstr ""
-"El Plugin '%2' no pudo empaquetar sus cambios al archivo de la derecha en '%1'.\n"
+"சொருகி '% 2' உங்கள் மாற்றங்களை சரியான கோப்பில் மீண்டும் '% 1' இல் பேக் செய்ய முடியாது.\n"
 "\n"
-"El archivo original no será cambiado.\n"
+"அசல் கோப்பு மாற்றப்படாது.\n"
 "\n"
-"¿Desea guardar la versión sin empaquetar en otro archivo?"
+"தொகுக்கப்படாத பதிப்பை வேறொரு கோப்பில் சேமிக்க விரும்புகிறீர்களா?"
 
 #, c-format
 msgid ""
@@ -2639,19 +2640,19 @@ msgid ""
 "\n"
 "Overwrite changed file?"
 msgstr ""
-"Otra aplicación ha actualizado el archivo\n"
-"%1\n"
-"desde que WinMerge lo cargó.\n"
+"மற்றொரு பயன்பாடு கோப்பு புதுப்பிக்கப்பட்டது\n"
+"% 1\n"
+"WinMerge அதை ஏற்றியதால்.\n"
 "\n"
-"¿Desea sobreescribir el archivo cambiado?"
+"மாற்றப்பட்ட கோப்பை மேலெழுதவா?"
 
 #, c-format
 msgid ""
 "%1\n"
 "is marked read-only. Would you like to override the read-only item?"
 msgstr ""
-"%1\n"
-"es de sólo lectura. ¿Desea sobreescribirlo de todos modos?"
+"% 1\n"
+"படிக்க மட்டுமே என்று குறிக்கப்பட்டுள்ளது. படிக்க மட்டுமேயான உருப்படியை மேலெழுத விரும்புகிறீர்களா?"
 
 #, c-format
 msgid ""
@@ -2661,20 +2662,21 @@ msgid ""
 "\n"
 "Do you want to reload the file?"
 msgstr ""
-"Otra aplicación ha actualizado el archivo\n"
-"%1\n"
-"desde que WinMerge lo escaneó por última vez.\n"
+"மற்றொரு பயன்பாடு கோப்பு புதுப்பிக்கப்பட்டது\n"
+"% 1\n"
+"WinMerge கடைசியாக ஸ்கேன் செய்ததால்.\n"
 "\n"
-"¿Desea recargar el archivo?"
+"டியை மீண்டும் ஏற்ற வேண்டுமா
+அவர் தாக்கல் செய்கிறார்?"
 
 msgid "Save Left File As"
-msgstr "Guardar archivo izquierdo como"
+msgstr "இடது கோப்பை இவ்வாறு சேமி"
 
 msgid "Save Middle File As"
-msgstr "Guardar archivo central como"
+msgstr "நடுத்தர கோப்பை இவ்வாறு சேமி"
 
 msgid "Save Right File As"
-msgstr "Guardar archivo derecho como"
+msgstr "சரியான கோப்பை இவ்வாறு சேமி"
 
 #, c-format
 msgid ""
@@ -2682,130 +2684,130 @@ msgid ""
 "%1\n"
 "has disappeared. Please save a copy of the file to continue."
 msgstr ""
-"El archivo\n"
-"%1\n"
-"ha desaparecido. Por favor, guarde una copia del archivo para continuar."
+"கோப்பு\n"
+"% 1\n"
+"மறைந்துவிட்டது. தொடர கோப்பின் நகலை சேமிக்கவும்."
 
 msgid ""
 "Cannot merge differences when documents are not in synch.\n"
 "\n"
 "Refresh documents before continuing."
 msgstr ""
-"No se pueden combinar las diferencias cuando los documentos no están sincronizados.\n"
+"ஆவணங்கள் ஒத்திசைவில் இல்லாதபோது வேறுபாடுகளை ஒன்றிணைக்க முடியாது.\n"
 "\n"
-"Actualize los documentos antes de continuar."
+"தொடர்வதற்கு முன் ஆவணங்களைப் புதுப்பிக்கவும்."
 
 msgid "Break at whitespace"
-msgstr "Detener en espacio en blanco"
+msgstr "வெள்ளைவெளியில் உடைக்கவும்"
 
 msgid "Break at whitespace or punctuation"
-msgstr "Detener en espacio en blanco o puntuación"
+msgstr "வெள்ளை இடத்தில் அல்லது நிறுத்தற்குறியில் உடைக்கவும்"
 
 msgid "Copy to &Middle\tAlt+Right"
-msgstr "Copiar a la &Mitad\tAlt+Der."
+msgstr "&நடுவில்\tAlt+வலதுக்கு நகலெடு"
 
 msgid "Copy to &Middle\tAlt+Left"
-msgstr "Copiar a la &Mitad\tAlt+Izq."
+msgstr "&Middle\tAlt+Left க்கு நகலெடு"
 
 msgid "Copy from Middle\tAlt+Shift+Right"
-msgstr "Copiar desde la Mitad\tAlt+Shift+Der."
+msgstr "நடுவில்\tAlt+Shift+வலது இருந்து நகலெடு"
 
 msgid "Copy from Middle\tAlt+Shift+Left"
-msgstr "Copiar desde la Mitad\tAlt+Shift+Izq."
+msgstr "மத்திய\tAlt+Shift+Left இலிருந்து நகலெடு"
 
 msgid "Copy to Middle and Advance\tCtrl+Alt+Right"
-msgstr "Copiar a la Mitad y Avanzar\tCtrl+Alt+Der."
+msgstr "நடு மற்றும் அட்வான்ஸுக்கு நகலெடுக்கவும்\tCtrl+Alt+Right"
 
 msgid "Copy to Middle and Advance\tCtrl+Alt+Left"
-msgstr "Copiar a la Mitad y Avanzar\tCtrl+Alt+Izq."
+msgstr "நடு மற்றும் அட்வான்ஸ்\tCtrl+Alt+Leftக்கு நகலெடுக்கவும்"
 
 msgid "Copy All to Middle"
-msgstr "Copiar todo a la Mitad"
+msgstr "அனைத்தையும் நடுவில் நகலெடுக்கவும்"
 
 #, c-format
 msgid "Right to Left (%1)"
-msgstr "Lado derecho a lado izquierdo (%1)"
+msgstr "வலமிருந்து இடமாக (%1)"
 
 #, c-format
 msgid "Right to Middle (%1)"
-msgstr "Lado derecho a lado central (%1)"
+msgstr "நடுவிற்கு உரிமை (%1)"
 
 #, c-format
 msgid "Middle to Left (%1)"
-msgstr "Lado central a lado izquierdo (%1)"
+msgstr "நடுவிலிருந்து இடது (%1)"
 
 #, c-format
 msgid "Middle to Right (%1)"
-msgstr "Lado central a lado derecho (%1)"
+msgstr "நடுவில் இருந்து வலது (%1)"
 
 #, c-format
 msgid "Left to Right (%1)"
-msgstr "Lado izquierdo a lado derecho (%1)"
+msgstr "இடமிருந்து வலமாக (%1)"
 
 #, c-format
 msgid "Left to Middle (%1)"
-msgstr "Lado izquierdo a lado central (%1)"
+msgstr "இடமிருந்து நடு (%1)"
 
 #, c-format
 msgid "Left to... (%1)"
-msgstr "Lado izquierdo a... (%1)"
+msgstr "இடது... (%1)"
 
 #, c-format
 msgid "Middle to... (%1)"
-msgstr "Lado central a... (%1)"
+msgstr "நடுவில் இருந்து... (%1)"
 
 #, c-format
 msgid "Right to... (%1)"
-msgstr "Lado derecho a... (%1)"
+msgstr "உரிமை... (%1)"
 
 #, c-format
 msgid "Both to... (%1)"
-msgstr "Ambos a...(%1)"
+msgstr "இரண்டுக்கும்... (%1)"
 
 #, c-format
 msgid "All to... (%1)"
-msgstr "Todo a... (%1)"
+msgstr "அனைத்திற்கும்... (%1)"
 
 #, c-format
 msgid "Differences to... (%1)"
-msgstr "Diferencias a... (%1)"
+msgstr "வேறுபாடுகள்... (%1)"
 
 #, c-format
 msgid "Left (%1)"
-msgstr "Lado izquierdo (%1)"
+msgstr "இடது (%1)"
 
 #, c-format
 msgid "Middle (%1)"
-msgstr "Lado central (%1)"
+msgstr "நடுநிலை (%1)"
 
 #, c-format
 msgid "Right (%1)"
-msgstr "Lado derecho (%1)"
+msgstr "வலது (%1)"
 
 #, c-format
 msgid "Both (%1)"
-msgstr "Ambos lados (%1)"
+msgstr "இரண்டும் (%1)"
 
 #, c-format
 msgid "All (%1)"
-msgstr "Todo (%1)"
+msgstr "அனைத்தும் (%1)"
 
 msgid "Left side - select destination folder:"
-msgstr "Izquierda - Seleccione carpeta destino:"
+msgstr "இடது பக்கம் - இலக்கு கோப்புறையைத் தேர்ந்தெடுக்கவும்:"
 
 msgid "Middle side - select destination folder:"
-msgstr "Centro - Seleccione carpeta destino:"
+msgstr "நடுபக்கம் - இலக்கு கோப்புறையை தேர்ந்தெடு:"
 
 msgid "Right side - select destination folder:"
-msgstr "Derecha - Seleccione carpeta destino:"
+msgstr "வலது பக்கம் - இலக்கு கோப்புறையைத் தேர்ந்தெடுக்கவும்:"
 
 #, c-format
 msgid "(%1 Files Affected)"
-msgstr "(%1 Archivos Afectados)"
+msgstr "(%1 கோப்புகள் பாதிக்கப்பட்டுள்ளன)"
 
 #, c-format
 msgid "(%1 of %2 Files Affected)"
-msgstr "(%1 de %2 Archivos Afectados)"
+msgstr "(%2 கோப்புகளில் %1 பாதிக்கப்பட்டது)"
 
 #, c-format
 msgid ""
@@ -2813,16 +2815,16 @@ msgid ""
 "\n"
 "%1 ?"
 msgstr ""
-"¿Está seguro de que desea eliminar\n"
+"நிச்சயமாக நீக்க விரும்புகிறீர்களா\n"
 "\n"
-"%1 ?"
+"% 1 ?"
 
 msgid "Are you sure you want to copy?"
-msgstr "Está seguro de copiar?"
+msgstr "நீங்கள் நிச்சயமாக நகலெடுக்க விரும்புகிறீர்களா?"
 
 #, c-format
 msgid "Are you sure you want to copy %d items?"
-msgstr "Está seguro de copiar %d elementos?"
+msgstr "%d உருப்படிகளை நிச்சயமாக நகலெடுக்க விரும்புகிறீர்களா?"
 
 #, c-format
 msgid ""
@@ -2834,479 +2836,480 @@ msgid ""
 "\n"
 "Please refresh the compare."
 msgstr ""
-"¡Operación cancelada!\n"
+"ஆபரேஷன் கைவிடப்பட்டது!\n"
 "\n"
-"La carpeta en el disco ha cambiado, la ruta\n"
-"%1\n"
-"no se ha encontrado.\n"
+"வட்டுகளில் உள்ள கோப்புறை உள்ளடக்கங்கள் மாறிவிட்டன, பாதை\n"
+"% 1\n"
+"காணப்படவில்லை.\n"
 "\n"
-"Por favor actualice la comparación."
+"தயவுசெய்து ஒப்பீட்டைப் புதுப்பிக்கவும்."
 
 msgid "Are you sure you want to move?"
-msgstr "Está seguro de mover?"
+msgstr "நீங்கள் நிச்சயமாக நகர்த்த விரும்புகிறீர்களா?"
 
 #, c-format
 msgid "Are you sure you want to move %d items?"
-msgstr "Está seguro de mover %d elementos?"
+msgstr "%d உருப்படிகளை நிச்சயமாக நகர்த்த விரும்புகிறீர்களா?"
 
 msgid "Confirm Move"
-msgstr "Confirmar Movimiento"
+msgstr "நகர்த்தலை உறுதிப்படுத்து"
 
 msgid "You are about to close the window that is comparing folders. Are you sure you want to close the window?"
-msgstr "Vas a cerrar la ventana que está comparando carpetas. ¿Seguro que quieres cerrar la ventana?"
+msgstr "கோப்புறைகளை ஒப்பிடும் சாளரத்தை மூட உள்ளீர்கள். நிச்சயமாக நீங்கள் சாளரத்தை மூட விரும்புகிறீர்களா?"
 
 msgid "The file or folder name is invalid."
-msgstr ""
+msgstr "கோப்பு அல்லது கோப்புறையின் பெயர் தவறானது."
 
 #, c-format
 msgid "Failed to execute external editor: %1"
-msgstr "Error al ejecutar editor externo: %1"
+msgstr "வெளிப்புற எடிட்டரை இயக்குவதில் தோல்வி: %1"
 
 msgid "Unknown archive format"
-msgstr "Formato de archivo desconocido"
+msgstr "தெரியாத காப்பக வடிவம்"
 
 msgid ""
 "Failed to extract archive files.\n"
 "Do you want to compare the archive files as text files?"
 msgstr ""
-"Error al extraer archivos del comprimido\n"
-"Quiere compararlos los archivos comprimidos como texto planos ?"
+"காப்பகக் கோப்புகளைப் பிரித்தெடுப்பதில் தோல்வி.\n"
+"காப்பகக் கோப்புகளை உரைக் கோப்புகளாக ஒப்பிட விரும்புகிறீர்களா?"
 
 msgid "Filename"
-msgstr "Nombre"
+msgstr "கோப்பு பெயர்"
 
 msgctxt "DirView|ColumnHeader"
 msgid "Folder"
-msgstr "Carpeta"
+msgctxt "DirView|ColumnHeader"
 
 msgid "Comparison result"
-msgstr "Resultado"
+msgstr "ஒப்பீடு முடிவு"
 
 msgid "Left Date"
-msgstr "Fecha izq."
+msgstr "இடது தேதி"
 
 msgid "Right Date"
-msgstr "Fecha der."
+msgstr "சரியான தேதி"
 
 msgid "Middle Date"
-msgstr "Fecha Media"
+msgstr
+"மத்திய தேதி"
 
 msgid "Left Size"
-msgstr "Tamaño izq."
+msgstr "இடது அளவு"
 
 msgid "Right Size"
-msgstr "Tamaño der."
+msgstr "சரியான அளவு"
 
 msgid "Middle Size"
-msgstr "Tamaño Medio"
+msgstr "நடுத்தர அளவு"
 
 msgid "Right Size (Short)"
-msgstr "Tamaño dcha. (Corto)"
+msgstr "சரியான அளவு (குறுகிய)"
 
 msgid "Left Size (Short)"
-msgstr "Tamaño izq. (Corto)"
+msgstr "இடது அளவு (குறுகிய)"
 
 msgid "Middle Size (Short)"
-msgstr "Tamaño Medio (Corto)"
+msgstr "நடுத்தர அளவு (குறுகிய)"
 
 msgid "Left Creation Time"
-msgstr "Fecha de creacion izq."
+msgstr "இடது உருவாக்க நேரம்"
 
 msgid "Right Creation Time"
-msgstr "Fecha de creación der."
+msgstr "சரியான உருவாக்க நேரம்"
 
 msgid "Middle Creation Time"
-msgstr "Fecha de Creación de la Mitad"
+msgstr "மத்திய உருவாக்க நேரம்"
 
 msgid "Newer File"
-msgstr "Archivo más reciente"
+msgstr "புதிய கோப்பு"
 
 msgid "Left File Version"
-msgstr "Versión archivo izq."
+msgstr "இடது கோப்பு பதிப்பு"
 
 msgid "Right File Version"
-msgstr "Versión archivo der."
+msgstr "வலது கோப்பு பதிப்பு"
 
 msgid "Middle File Version"
-msgstr "Version de Archivo de la Mitad"
+msgstr "மத்திய கோப்பு பதிப்பு"
 
 msgid "Short Result"
-msgstr "Resultados abreviados"
+msgstr "குறுகிய முடிவு"
 
 msgid "Left Attributes"
-msgstr "Atributos izquierda"
+msgstr "இடது பண்புக்கூறுகள்"
 
 msgid "Right Attributes"
-msgstr "Atributos derecha"
+msgstr "சரியான பண்புக்கூறுகள்"
 
 msgid "Middle Attributes"
-msgstr "Atributos de la Mitad"
+msgstr "மத்திய பண்புக்கூறுகள்"
 
 msgid "Left EOL"
-msgstr "EOL de la Izquierda"
+msgstr "இடது EOL"
 
 msgid "Middle EOL"
-msgstr "EOL de la Mitad"
+msgstr "மத்திய EOL"
 
 msgid "Right EOL"
-msgstr "EOL de la Derecha"
+msgstr "வலது EOL"
 
 msgid "Left Encoding"
-msgstr "Codificación izquierda"
+msgstr "இடது குறியாக்கம்"
 
 msgid "Right Encoding"
-msgstr "Codificación derecha"
+msgstr "வலது குறியாக்கம்"
 
 msgid "Middle Encoding"
-msgstr "Codificación de la Mitad"
+msgstr "மத்திய குறியாக்கம்"
 
 msgid "Ignored Diff"
-msgstr "Difs. ignoradas"
+msgstr "புறக்கணிக்கப்பட்ட வேறுபாடு"
 
 msgctxt "DirView|ColumnHeader"
 msgid "Binary"
-msgstr "Binario"
+msgctxt "DirView|ColumnHeader"
 
 msgid "Unpacker"
-msgstr "Desempaquetador"
+msgstr "அன்பேக்கர்"
 
 msgid "Prediffer"
-msgstr "Precomparación"
+msgstr "முன்னுரிமை"
 
 msgid "Left"
-msgstr "Izquierda"
+msgstr "இடது"
 
 msgid "Middle"
-msgstr "Mitad"
+msgstr "நடு"
 
 msgid "Right"
-msgstr "Derecha"
+msgstr "வலது"
 
 msgid "Diff"
-msgstr ""
+msgstr "வேறுபாடு"
 
 msgid "Left Duplicate Count"
-msgstr "Cuenta Duplicados Izquierda"
+msgstr "இடது நகல் எண்ணிக்கை"
 
 msgid "Right Duplicate Count"
-msgstr "Cuenta Duplicados Derecha"
+msgstr "வலது நகல் எண்ணிக்கை"
 
 msgid "Middle Duplicate Count"
-msgstr "Cuenta Duplicados Mitad"
+msgstr "நடுத்தர நகல் எண்ணிக்கை"
 
 msgid "Move"
-msgstr "Mover"
+msgstr "நகர்த்து"
 
 msgid "Audio"
-msgstr "Audio"
+msgstr "ஆடியோ"
 
 msgid "Calendar"
-msgstr "Calendario"
+msgstr "நாட்காட்டி"
 
 msgid "Communication"
-msgstr "Comunicación"
+msgstr "தொடர்பு"
 
 msgid "Contact"
-msgstr "Contacto"
+msgstr "தொடர்பு"
 
 msgid "Devices"
-msgstr "Dispositivos"
+msgstr "சாதனங்கள்"
 
 msgid "Document"
-msgstr "Documento"
+msgstr "ஆவணம்"
 
 msgid "Home"
-msgstr "Inicio"
+msgstr "முகப்பு"
 
 msgid "Journal"
-msgstr "Diario"
+msgstr "பத்திரிகை"
 
 msgid "Link"
-msgstr "Enlace"
+msgstr "இணைப்பு"
 
 msgid "Media"
-msgstr "Medios"
+msgstr "ஊடகம்"
 
 msgid "Music"
-msgstr "Musica"
+msgstr "இசை"
 
 msgid "Note"
-msgstr "Nota"
+msgstr "குறிப்பு"
 
 msgid "Photo"
-msgstr "Foto"
+msgstr "புகைப்படம்"
 
 msgid "RecordedTV"
-msgstr ""
+msgstr "பதிவுசெய்யப்பட்ட டிவி"
 
 msgid "Search"
-msgstr "Buscar"
+msgstr "தேடல்"
 
 msgid "Security"
-msgstr "Seguridad"
+msgstr "பாதுகாப்பு"
 
 msgid "Software"
-msgstr "Software"
+msgstr "மென்பொருள்"
 
 msgid "Task"
-msgstr "Tarea"
+msgstr "பணி"
 
 msgid "Video"
-msgstr "Video"
+msgstr "வீடியோ"
 
 msgid "Hash"
-msgstr ""
+msgstr "ஹாஷ்"
 
 msgid "Unable to compare files"
-msgstr "No se pueden comparar los archivos"
+msgstr "கோப்புகளை ஒப்பிட முடியவில்லை"
 
 msgid "Item aborted"
-msgstr "Elemento cancelado"
+msgstr "உருப்படி நிறுத்தப்பட்டது"
 
 msgid "File skipped"
-msgstr "Archivo omitido"
+msgstr "கோப்பு தவிர்க்கப்பட்டது"
 
 msgid "Folder skipped"
-msgstr "Carpeta omitida"
+msgstr "கோப்புறை தவிர்க்கப்பட்டது"
 
 #, c-format
 msgid "Left only: %1"
-msgstr "Sólo izquierda: %1"
+msgstr "இடது மட்டும்: %1"
 
 #, c-format
 msgid "Middle only: %1"
-msgstr "Sólo centro: %1"
+msgstr "நடுவில் மட்டும்: %1"
 
 #, c-format
 msgid "Right only: %1"
-msgstr "Sólo derecha: %1"
+msgstr "வலது மட்டும்: %1"
 
 #, c-format
 msgid "Does not exist in %1"
-msgstr "No existe en %1"
+msgstr "%1 இல் இல்லை"
 
 msgid "Binary files are identical"
-msgstr "Los archivos binarios son iguales"
+msgstr "பைனரி கோப்புகள் ஒரே மாதிரியானவை"
 
 msgid "Binary files are different"
-msgstr "Los archivos binarios son diferentes"
+msgstr "பைனரி கோப்புகள் வேறுபட்டவை"
 
 msgid "Files are different"
-msgstr "Los archivos son diferentes"
+msgstr "கோப்புகள் வேறுபட்டவை"
 
 msgid "Folders are different"
-msgstr "Las carpetas son diferentes"
+msgstr "கோப்புறைகள் வேறுபட்டவை"
 
 msgid "Left Only"
-msgstr "Sólo izquierda"
+msgstr "இடது மட்டும்"
 
 msgid "Right Only"
-msgstr "Sólo derecha"
+msgstr "வலது மட்டும்"
 
 msgid "Middle Only"
-msgstr "Sólo centro"
+msgstr "நடுத்தர மட்டும்"
 
 msgid "No item in left"
-msgstr "Sin elemento a la izquierda"
+msgstr "இடதுபுறத்தில் உருப்படி இல்லை"
 
 msgid "No item in right"
-msgstr "Sin elemento a la derecha"
+msgstr "வலதுபுறத்தில் உருப்படி இல்லை"
 
 msgid "No item in middle"
-msgstr "Sin elemento en el centro"
+msgstr "நடுவில் உருப்படி இல்லை"
 
 msgid "Error"
-msgstr "Error"
+msgstr "பிழை"
 
 msgid "Text files are identical"
-msgstr "Los archivos son iguales"
+msgstr "உரை கோப்புகள் ஒரே மாதிரியானவை"
 
 msgid " (Middle and right are identical)"
-msgstr " (Central y der. son idénticos)"
+msgstr "(மத்திய மற்றும் வலது ஒரே மாதிரியானவை)"
 
 msgid " (Left and right are identical)"
-msgstr " (Izq. y der. son idénticos)"
+msgstr "(இடது மற்றும் வலது ஒரே மாதிரியானவை)"
 
 msgid " (Left and middle are identical)"
-msgstr " (Izq. y central son idénticos)"
+msgstr "(இடது மற்றும் நடு ஒரே மாதிரியானவை)"
 
 msgid "Text files are different"
-msgstr "Los archivos son diferentes"
+msgstr "உரை கோப்புகள் வேறுபட்டவை"
 
 msgid "Image files are identical"
-msgstr "Las imágenes son idénticas"
+msgstr "பட கோப்புகள் ஒரே மாதிரியானவை"
 
 msgid "Image files are different"
-msgstr "Las imágenes son diferentes"
+msgstr "பட கோப்புகள் வேறுபட்டவை"
 
 #, c-format
 msgid "Group%d"
-msgstr "Grupo%d"
+msgstr "குழு%d"
 
 #, c-format
 msgid "Elapsed time: %ld ms"
-msgstr "Tiempo transcurrido: %ld ms"
+msgstr "கடந்த நேரம்: %ld ms"
 
 msgid "1 item selected"
-msgstr "1 elemento seleccionado"
+msgstr "1 உருப்படி தேர்ந்தெடுக்கப்பட்டது"
 
 #, c-format
 msgid "%1 items selected"
-msgstr "%1 elementos seleccionados"
+msgstr "%1 உருப்படிகள் தேர்ந்தெடுக்கப்பட்டன"
 
 msgid "Filename or folder name."
-msgstr "Nombre de archivo o carpeta."
+msgstr "கோப்பு பெயர் அல்லது கோப்புறை பெயர்."
 
 msgid "Subfolder name when subfolders are included."
-msgstr "Nombre de subcarpeta cuando se incluyen las subcarpetas."
+msgstr "துணை கோப்புறைகள் சேர்க்கப்படும் போது துணை கோப்புறையின் பெயர்."
 
 msgid "Comparison result, long form."
-msgstr "Resultados de la comparacion, formato largo."
+msgstr "ஒப்பீடு முடிவு, நீண்ட வடிவம்."
 
 msgid "Left side modification date."
-msgstr "Fecha de modificación del archivo del lado izquierdo."
+msgstr "இடது பக்க மாற்றம் தேதி."
 
 msgid "Right side modification date."
-msgstr "Fecha de modificación del archivo del lado derecho."
+msgstr "வலது பக்க மாற்றம் தேதி."
 
 msgid "Middle side modification date."
-msgstr "Fecha de modificación del archivo del lado central."
+msgstr "நடு பக்க மாற்றம் தேதி."
 
 msgid "File's extension."
-msgstr "Extensión del archivo."
+msgstr "கோப்பின் நீட்டிப்பு."
 
 msgid "Left file size in bytes."
-msgstr "Tamaño del archivo del lado izquierdo en bytes."
+msgstr "இடது கோப்பு அளவு பைட்டுகளில்."
 
 msgid "Right file size in bytes."
-msgstr "Tamaño del archivo del lado derecho en bytes."
+msgstr "பைட்டுகளில் சரியான கோப்பு அளவு."
 
 msgid "Middle file size in bytes."
-msgstr "Tamaño del archivo del lado central en bytes."
+msgstr "பைட்டுகளில் நடுத்தர கோப்பு அளவு."
 
 msgid "Left file size abbreviated."
-msgstr "Tamaño del archivo del lado izquierdo abreviado."
+msgstr "இடது கோப்பு அளவு சுருக்கப்பட்டது."
 
 msgid "Right file size abbreviated."
-msgstr "Tamaño del archivo del lado derecho abreviado."
+msgstr "வலது கோப்பு அளவு சுருக்கப்பட்டது."
 
 msgid "Middle file size abbreviated."
-msgstr "Tamaño del archivo del lado central abreviado."
+msgstr "நடுத்தர கோப்பு அளவு சுருக்கப்பட்டது."
 
 msgid "Left side creation time."
-msgstr "Fecha de creación del archivo del lado izquierdo."
+msgstr "இடது பக்கம் உருவாக்கும் நேரம்."
 
 msgid "Right side creation time."
-msgstr "Fecha de creación del archivo del lado derecho."
+msgstr "வலது பக்க உருவாக்கும் நேரம்."
 
 msgid "Middle side creation time."
-msgstr "Fecha de creación del archivo del lado central."
+msgstr "மத்திய பக்க உருவாக்கும் நேரம்."
 
 msgid "Tells which side has newer modification date."
-msgstr "Indica que lado tiene la fecha de modificación más reciente."
+msgstr "எந்தப் பக்கம் புதிய மாற்றியமைக்கும் தேதியைக் கூறுகிறது."
 
 msgid "Left side file version, only for some file types."
-msgstr "Versión del archivo del lado izquierdo, sólo para algunos tipos de archivo."
+msgstr "இடது பக்க கோப்பு பதிப்பு, சில கோப்பு வகைகளுக்கு மட்டும்."
 
 msgid "Right side file version, only for some file types."
-msgstr "Versión del archivo del lado derecho, sólo para algunos tipos de archivo."
+msgstr "வலது பக்க கோப்பு பதிப்பு, சில கோப்பு வகைகளுக்கு மட்டும்."
 
 msgid "Middle side file version, only for some file types."
-msgstr "Versión del archivo del lado central, sólo para algunos tipos de archivo."
+msgstr "மத்திய பக்க கோப்பு பதிப்பு, சில கோப்பு வகைகளுக்கு மட்டும்."
 
 msgid "Short comparison result."
-msgstr "Resultados de la comparación abreviados."
+msgstr "குறுகிய ஒப்பீட்டு முடிவு."
 
 msgid "Left side attributes."
-msgstr "Atributos del archivo del lado izquierdo."
+msgstr "இடது பக்க பண்புக்கூறுகள்."
 
 msgid "Right side attributes."
-msgstr "Atributos del archivo del lado derecho."
+msgstr "வலது பக்க பண்புக்கூறுகள்."
 
 msgid "Middle side attributes."
-msgstr "Atributos del archivo del lado central."
+msgstr "மத்திய பக்க பண்புக்கூறுகள்."
 
 msgid "Left side file EOL type."
-msgstr "Tipo de EOL del archivo del lado izquierdo."
+msgstr "இடது பக்க கோப்பு EOL வகை."
 
 msgid "Right side file EOL type."
-msgstr "Tipo de EOL del archivo del lado derecho."
+msgstr "வலது பக்க கோப்பு EOL வகை."
 
 msgid "Middle side file EOL type."
-msgstr "Tipo de EOL del archivo del lado central."
+msgstr "நடு பக்க கோப்பு EOL வகை."
 
 msgid "Left side encoding."
-msgstr "Codificación del lado izquierdo."
+msgstr "இடது பக்க குறியாக்கம்."
 
 msgid "Right side encoding."
-msgstr "Codificación del lado derecho."
+msgstr "வலது பக்க குறியாக்கம்."
 
 msgid "Middle side encoding."
-msgstr "Codificación del lado central."
+msgstr "நடு பக்க குறியாக்கம்."
 
 msgid "Number of ignored differences in file. These differences are ignored by WinMerge and cannot be merged."
-msgstr "Número de diferencias ignoradas en el archivo. Estas diferencias son ignoradas por WinMerge y no se pueden combinar."
+msgstr "கோப்பில் புறக்கணிக்கப்பட்ட வேறுபாடுகளின் எண்ணிக்கை. இந்த வேறுபாடுகள் WinMerge ஆல் புறக்கணிக்கப்படுகின்றன, மேலும் அவற்றை இணைக்க முடியாது."
 
 msgid "Number of differences in file. This number does not include ignored differences."
-msgstr "Número de diferencias en el archivo. Este número no incluye las diferencias ignoradas."
+msgstr "கோப்பில் உள்ள வேறுபாடுகளின் எண்ணிக்கை. இந்த எண்ணில் புறக்கணிக்கப்பட்ட வேறுபாடுகள் இல்லை."
 
 msgid "Shows an asterisk (*) if the file is binary."
-msgstr "Muestra un asterisco (*) si el archivo es binario."
+msgstr "கோப்பு பைனரியாக இருந்தால் ஒரு நட்சத்திரத்தை (*) காட்டுகிறது."
 
 msgid "Unpacker plugin name or pipeline."
-msgstr "Nombre del Plugin Desempaquetador o pipeline"
+msgstr "அன்பேக்கர் சொருகி பெயர் அல்லது பைப்லைன்."
 
 msgid "Prediffer plugin name or pipeline."
-msgstr ""
+msgstr "பிரிடிஃபர் சொருகி பெயர் அல்லது பைப்லைன்."
 
 #, c-format
 msgid "Compare %1 with %2"
-msgstr "Comparar %1 con %2"
+msgstr "%1 ஐ %2 உடன் ஒப்பிடு"
 
 #, c-format
 msgid "Compare %1 with %2 and %3"
-msgstr "Comparar %1 con %2 con %3"
+msgstr "%1 ஐ %2 மற்றும் %3 உடன் ஒப்பிடு"
 
 msgid "Comma-separated list"
-msgstr "Lista separada por comas"
+msgstr "காற்புள்ளியால் பிரிக்கப்பட்ட பட்டியல்"
 
 msgid "Tab-separated list"
-msgstr "Lista separada por tabuladores"
+msgstr "தாவல் பிரிக்கப்பட்ட பட்டியல்"
 
 msgid "Simple HTML"
-msgstr "HTML Simple"
+msgstr "எளிய HTML"
 
 msgid "Simple XML"
-msgstr "XML Simple"
+msgstr "எளிய எக்ஸ்எம்எல்"
 
 msgid "The report file already exists. Do you want to overwrite existing file?"
-msgstr "El archivo de informe ya existe. ¿Desea sobreescribir el archivo?"
+msgstr "அறிக்கை கோப்பு ஏற்கனவே உள்ளது. ஏற்கனவே உள்ள கோப்பை மேலெழுத விரும்புகிறீர்களா?"
 
 #, c-format
 msgid ""
 "Error creating the report:\n"
 "%1"
 msgstr ""
-"Error al crear el informe:\n"
+"அறிக்கையை உருவாக்குவதில் பிழை:\n"
 "%1"
 
 msgid "The report has been created successfully."
-msgstr "El informe se ha creado correctamente."
+msgstr "அறிக்கை வெற்றிகரமாக உருவாக்கப்பட்டது."
 
 msgid "Cannot add a synchronization point at this line."
-msgstr "No se puede agregar punto de sincronización a este renglón."
+msgstr "இந்த வரியில் ஒரு ஒத்திசைவு புள்ளியை சேர்க்க முடியாது."
 
 msgid "The same file is opened in both panels."
-msgstr "El mismo archivo está abierto en ambos paneles."
+msgstr "இரண்டு பேனல்களிலும் ஒரே கோப்பு திறக்கப்பட்டுள்ளது."
 
 msgid "The selected files are identical."
-msgstr "Los archivos seleccionados son iguales."
+msgstr "தேர்ந்தெடுக்கப்பட்ட கோப்புகள் ஒரே மாதிரியானவை."
 
 msgid "An error occurred while comparing the files."
-msgstr "Ocurrió un error cuando se estaban comparando los archivos."
+msgstr "கோப்புகளை ஒப்பிடும் போது பிழை ஏற்பட்டது."
 
 msgid "Temporary files could not be created. Check your temporary path settings."
-msgstr "Los archivos temporales no se pudieron crear. Compruebe su ruta para archivos temporales."
+msgstr "தற்காலிக கோப்புகளை உருவாக்க முடியவில்லை. உங்கள் தற்காலிக பாதை அமைப்புகளை சரிபார்க்கவும்."
 
 msgid ""
 "These files use different carriage return types.\n"
@@ -3315,17 +3318,17 @@ msgid ""
 "\n"
 "Note: If you always want to treat all carriage return types as equivalent, set the option 'Ignore carriage return differences (Windows/Unix/Mac)' in the Compare tab of the options dialog (available under Edit/Options)."
 msgstr ""
-"Estos archivos utilizan tipos diferentes de salto de línea.\n"
+"இந்தக் கோப்புகள் வெவ்வேறு கேரேஜ் ரிட்டர்ன் வகைகளைப் பயன்படுத்துகின்றன.\n"
 "\n"
-"¿Desea tratar todos los tipos de salto de línea como equivalentes para esta comparación?\n"
+"இந்த ஒப்பீட்டிற்கு அனைத்து கேரேஜ் ரிட்டர்ன் வகைகளையும் சமமானதாகக் கருத விரும்புகிறீர்களா?\n"
 "\n"
-"Nota: si desea tratar siempre todos los tipos de saltos de línea como equivalentes, seleccione la opción 'Ignorar saltos de línea diferentes (Windows/Unix/Mac)' en la pestaña Comparar del dialogo Configuración (disponible en Editar/Configuración)."
+"குறிப்பு: நீங்கள் எப்பொழுதும் அனைத்து கேரேஜ் ரிட்டர்ன் வகைகளையும் சமமானதாகக் கருத விரும்பினால், விருப்பத்தேர்வுகளின் ஒப்பீட்டு உரையாடலின் தாவலில் (திருத்து/விருப்பங்களின் கீழ் கிடைக்கும்) 'கேரேஜ் ரிட்டர்ன் வேறுபாடுகளை புறக்கணிக்கவும் (விண்டோஸ்/யூனிக்ஸ்/மேக்)' விருப்பத்தை அமைக்கவும்."
 
 msgid "The selected folder is invalid."
-msgstr "La carpeta seleccionada no es válida."
+msgstr "தேர்ந்தெடுக்கப்பட்ட கோப்புறை தவறானது."
 
 msgid "Cannot open a binary file to editor."
-msgstr "No se puede abrir un archivo binario en el editor."
+msgstr "எடிட்டருக்கு பைனரி கோப்பை திறக்க முடியாது."
 
 #, c-format
 msgid ""
@@ -3335,29 +3338,29 @@ msgid ""
 "%1\n"
 "to the other side and open these folders?"
 msgstr ""
-"La carpeta solamente existe en el otro lado y no puede abrirse.\n"
+"கோப்புறை மற்றொரு பக்கத்தில் மட்டுமே உள்ளது மற்றும் திறக்க முடியாது.\n"
 "\n"
-"¿Quiere crear una carpeta combinando:\n"
-"%1\n"
-"al otro lado y abrir éstas carpetas?"
+"பொருந்தும் கோப்புறையை உருவாக்க விரும்புகிறீர்களா:\n"
+"% 1\n"
+"மறுபுறம் சென்று இந்தக் கோப்புறைகளைத் திறக்கவா?"
 
 msgid "Do you want to move to the next file?"
-msgstr "¿Quieres pasar al siguiente archivo?"
+msgstr "அடுத்த கோப்புக்கு செல்ல வேண்டுமா?"
 
 msgid "Do you want to move to the previous file?"
-msgstr "¿Quieres pasar al archivo anterior?"
+msgstr "முந்தைய கோப்பிற்கு செல்ல விரும்புகிறீர்களா?"
 
 msgid "Do you want to move to the next page?"
-msgstr "¿Quieres pasar a la siguiente página?"
+msgstr "அடுத்த பக்கத்திற்கு செல்ல விரும்புகிறீர்களா?"
 
 msgid "Do you want to move to the previous page?"
-msgstr "¿Quieres pasar a la página anterior?"
+msgstr "முந்தைய பக்கத்திற்கு செல்ல விரும்புகிறீர்களா?"
 
 msgid "Do you want to move to the first file?"
-msgstr "¿Quieres pasar al primer archivo?"
+msgstr "முதல் கோப்பிற்கு செல்ல விரும்புகிறீர்களா?"
 
 msgid "Do you want to move to the last file?"
-msgstr "¿Quieres pasar al ultimos archivo?"
+msgstr "கடைசி கோப்பிற்கு செல்ல விரும்புகிறீர்களா?"
 
 #, c-format
 msgid ""
@@ -3365,357 +3368,357 @@ msgid ""
 "Displaying each file in its codepage will give a better display but merging/copying will be dangerous.\n"
 "Would you like to treat both files as being in the default Windows codepage (recommended)?"
 msgstr ""
-"Las páginas de códigos son diferentes en el archivo de la izquierda (cp%d) y el de la derecha (cp%d).\n"
-"Mostrar cada archivo en su página de códigos dará una mejor visualización, pero combinar/copiar sería peligroso.\n"
-"¿Le gustaría tratar ambos archivos con la página de códigos predeterminada de windows (recomendado)?"
+"இடது (cp%d) மற்றும் வலது (cp%d) கோப்புகளில் வெவ்வேறு குறியீட்டுப் பக்கங்கள் காணப்படுகின்றன.\n"
+"ஒவ்வொரு கோப்பையும் அதன் குறியீட்டுப் பக்கத்தில் காண்பிப்பது சிறந்த காட்சியைக் கொடுக்கும், ஆனால் ஒன்றிணைப்பது/நகல் செய்வது ஆபத்தானது.\n"
+"இரண்டு கோப்புகளையும் இயல்புநிலை விண்டோஸ் குறியீட்டுப் பக்கத்தில் (பரிந்துரைக்கப்பட்டது) உள்ளதாகக் கருத விரும்புகிறீர்களா?"
 
 msgid "Information lost due to encoding errors: both files"
-msgstr "Información perdida debido a errores de codificación: ambos archivos"
+msgstr "குறியீட்டு பிழைகள் காரணமாக தகவல் இழந்தது: இரண்டு கோப்புகளும்"
 
 msgid "Information lost due to encoding errors: first file"
-msgstr "Información perdida debido a errores de codificación: primer archivo"
+msgstr "குறியீட்டு பிழைகள் காரணமாக தகவல் இழந்தது: முதல் கோப்பு"
 
 msgid "Information lost due to encoding errors: second file"
-msgstr "Información perdida debido a errores de codificación: segundo archivo"
+msgstr "குறியீட்டு பிழைகள் காரணமாக தகவல் இழந்தது: இரண்டாவது கோப்பு"
 
 msgid "Information lost due to encoding errors: third file"
-msgstr "Información perdida debido a errores de codificación: tercer archivo"
+msgstr "குறியீட்டு பிழைகள் காரணமாக தகவல் இழந்தது: மூன்றாவது கோப்பு"
 
 msgid "No difference"
-msgstr "No hay diferencia"
+msgstr "வேறுபாடு இல்லை"
 
 msgid "Line difference"
-msgstr "Diferencia de línea"
+msgstr "வரி வேறுபாடு"
 
 #, c-format
 msgid "Replaced %1 string(s)."
-msgstr "Reemplazada(s) %1 cadena(s)."
+msgstr "%1 சரம்(கள்) மாற்றப்பட்டது."
 
 #, c-format
 msgid "Cannot find string \"%s\"."
-msgstr "Imposible encontrar la cadena \"%s\"."
+msgstr " \"%s\" சரத்தை கண்டுபிடிக்க முடியவில்லை."
 
 msgid "You are now entering Merge Mode. If you want to turn off Merge Mode, press F9 key."
-msgstr "Ahora está entrando en el modo de fusión. Si desea desactivar el modo de fusión, presione la tecla F9."
+msgstr "நீங்கள் இப்போது ஒன்றிணைக்கும் பயன்முறையில் நுழைகிறீர்கள். நீங்கள் ஒன்றிணைக்கும் பயன்முறையை முடக்க விரும்பினால், F9 விசையை அழுத்தவும்."
 
 #, c-format
 msgid ""
 "The number of automatically merged changes: %1\n"
 "The number of unresolved conflicts: %2"
 msgstr ""
-"Número de cambios mezclados automáticamente: %1\n"
-"Número de conflictos sin resolver: %2"
+"தானாக ஒன்றிணைக்கப்பட்ட மாற்றங்களின் எண்ணிக்கை: %1\n"
+"தீர்க்கப்படாத முரண்பாடுகளின் எண்ணிக்கை:% 2"
 
 msgid "The change of codepage has been merged."
-msgstr "El cambio de codepage se ha combinado."
+msgstr "குறியீட்டுப் பக்கத்தின் மாற்றம் ஒன்றிணைக்கப்பட்டுள்ளது."
 
 msgid "The changes of codepage are conflicting."
-msgstr "Los cambios de codepage generan conflictos."
+msgstr "குறியீட்டுப் பக்கத்தின் மாற்றங்கள் முரண்படுகின்றன."
 
 msgid "The change of EOL has been merged."
-msgstr "El cambio de EOL se ha combinado."
+msgstr "EOL இன் மாற்றம் இணைக்கப்பட்டுள்ளது."
 
 msgid "The changes of EOL are conflicting."
-msgstr "Los cambios de EOL generan conflictivos."
+msgstr "EOL இன் மாற்றங்கள் முரண்படுகின்றன."
 
 msgid "Location Pane"
-msgstr "Panel de ubicación"
+msgstr "இருப்பிடம் பலகம்"
 
 msgid "Diff Pane"
-msgstr "Panel de diferencias"
+msgstr "டிஃப் பேன்"
 
 msgid "Patch file successfully written."
-msgstr "Archivo de corrección escrito correctamente."
+msgstr "பேட்ச் கோப்பு வெற்றிகரமாக எழுதப்பட்டது."
 
 msgid "1. item is not found!"
-msgstr "1. item no encontrado!"
+msgstr "1. உருப்படி கிடைக்கவில்லை!"
 
 msgid "2. item is not found!"
-msgstr "2. item no encontrado!"
+msgstr "2. உருப்படி கிடைக்கவில்லை!"
 
 msgid "The patch file already exists. Do you want to overwrite it?"
-msgstr "El archivo de corrección ya existe. ¿Desea sobreescribirlo?"
+msgstr "பேட்ச் கோப்பு ஏற்கனவே உள்ளது. நீங்கள் அதை மேலெழுத விரும்புகிறீர்களா?"
 
 #, c-format
 msgid "[%1 files selected]"
-msgstr "[%1 archivo(s) selecionado(s)]"
+msgstr "[%1 கோப்புகள் தேர்ந்தெடுக்கப்பட்டன]"
 
 msgid "Normal"
-msgstr "Normal"
+msgstr "இயல்பு"
 
 msgid "Context"
-msgstr "Contexto"
+msgstr "சூழல்"
 
 msgid "Unified"
-msgstr "Unificado"
+msgstr "ஒருங்கிணைக்கப்பட்ட"
 
 #, c-format
 msgid "Could not write to file %1."
-msgstr "No se pudo escibir en el archivo %1."
+msgstr "%1 கோப்பில் எழுத முடியவில்லை."
 
 #, c-format
 msgid "The specified output path is not an absolute path: %1"
-msgstr "La ruta de salida especificada no es absoluta: %1"
+msgstr "குறிப்பிடப்பட்ட வெளியீட்டு பாதை ஒரு முழுமையான பாதை அல்ல: %1"
 
 msgid "Specify an output file."
-msgstr "Especifique un archivo de salida."
+msgstr "ஒரு வெளியீட்டு கோப்பை குறிப்பிடவும்."
 
 msgid "Cannot create a patch file from binary files."
-msgstr "No se puede crear un archivo de corrección a partir de un archivo binario."
+msgstr "பைனரி கோப்புகளிலிருந்து பேட்ச் கோப்பை உருவாக்க முடியாது."
 
 msgid ""
 "Please save all files first.\n"
 "\n"
 "Creating a patch requires that there are no unsaved changes in files."
 msgstr ""
-"Por favor, guarde todos los archivos antes.\n"
+"தயவுசெய்து முதலில் எல்லா கோப்புகளையும் சேமிக்கவும்.\n"
 "\n"
-"Crear una corrección requiere que no haya cambios pendientes de ser guardados."
+"ஒரு பேட்சை உருவாக்க, கோப்புகளில் சேமிக்கப்படாத மாற்றங்கள் எதுவும் இல்லை."
 
 msgid "Folder does not exist."
-msgstr "La carpeta no existe."
+msgstr "கோப்புறை இல்லை."
 
 msgid ""
 "Archive support is not enabled.\n"
 "All needed components (7-Zip and/or Merge7z*.dll) for archive support cannot be found.\n"
 "See manual for more info about archive support and how to enable it."
 msgstr ""
-"El soporte de archivos no está habilitado.\n"
-"Los componentes necesarios(7-Zip y/o Merge7z*.dll) para el archivo no están disponibles.\n"
-"Vea el manual para más información acerca del soporte de archivos y cómo habilitarlo."
+"கோப்பு ஆதரவு இயக்கப்படவில்லை.\n"
+"காப்பகத்திற்கு தேவையான கூறுகள் (7-Zip மற்றும்/அல்லது Merge7z*.dll) கிடைக்கவில்லை.\n"
+"கோப்பு ஆதரவு மற்றும் அதை எவ்வாறு இயக்குவது என்பது பற்றிய கூடுதல் தகவலுக்கு கையேட்டைப் பார்க்கவும்."
 
 msgid "Select file for export"
-msgstr "Seleccione archivo a exportar"
+msgstr "ஏற்றுமதிக்கான கோப்பை தேர்ந்தெடு"
 
 msgid "Select file for import"
-msgstr "Seleccione archivo a importar"
+msgstr "இறக்குமதிக்கான கோப்பை தேர்ந்தெடு"
 
 msgid "Options imported from the file."
-msgstr "Configuración importada del archivo."
+msgstr "கோப்பில் இருந்து இறக்குமதி செய்யப்பட்ட விருப்பங்கள்."
 
 msgid "Options exported to the file."
-msgstr "Configuración exportada al archivo."
+msgstr "கோப்புக்கு ஏற்றுமதி செய்யப்பட்ட விருப்பங்கள்."
 
 msgid "Failed to import options from the file."
-msgstr "Fallo al importar la configuración del archivo."
+msgstr "கோப்பில் இருந்து விருப்பங்களை இறக்குமதி செய்வதில் தோல்வி."
 
 msgid "Failed to write options to the file."
-msgstr "Fallo al exportar la configuración al archivo."
+msgstr "கோப்பில் விருப்பங்களை எழுதுவதில் தோல்வி."
 
 msgid ""
 "You are about to close several compare windows.\n"
 "\n"
 "Do you want to continue?"
 msgstr ""
-"Está a punto de cerrar varias ventanas de comparación.\n"
+"நீங்கள் பல ஒப்பீட்டு சாளரங்களை மூட உள்ளீர்கள்.\n"
 "\n"
-"¿Desea continuar?"
+"நீங்கள் தொடர விரும்புகிறீர்களா?"
 
 msgid "Mixed"
-msgstr "Mezclado"
+msgstr "கலவை"
 
 msgctxt "EOL Type"
 msgid "Binary"
-msgstr "Binario"
+msgstr "பைனரி"
 
 msgid "None"
-msgstr "Ninguno"
+msgstr "இல்லை"
 
 #, c-format
 msgid "Marker Color %d"
-msgstr "Color del marcador %d"
+msgstr "குறிப்பான் நிறம் %d"
 
 msgid "New Pattern"
-msgstr "Nuevo Patrón"
+msgstr "புதிய முறை"
 
 msgid "Type"
-msgstr "Tipo"
+msgstr "வகை"
 
 msgid "Editor script"
-msgstr "Editor de script"
+msgstr "ஸ்கிரிப்ட் எடிட்டர்"
 
 msgid ""
 "\n"
 "Difference in the Current Line"
 msgstr ""
 "\n"
-"Diferencia en la Línea Actual"
+"தற்போதைய கோட்டில் உள்ள வேறுபாடு"
 
 msgid ""
 "\n"
 "Options"
 msgstr ""
 "\n"
-"Opciones"
+"விருப்பங்கள்"
 
 msgid ""
 "\n"
 "Refresh (F5)"
 msgstr ""
 "\n"
-"Actualizar (F5)"
+"புதுப்பித்தல் (F5)"
 
 msgid ""
 "\n"
 "Previous Difference (Alt+Up)"
 msgstr ""
 "\n"
-"Diferencia Anterior (Alt+Arriba)"
+"முந்தைய வேறுபாடு (Alt+Up)"
 
 msgid ""
 "\n"
 "Next Difference (Alt+Down)"
 msgstr ""
 "\n"
-"Diferencia Siguiente (Alt+Abajo)"
+"அடுத்த வேறுபாடு (Alt+Down)"
 
 msgid ""
 "\n"
 "Previous Conflict (Alt+Shift+Up)"
 msgstr ""
 "\n"
-"Conflicto Anterior (Alt+Shift+Arriba)"
+"முந்தைய மோதல் (Alt+Shift+Up)"
 
 msgid ""
 "\n"
 "Next Conflict (Alt+Shift+Down)"
 msgstr ""
 "\n"
-"Conflicto Siguiente (Alt+Shift+Abajo)"
+"அடுத்த மோதல் (Alt+Shift+Down)"
 
 msgid ""
 "\n"
 "First Difference (Alt+Home)"
 msgstr ""
 "\n"
-"Primera Diferencia (Alt+Inicio)"
+"முதல் வேறுபாடு (Alt+Home)"
 
 msgid ""
 "\n"
 "Current Difference (Alt+Enter)"
 msgstr ""
 "\n"
-"Diferencia Actual (Alt+Enter)"
+"தற்போதைய வேறுபாடு (Alt+Enter)"
 
 msgid ""
 "\n"
 "Last Difference (Alt+End)"
 msgstr ""
 "\n"
-"Última Diferencia (Alt+Fin)"
+"கடைசி வேறுபாடு (Alt+End)"
 
 msgid ""
 "\n"
 "Copy to Right (Alt+Right)"
 msgstr ""
 "\n"
-"Copiar a la der. (Alt+Der.)"
+"வலமிருந்து நகலெடு (Alt+வலது)"
 
 msgid ""
 "\n"
 "Copy to Left (Alt+Left)"
 msgstr ""
 "\n"
-"Copiar a la izq. (Alt+Izq.)"
+"இடதுக்கு நகலெடு (Alt+Left)"
 
 msgid ""
 "\n"
 "Copy to Right and Advance (Ctrl+Alt+Right)"
 msgstr ""
 "\n"
-"Copiar a la der. y avanzar (Ctrl+Alt+Der.)"
+"வலது மற்றும் முன்னேற்றத்திற்கு நகலெடுக்கவும் (Ctrl+Alt+Right)"
 
 msgid ""
 "\n"
 "Copy to Left and Advance (Ctrl+Alt+Left)"
 msgstr ""
 "\n"
-"Copiar a la izq. y avanzar (Ctrl+Alt+Izq.)"
+"இடது மற்றும் முன்னேற்றத்திற்கு நகலெடு (Ctrl+Alt+Left)"
 
 msgid ""
 "\n"
 "Copy All to Right"
 msgstr ""
 "\n"
-"Copiar todas al lado Derecho"
+"அனைத்தையும் வலமாக நகலெடுக்கவும்"
 
 msgid ""
 "\n"
 "Copy All to Left"
 msgstr ""
 "\n"
-"Copiar todas al lado Izquierdo"
+"அனைத்தையும் இடதுபுறமாக நகலெடுக்கவும்"
 
 msgid ""
 "\n"
 "Auto Merge (Ctrl+Alt+M)"
 msgstr ""
 "\n"
-"Autocombinar (Ctrl+Alt+M)"
+"ஆட்டோ மெர்ஜ் (Ctrl+Alt+M)"
 
 msgid ""
 "\n"
 "First File"
 msgstr ""
 "\n"
-"Primer archivo"
+"முதல் கோப்பு"
 
 msgid ""
 "\n"
 "Next File (Ctrl+F8)"
 msgstr ""
 "\n"
-"Siguiente archivo"
+"அடுத்த கோப்பு (Ctrl+F8)"
 
 msgid ""
 "\n"
 "Last File"
 msgstr ""
 "\n"
-"Ultimo archivo"
+"கடைசி கோப்பு"
 
 msgid ""
 "\n"
 "Previous File (Ctrl+F7)"
 msgstr ""
 "\n"
-"Archivo Previo (Ctrl+F7)"
+"முந்தைய கோப்பு (Ctrl+F7)"
 
 msgid "The adapted unpacker is applied to both files (one file only needs the extension)."
-msgstr "El desempaquetador elegido se aplica a ambos archivos (sólo un archivo necesita tener la extensión)."
+msgstr "அடடாப் செய்யப்பட்ட அன்பேக்கர் இரண்டு கோப்புகளுக்கும் பயன்படுத்தப்படுகிறது (ஒரு கோப்பிற்கு மட்டும் நீட்டிப்பு தேவை)."
 
 msgid "No prediffer (normal)"
-msgstr "Sin precomparación (normal)"
+msgstr "முன்னுரிமை இல்லை (சாதாரண)"
 
 msgid "Suggested plugins"
-msgstr "Plugins sugeridos"
+msgstr "பரிந்துரைக்கப்பட்ட செருகுநிரல்கள்"
 
 msgid "All plugins"
-msgstr "Todas las extensiones"
+msgstr "அனைத்து செருகுநிரல்களும்"
 
 #, c-format
 msgid "Private Build: %1"
-msgstr "Compilación Privada: %1"
+msgstr "தனியார் உருவாக்கம்: %1"
 
 msgid "Your software is up to date."
-msgstr "Tu programa está actualizado."
+msgstr "உங்கள் மென்பொருள் புதுப்பித்த நிலையில் உள்ளது."
 
 #, c-format
 msgid ""
 "A new version of WinMerge is available.\n"
 "%1 is now available (you have %2). Would you like to download it now?"
 msgstr ""
-"Una nueva versión de WinMerge está disponible.\n"
-"%1 está disponible (tu tienes %2). ¿Deseas descargarlo ahora?"
+"WinMerge இன் புதிய பதிப்பு உள்ளது.\n"
+"% 1 இப்போது கிடைக்கிறது (உங்களிடம் %2 உள்ளது). இப்போது பதிவிறக்கம் செய்ய விரும்புகிறீர்களா?"
 
 msgid "Failed to download latest version information"
-msgstr "Error al descargar la información de la última versión"
+msgstr "சமீபத்திய பதிப்பு தகவலை பதிவிறக்கம் செய்ய முடியவில்லை"
 
 msgid "Plugin Settings"
-msgstr "Configuración de plugins"
+msgstr "சொருகி அமைப்புகள்"
 
 msgid "WSH not found - .sct scripts disabled"
-msgstr "WSH no encontrado - scripts .sct deshabilitados"
+msgstr "WSH காணப்படவில்லை - .sct ஸ்கிரிப்டுகள் முடக்கப்பட்டுள்ளன"
 
 #, c-format
 msgid "G&o to Line %1"
